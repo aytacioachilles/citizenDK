@@ -1,0 +1,313 @@
+[
+  {
+    "exam": "real",
+    "question": "Er Danmark blandt de tre lande i verden, som menes at have mindst korruption i den offentlige sektor ifølge Transparency International?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Kan man ifølge dansk lov blive straffet med fængsel, hvis man ulovligt tvinger nogen til en religiøs vielse?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Er det ifølge dansk lov lovligt at have samleje med en person under 15 år, hvis personen har givet samtykke til samlejet?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Er det ifølge dansk lov tilladt at slå sin ægtefælle?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Er det muligt for en person over 18 år at få et CPR-nr., der svarer til et andet køn (skifte juridisk køn)?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Kan man ifølge dansk lov kræve, at svømmehaller har separate åbningstider for kvinder og mænd?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Kan en dansk statsborger blive straffet ved en dansk domstol, hvis vedkommende medvirker til menneskehandel i udlandet?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Kan forældre ifølge dansk lov bestemme, hvem en søn eller datter på 18 år må være kæreste med?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Har alle friskoler i Danmark pligt til at styrke elevernes respekt for ligestilling mellem kønnene?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Er Danmark blandt de ti lande i verden, som menes at have den højeste grad af pressefrihed ifølge Reporters Without Borders (Press Freedom Index, 2022)?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Kan præster og imamer blive straffet med fængsel, hvis de som led i religiøs oplæring udtrykker støtte til vold, terrorisme, frihedsberøvelse eller tvang?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Er Danmark blandt de ti lande i verden, som har den højeste grad af politisk frihed og borgerrettigheder (ifølge Freedom House, Freedom in the World 2023)?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem kan blive biskop i den danske folkekirke?",
+    "options": {
+      "A": "Kun mænd",
+      "B": "Kun kvinder",
+      "C": "Både mænd og kvinder"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Kan man ifølge dansk lov kræve, at en anden borger aldrig må udtale sig kritisk om ens religion?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Kan man ifølge dansk lov blive idømt den højeste straf (fængsel på livstid), hvis man med vold eller trussel om vold forsøger at forhindre ministre i at træffe en beslutning?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken myndighed kan opløse (forbyde) en forening, der søger at opnå sine mål med vold?",
+    "options": {
+      "A": "Politiet",
+      "B": "Domstolene"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Kan man komme i fængsel, hvis man ulovligt tvinger nogen til at indgå et ægteskab?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er den seksuelle lavalder i Danmark?",
+    "options": {
+      "A": "13 år",
+      "B": "15 år",
+      "C": "18 år"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Kan en forælder ifølge dansk lov bestemme, at kød, der serveres i en børnehave, stammer fra dyr, der er rituelt slagtet?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Kan man komme i fængsel for at sende sit barn til udlandet til forhold, der bringer barnets sundhed eller udvikling i alvorlig fare (genopdragelsesrejse)?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor stor en andel af borgerne i Danmark har tillid til, at politiet vil hjælpe dem, hvis de har brug for det (ifølge Justitsministeriets Tryghedsundersøgelse 2023)?",
+    "options": {
+      "A": "Cirka 25 procent",
+      "B": "Cirka 55 procent",
+      "C": "Cirka 85 procent"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Har alle friskoler i Danmark pligt til at styrke elevernes respekt for grundlæggende friheds- og menneskerettigheder?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Kan man blive straffet med fængsel, hvis man snyder med optællingen af stemmer til Folketinget?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken af følgende handlinger er ulovlig i Danmark?",
+    "options": {
+      "A": "At melde sig ud af et trossamfund",
+      "B": "At tvinge andre til en religiøs vielse"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Kan en regering bestemme, at en forening skal opløses for altid?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor stor en andel af borgerne i Danmark har tillid til, at politiet vil hjælpe dem, hvis de har brug for det (ifølge Justitsministeriets Tryghedsundersøgelse 2023)?",
+    "options": {
+      "A": "Nr. 5",
+      "B": "Nr. 15",
+      "C": "Nr. 25"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Kan man komme i fængsel, hvis man ulovligt hjælper fremmede staters efterretningstjenester med at virke i Danmark?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Kan kvinder være biskopper i den danske folkekirke?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Er det lovligt at lade sit barn under 18 år blive religiøst viet?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken placering indtager Danmark ud af 180 lande, når det gælder den højeste grad af pressefrihed ifølge Reporters Without Borders?",
+    "options": {
+      "A": "2",
+      "B": "26",
+      "C": "51"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Har alle friskoler og private grundskoler pligt til at udvikle og styrke elevernes respekt for ligestilling mellem kønnene?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Kan man komme i fængsel for at sende sit barn til udlandet til forhold, der bringer barnets sundhed eller udvikling i alvorlig fare (genopdragelsesrejse)?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Kan en familie ifølge dansk lov bestemme, hvem et familiemedlem på 18 år må være kæreste med?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Er det lovligt at gennemføre en religiøs vielse af mindreårige i Danmark?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  }
+]

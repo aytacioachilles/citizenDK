@@ -1,0 +1,1041 @@
+[
+  {
+    "exam": "real",
+    "question": "Kan statsministeren udpege en minister, der ikke er medlem af Folketinget?",
+    "options": {
+      "A": "Nej",
+      "B": "Ja"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken rettighed er sikret i grundloven?",
+    "options": {
+      "A": "Retten til at danne en forening",
+      "B": "Retten til at bære et våben",
+      "C": "Retten til at holde ferie"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem har den dømmende magt?",
+    "options": {
+      "A": "Folketinget",
+      "B": "Regeringen",
+      "C": "Domstolene"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Kan man være statsminister i mere end to valgperioder?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Kan en regering bestå af et eller flere partier, der ikke tilsammen har flertal i Folketinget?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor mange kommuner er der i Danmark?",
+    "options": {
+      "A": "275",
+      "B": "179",
+      "C": "98"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af følgende områder har kommunerne ansvaret for driften af?",
+    "options": {
+      "A": "Politi",
+      "B": "Ældrepleje",
+      "C": "Universiteter"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Inden for hvilket af følgende områder har Danmark et forbehold i forhold til samarbejdet i EU?",
+    "options": {
+      "A": "Forsvar",
+      "B": "Miljø",
+      "C": "Landbrug"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev regionerne oprettet?",
+    "options": {
+      "A": "2007",
+      "B": "1968",
+      "C": "1929"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Har et homoseksuelt par ret til at indgå ægteskab?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem har som udgangspunkt forældremyndigheden, når en mor og far, der bor sammen, har et fælles barn?",
+    "options": {
+      "A": "Faren og moren i fællesskab",
+      "B": "Moren",
+      "C": "Faren"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken mærkedag fejres den 5. juni?",
+    "options": {
+      "A": "Dronningens fødselsdag",
+      "B": "Danmarks befrielse",
+      "C": "Grundlovsdag"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket ministerium udsteder de officielle rejsevejledninger i forbindelse med COVID-19?",
+    "options": {
+      "A": "Udenrigsministeriet",
+      "B": "Sundheds- og Ældreministeriet",
+      "C": "Statsministeriet"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad hedder Radikale Venstres politiske leder?",
+    "options": {
+      "A": "Pernille Skipper",
+      "B": "Pia Olsen Dyhr",
+      "C": "Sofie Carsten Nielsen"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken meget omtalt aftale indgik regeringen med en række partier i efteråret 2020?",
+    "options": {
+      "A": "En aftale om en folkeskolereform",
+      "B": "En aftale om ret til tidlig pension",
+      "C": "En aftale om afskaffelse af værnepligten"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af følgende emner satte tv-vært Sofie Linde fokus på i et tv-show i august 2020?",
+    "options": {
+      "A": "Terrorisme",
+      "B": "Racisme",
+      "C": "Sexisme"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken af følgende borgmestre gik af i oktober 2020?",
+    "options": {
+      "A": "Borgmester i Aarhus Jacob Bundsgaard",
+      "B": "Overborgmester i København Frank Jensen",
+      "C": "Borgmester i Odense Peter Rahbæk Juel"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Er det et krav, at man som dansk statsborger skal være medlem af folkekirken?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem vedtager et lovforslag?",
+    "options": {
+      "A": "Regeringen",
+      "B": "Folketinget"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor ofte afholdes der kommunalvalg?",
+    "options": {
+      "A": "Hvert 3. år",
+      "B": "Hvert 4. år",
+      "C": "Hvert 5. år"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Kan et ægtepar ifølge dansk lov blive skilt, selvom den ene part ikke ønsker det?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor stor en del af Danmark er i dag opdyrket landbrugsland?",
+    "options": {
+      "A": "Næsten 1/6",
+      "B": "Næsten 1/3",
+      "C": "Næsten 2/3"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "På hvilken af følgende mærkedage holder dronningen hvert år en tale til hele rigsfællesskabet?",
+    "options": {
+      "A": "Juleaften",
+      "B": "Nytårsaften",
+      "C": "Grundlovsdag"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Kan regeringen bestemme, hvordan en dommer skal dømme i en konkret retssag?",
+    "options": {
+      "A": "Nej",
+      "B": "Ja"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor stor en del af de samlede offentlige udgifter går til indkomstoverførsler?",
+    "options": {
+      "A": "Ca. 1/3",
+      "B": "Ca. 1/6",
+      "C": "Ca. 1/9"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken af følgende øgrupper er i rigsfællesskab med Danmark?",
+    "options": {
+      "A": "Færøerne",
+      "B": "Orkneyøerne",
+      "C": "Shetlandsøerne"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem repræsenterer DA, når der skal forhandles kollektive overenskomster på det danske arbejdsmarked?",
+    "options": {
+      "A": "Arbejdsgiverne",
+      "B": "Regeringen",
+      "C": "Lønmodtagerne"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor gamle er kvinder i gennemsnit i Danmark, når de føder deres første barn?",
+    "options": {
+      "A": "Ca. 19 år",
+      "B": "Ca. 24 år",
+      "C": "Ca. 29 år"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor mange procent af stemmerne ved et folketingsvalg skal et parti normalt have for at komme i Folketinget?",
+    "options": {
+      "A": "Mindst 2 %",
+      "B": "Mindst 4 %",
+      "C": "Mindst 6 %"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken type regering har været mest almindelig i Danmark siden 2. Verdenskrig?",
+    "options": {
+      "A": "Mindretalsregeringer",
+      "B": "Flertalsregeringer"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem skal betale kirkeskat?",
+    "options": {
+      "A": "Alle skattepligtige borgere",
+      "B": "Skattepligtige medlemmer af folkekirken"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad omhandler Folketingets tiltale i rigsretssagen mod tidligere udlændinge- og integrationsminister Inger Støjberg blandt andet?",
+    "options": {
+      "A": "Beslaglæggelse af flygtninges værdigenstande ved indrejse",
+      "B": "Midlertidigt stop for familiesammenføringer",
+      "C": "Adskillelse af asylsøgende ægtefæller og samlevende par"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken begivenhed fandt sted den 15. maj 2021?",
+    "options": {
+      "A": "Prins Christians konfirmation",
+      "B": "Prins Joachims 50-års fødselsdag",
+      "C": "Kronprinsesse Mary og Kronprins Frederiks sølvbryllup"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad har protestgruppen Men in Black flere gange demonstreret imod?",
+    "options": {
+      "A": "Globaliseringen",
+      "B": "Indvandring",
+      "C": "COVID 19-restriktioner"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor stor en andel af Danmarks befolkning er medlem af folkekirken?",
+    "options": {
+      "A": "Cirka én ud af tre",
+      "B": "Cirka én ud af to",
+      "C": "Cirka tre ud af fire"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor længe kan politiet tilbageholde en anholdt person med lovligt ophold i Danmark, før personen skal stilles for en dommer?",
+    "options": {
+      "A": "I op til ét døgn",
+      "B": "I op til tre døgn",
+      "C": "I op til én uge"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad hedder den øverste domstol i Danmark?",
+    "options": {
+      "A": "Landsretten",
+      "B": "Højesteret",
+      "C": "Statsretten"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem har ansvaret for driften af jobcentrene?",
+    "options": {
+      "A": "Kommunerne",
+      "B": "Regionerne",
+      "C": "Staten"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Må en dommer bære synlige religiøse symboler i en retssal?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er den kriminelle lavalder i Danmark?",
+    "options": {
+      "A": "12 år",
+      "B": "15 år",
+      "C": "18 år"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor har USA luftbasen Thulebasen?",
+    "options": {
+      "A": "På Bornholm",
+      "B": "På Færøerne",
+      "C": "I Grønland"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad var middel-levetiden for kvinder i 2019-2020?",
+    "options": {
+      "A": "78-79 år",
+      "B": "83-84 år",
+      "C": "88-89 år"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor stor en del af alle lønmodtagere arbejder i dag i den offentlige sektor?",
+    "options": {
+      "A": "Cirka en tredjedel",
+      "B": "Cirka to tredjedele"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor gammel skal man være for at købe cigaretter i Danmark?",
+    "options": {
+      "A": "Mindst 16 år",
+      "B": "Mindst 18 år",
+      "C": "Mindst 21 år"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af følgende partier fik flest stemmer ved folketingsvalget i 2019?",
+    "options": {
+      "A": "Venstre",
+      "B": "Det Konservative Folkeparti",
+      "C": "Dansk Folkeparti"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor ofte skal der ifølge grundloven være folketingsvalg i Danmark?",
+    "options": {
+      "A": "Mindst hvert tredje år",
+      "B": "Mindst hvert fjerde år",
+      "C": "Mindst hvert femte år"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor højt er Danmarks højeste naturlige punkt?",
+    "options": {
+      "A": "Cirka 170 meter over havets overflade",
+      "B": "Cirka 470 meter over havets overflade",
+      "C": "Cirka 770 meter over havets overflade"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor mange indbyggere har Færøerne?",
+    "options": {
+      "A": "Cirka 50.000",
+      "B": "Cirka 150.000",
+      "C": "Cirka 250.000"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Kan man blive minister, hvis man ikke er medlem af Folketinget?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad har regionerne ansvaret for driften af?",
+    "options": {
+      "A": "Politi",
+      "B": "Børnehaver",
+      "C": "Sygehuse"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor mange indbyggere har Grønland?",
+    "options": {
+      "A": "Cirka 55.000",
+      "B": "Cirka 255.000",
+      "C": "Cirka 455.000"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er NATO?",
+    "options": {
+      "A": "Et internationalt frihandelsområde",
+      "B": "En international forsvarsalliance",
+      "C": "Et internationalt flygtningesamarbejde"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Er flertallet af lønmodtagere på det danske arbejdsmarked medlem af en fagforening?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Kan en regering bestemme, hvordan en dommer skal dømme i en retssag?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af følgende lande har flest indvandrere og efterkommere i Danmark oprindelse i?",
+    "options": {
+      "A": "Pakistan",
+      "B": "Iran",
+      "C": "Tyrkiet"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er Danmark og en række andre lande især forpligtet til ifølge Paris-aftalen fra 2015?",
+    "options": {
+      "A": "At reducere udslippet af drivhusgasser i atmosfæren",
+      "B": "At bruge flere penge på forsvaret",
+      "C": "At samarbejde om forebyggelse af grænseoverskridende kriminalitet"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem er aftaleparter, når der skal indgås overenskomster om fx løn, pension og arbejdsforhold på det private arbejdsmarked?",
+    "options": {
+      "A": "Stat og kommuner",
+      "B": "Regering og embedsmænd",
+      "C": "Fagforeninger og arbejdsgiverorganisationer"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem har som udgangspunkt forældremyndigheden, når en far og en mor, der er gift med hinanden, har et fælles barn?",
+    "options": {
+      "A": "Faren og moren i fællesskab",
+      "B": "Faren",
+      "C": "Moren"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Er der flest mænd eller kvinder, der fuldfører en videregående uddannelse?",
+    "options": {
+      "A": "Mænd",
+      "B": "Kvinder"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad hedder den danske EU-kommissær?",
+    "options": {
+      "A": "Margrethe Vestager",
+      "B": "Margrete Auken",
+      "C": "Helle Thorning-Schmidt"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvordan har de politiske partiers medlemstal overordnet udviklet sig siden 1950?",
+    "options": {
+      "A": "De er faldet",
+      "B": "De er steget"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken dag er det grundlovsdag i Danmark?",
+    "options": {
+      "A": "Den 5. juni",
+      "B": "Den 15. juni",
+      "C": "Den 23. juni"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Betaler alle skattepligtige borgere kirkeskat?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvortil kan man anke en afgørelse fra byretten?",
+    "options": {
+      "A": "Landsretten",
+      "B": "Højesteret"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad hedder Kronprins Frederiks og Kronprinsesse Marys ældste søn?",
+    "options": {
+      "A": "Christian",
+      "B": "Joachim",
+      "C": "Nikol"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor lang var middellevetiden for mænd i 2020-2021?",
+    "options": {
+      "A": "Cirka 73 år",
+      "B": "Cirka 80 år",
+      "C": "Cirka 87 år"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad hedder den nordiske organisation, der varetager samarbejdet mellem de nordiske landes parlamenter?",
+    "options": {
+      "A": "Den Nordiske Union",
+      "B": "Nordtinget",
+      "C": "Nordisk Råd"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem beslutter, om der skal være valg til Folketinget inden valgperiodens udløb?",
+    "options": {
+      "A": "Indenrigsministeren",
+      "B": "Statsministeren",
+      "C": "Folketingets formand"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem er den lovgivende, den udøvende og den dømmende magt fordelt mellem?",
+    "options": {
+      "A": "Folketinget, regeringen og domstolene",
+      "B": "Folketinget, kommunerne og domstolene",
+      "C": "Regeringen, regionerne og kommunerne"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad hedder Færøernes største by?",
+    "options": {
+      "A": "Reykjavik",
+      "B": "Nuuk",
+      "C": "Tórshavn"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Deltager Danmark i EU’s forsvars- og sikkerhedspolitik?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af følgende områder har staten ansvaret for driften af?",
+    "options": {
+      "A": "Politiet",
+      "B": "Børnehaver",
+      "C": "Sygehuse"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Er Grønland og Færøerne en del af EU?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af følgende lande har Danmark størst samhandel (import og eksport) med?",
+    "options": {
+      "A": "Kina",
+      "B": "Tyskland",
+      "C": "Storbritannien"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Kan den samme person være statsminister i mere end to valgperioder?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor ligger Danmarks højeste naturlige punkt?",
+    "options": {
+      "A": "I Nordsjælland",
+      "B": "I Sønderjylland",
+      "C": "I Østjylland"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken instans har som sin primære opgave at kontrollere offentlige myndigheders sagsbehandling?",
+    "options": {
+      "A": "Etisk Råd",
+      "B": "Folketingets Ombudsmand",
+      "C": "Pressenævnet"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken international organisation har vedtaget 17 såkaldte verdensmål om for eksempel ligestilling, klima og fattigdom?",
+    "options": {
+      "A": "FN",
+      "B": "EU",
+      "C": "WTO"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvordan har dagpengeperioden for arbejdsløse udviklet sig siden 1994?",
+    "options": {
+      "A": "Den er blevet længere",
+      "B": "Den er uændret",
+      "C": "Den er blevet kortere"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem består Rådet for Den Europæiske Union af?",
+    "options": {
+      "A": "Politikere direkte valgt af EU’s befolkninger",
+      "B": "Embedsmænd udpeget af EU-Kommissionen",
+      "C": "Ministre fra medlemsstaternes regeringer"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad hedder Grønlands største by?",
+    "options": {
+      "A": "Nuuk",
+      "B": "Tórshavn",
+      "C": "Reykjavik"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor gammel skal man mindst være for at købe stærk spiritus?",
+    "options": {
+      "A": "15",
+      "B": "18",
+      "C": "21"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Kan regionerne opkræve skatter?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvordan har de politiske partiers samlede medlemstal overordnet udviklet sig siden 1950?",
+    "options": {
+      "A": "Det er steget",
+      "B": "Det er faldet"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Kan to personer af samme køn indgå et ægteskab?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket EU-land har flest indvandrere og efterkommere i Danmark oprindelse i?",
+    "options": {
+      "A": "Spanien",
+      "B": "Polen",
+      "C": "Frankrig"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor højt over havets overflade ligger Danmarks højeste naturlige punkt?",
+    "options": {
+      "A": "Cirka 170 meter",
+      "B": "Cirka 470 meter",
+      "C": "Cirka 770 meter"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvordan har andelen af borgere over 64 år udviklet sig siden 1980?",
+    "options": {
+      "A": "Andelen er faldet",
+      "B": "Andelen er steget"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af følgende partier har flest borgmesterposter i Danmark?",
+    "options": {
+      "A": "Venstre",
+      "B": "Dansk Folkeparti",
+      "C": "Det Konservative Folkeparti"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Skal alle skattepligtige borgere betale kirkeskat?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem har ansvaret for driften af børne- og ungdomstandplejen?",
+    "options": {
+      "A": "Kommunerne",
+      "B": "Regionerne",
+      "C": "Staten"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem består Europa-Parlamentet af?",
+    "options": {
+      "A": "Embedsmænd udpeget af EU-Kommissionen",
+      "B": "Ministre fra medlemsstaternes regeringer",
+      "C": "Politikere direkte valgt af EU’s befolkninger"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvortil kan man normalt anke en afgørelse fra byretten?",
+    "options": {
+      "A": "Landsretten",
+      "B": "Højesteret"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvordan har arbejdsløsheden i Danmark overordnet udviklet sig de sidste ti år?",
+    "options": {
+      "A": "Den er vokset",
+      "B": "Den er faldet"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Fra hvilket land kom der særligt mange asylansøgere til Danmark i 2015?",
+    "options": {
+      "A": "Syrien",
+      "B": "Iran",
+      "C": "Ukraine"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor stor en andel af Grønland er dækket af is hele året?",
+    "options": {
+      "A": "Cirka 40 procent",
+      "B": "Cirka 60 procent",
+      "C": "Cirka 80 procent"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Er der flest mænd eller kvinder, der gennemfører en videregående uddannelse?",
+    "options": {
+      "A": "Mænd",
+      "B": "Kvinder"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor stor en andel af Danmarks befolkning udgøres af indvandrere og deres efterkommere?",
+    "options": {
+      "A": "Cirka 5 procent",
+      "B": "Cirka 15 procent",
+      "C": "Cirka 25 procent"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor stor en andel af kvinder i Danmark mellem 16 og 64 år er på arbejdsmarkedet?",
+    "options": {
+      "A": "Cirka 45 procent",
+      "B": "Cirka 60 procent",
+      "C": "Cirka 75 procent"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er der sket med folkepensionsalderen siden 2018?",
+    "options": {
+      "A": "Den er blevet højere",
+      "B": "Den er uændret",
+      "C": "Den er blevet lavere"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilke partier indgår i den nuværende regering?",
+    "options": {
+      "A": "Socialdemokratiet, SF og Radikale Venstre",
+      "B": "Socialdemokratiet, Liberal Alliance og Det Konservative Folkeparti",
+      "C": "Socialdemokratiet, Venstre og Moderaterne"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er den type vedvarende energi som producerer den største andel af Danmarks el-forbrug?",
+    "options": {
+      "A": "Solenergi",
+      "B": "Vindenergi",
+      "C": "Bølgeenergi"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem afgør, om en borger skal varetægtsfængsles?",
+    "options": {
+      "A": "En advokat",
+      "B": "En dommer",
+      "C": "En politibetjent"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er moms?",
+    "options": {
+      "A": "En afgift på blandt andet varer man køber i butikkerne",
+      "B": "En skat man betaler af sin indkomst",
+      "C": "Et gebyr man betaler for at have adgang til DR's tv- og radiokanaler"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor ofte afholdes der valg til kommunalbestyrelser og regionsråd?",
+    "options": {
+      "A": "Hvert tredje år",
+      "B": "Hvert fjerde år",
+      "C": "Hvert femte år"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket parti fik flest stemmer ved valget til Europa-Parlamentet i Danmark i juni 2024?",
+    "options": {
+      "A": "Socialistisk Folkeparti",
+      "B": "Danmarksdemokraterne",
+      "C": "Radikale Venstre"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvordan har antallet af studerende på de lange videregående uddannelser overordnet udviklet sig de seneste 20 år?",
+    "options": {
+      "A": "Det er steget",
+      "B": "Det er faldet"
+    },
+    "correct": "A"
+  }
+]

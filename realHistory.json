@@ -1,0 +1,1232 @@
+[
+  {
+    "exam": "real",
+    "question": "Hvilket parti stemte arbejdere typisk på i midten af 1900-tallet?",
+    "options": {
+      "A": "Venstre",
+      "B": "Socialdemokratiet",
+      "C": "Radikale Venstre"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilke af følgende landområder mistede Danmark i 1658?",
+    "options": {
+      "A": "Skåne, Halland og Blekinge",
+      "B": "Shetlandsøerne og Orkneyøerne",
+      "C": "De Vestindiske Øer"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev der indført fri abort i Danmark?",
+    "options": {
+      "A": "1935",
+      "B": "1951",
+      "C": "1973"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "I hvilket årti blev Danmark ramt af en flerårig økonomisk krise, som blev udløst af store prisstigninger på olie?",
+    "options": {
+      "A": "1930’erne",
+      "B": "1950’erne",
+      "C": "1970’erne"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Ved hvilken grundlovsændring fik kvinder valgret til Folketinget?",
+    "options": {
+      "A": "Grundlovsændringen i 1866",
+      "B": "Grundlovsændringen i 1915",
+      "C": "Grundlovsændringen i 1953"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket parti tilhørte Poul Schlüter, som var statsminister i perioden 1982-93?",
+    "options": {
+      "A": "Socialdemokratiet",
+      "B": "Radikale Venstre",
+      "C": "Det Konservative Folkeparti"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Var Danmark besat af tyske tropper under 1. Verdenskrig?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken religion var den mest udbredte i Danmark i middelalderen (cirka 1050-1500)?",
+    "options": {
+      "A": "Katolsk kristendom",
+      "B": "Protestantisk kristendom",
+      "C": "Ortodoks kristendom"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev Enhedslisten valgt til Folketinget første gang?",
+    "options": {
+      "A": "1973",
+      "B": "1994",
+      "C": "2011"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor længe varede Danmarks officielle militære modstand, da Tyskland angreb Danmark den 9. april 1940?",
+    "options": {
+      "A": "Mindre end en dag",
+      "B": "Cirka en måned",
+      "C": "Mere end et år"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev andelsbevægelsen grundlagt i Danmark med oprettelsen af de første brugsforeninger og andelsmejerier?",
+    "options": {
+      "A": "I 1700-tallet",
+      "B": "I 1800-tallet",
+      "C": "I 1900-tallet"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket år blev Margrethe d. 2. dronning af Danmark?",
+    "options": {
+      "A": "1972",
+      "B": "1982",
+      "C": "1992"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken organisation blev Danmark medlem af i 1945?",
+    "options": {
+      "A": "Verdenshandelsorganisationen (WTO)",
+      "B": "Den Europæiske Union (EU)",
+      "C": "De Forenede Nationer (FN)"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad var baggrunden for Kanslergadeforliget i 1933?",
+    "options": {
+      "A": "Integrationsproblemer",
+      "B": "Miljøproblemer",
+      "C": "Økonomiske problemer"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "I hvilket århundrede blev England erobret af den danske konge Svend Tveskæg?",
+    "options": {
+      "A": "1000-tallet",
+      "B": "1300-tallet",
+      "C": "1600-tallet"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af følgende partier har haft statsministerposten i sammenlagt flest år siden Systemskiftet i 1901?",
+    "options": {
+      "A": "Venstre",
+      "B": "Det Konservative Folkeparti"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket land blev Dansk Vestindien solgt til i 1917?",
+    "options": {
+      "A": "Frankrig",
+      "B": "USA",
+      "C": "Storbritannien"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken gruppe borgere blev i tusindtal hjulpet med at flygte fra Danmark til Sverige i oktober 1943?",
+    "options": {
+      "A": "Danske kommunister",
+      "B": "Danske soldater",
+      "C": "Danske jøder"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket år blev Dansk Folkeparti valgt til Folketinget første gang?",
+    "options": {
+      "A": "1958",
+      "B": "1978",
+      "C": "1998"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev Danmark ramt af pest-epidemien Den Sorte Død, som slog en stor del af befolkningen ihjel?",
+    "options": {
+      "A": "I 1300-tallet",
+      "B": "I 1600-tallet",
+      "C": "I 1900-tallet"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår gjorde en større gruppe af unge oprør mod samfundets traditionelle normer, så det blandt andet blev mere accepteret at få børn uden at være gift?",
+    "options": {
+      "A": "I slutningen af 1920’erne",
+      "B": "I slutningen af 1940’erne",
+      "C": "I slutningen af 1960’erne"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad var den historiske begivenhed i 1864?",
+    "options": {
+      "A": "Danmark tabte Den 2. Slesvigske Krig",
+      "B": "Danmark fik sin første socialdemokratiske statsminister",
+      "C": "Danske kvinder fik valgret til Folketinget"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår trådte Danmarks Riges Grundlov i kraft?",
+    "options": {
+      "A": "1809",
+      "B": "1849",
+      "C": "1889"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem var Danmarks første kvindelige statsminister?",
+    "options": {
+      "A": "Margrethe Vestager",
+      "B": "Helle Thorning-Schmidt",
+      "C": "Mette Frederiksen"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken befolkningsgruppe fik begrænset deres rettigheder med indførelsen af stavnsbåndet i 1733?",
+    "options": {
+      "A": "Borgerskabet",
+      "B": "Bønderne",
+      "C": "Adelen"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår besluttede Island ved en folkeafstemning at oprette en republik, der var uafhængig af Danmark?",
+    "options": {
+      "A": "1904",
+      "B": "1944",
+      "C": "1984"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket parti tilhørte Lars Løkke Rasmussen, da han var statsminister i perioderne 2009-11 og 2015-19?",
+    "options": {
+      "A": "Venstre",
+      "B": "Socialdemokratiet",
+      "C": "Det Konservative Folkeparti"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af følgende partier er ældst?",
+    "options": {
+      "A": "Det Konservative Folkeparti",
+      "B": "Dansk Folkeparti",
+      "C": "Socialistisk Folkeparti"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "I hvilket af følgende århundreder fandt dansk slavehandel mellem Afrika og de danske kolonier i Caribien sted?",
+    "options": {
+      "A": "1100-tallet",
+      "B": "1400-tallet",
+      "C": "1700-tallet"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af følgende steder i København blev der begået et terrorangreb i 2015?",
+    "options": {
+      "A": "Ved den jødiske synagoge",
+      "B": "Ved Hovedbanegården",
+      "C": "I lufthavnen"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem fik især betydning for folkehøjskolerne i 1800-tallet?",
+    "options": {
+      "A": "Steen Steensen Blicher",
+      "B": "Johannes V. Jensen",
+      "C": "N.F.S. Grundtvig"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket emne har der været afholdt flest folkeafstemninger om i Danmark siden 1953?",
+    "options": {
+      "A": "Grundloven",
+      "B": "Valgretsalderen",
+      "C": "Danmarks forhold til EU"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem var Danmarks første socialdemokratiske statsminister?",
+    "options": {
+      "A": "Thorvald Stauning",
+      "B": "Jens Otto Krag",
+      "C": "Anker Jørgensen"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "I forbindelse med hvilken krig blev Danmark ramt af influenzaepidemien Den Spanske Syge?",
+    "options": {
+      "A": "2. Slesvigske Krig",
+      "B": "1. Verdenskrig",
+      "C": "2. Verdenskrig"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket symbol indgår i Færøernes flag?",
+    "options": {
+      "A": "En cirkel",
+      "B": "En stjerne",
+      "C": "Et kors"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvordan ændrede forholdet mellem kongen og kirken sig som følge af reformationen i 1500-tallet?",
+    "options": {
+      "A": "Kongen fik mindre magt over kirken",
+      "B": "Kongen fik mere magt over kirken"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket land har været i union med Danmark i over 400 år (mellem 1380 og 1814)?",
+    "options": {
+      "A": "Sverige",
+      "B": "Norge",
+      "C": "Finland"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Støttede den daværende danske regering den amerikansk ledede invasion af Irak i 2003 (Irak-krigen)?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev Danmark medlem af NATO?",
+    "options": {
+      "A": "1949",
+      "B": "1957",
+      "C": "1973"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken politisk bevægelse var rødstrømpebevægelsen en del af?",
+    "options": {
+      "A": "Arbejderbevægelsen i 1930’erne",
+      "B": "Kvindebevægelsen i 1970’erne",
+      "C": "Miljøbevægelsen i 1990’erne"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket parti var Poul Nyrup Rasmussen formand for, da han var statsminister 1993-2001?",
+    "options": {
+      "A": "Det Konservative Folkeparti",
+      "B": "Venstre",
+      "C": "Socialdemokratiet"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor længe varede Danmarks officielle militære modstand, da Tyskland angreb Danmark den 9. april 1940?",
+    "options": {
+      "A": "Mindre end en dag",
+      "B": "Mellem en og to uger",
+      "C": "Cirka halvanden måned"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem samlede i slutningen af 1300-tallet Danmark, Norge og Sverige i en union?",
+    "options": {
+      "A": "Knud den Store",
+      "B": "Margrete den 1.",
+      "C": "Christian den 3"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er Vitus Bering særligt kendt for?",
+    "options": {
+      "A": "Han var filosof",
+      "B": "Han var opdagelsesrejsende",
+      "C": "Han var komponist"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket politisk parti blev dannet i slutningen af 1950’erne af en gruppe tidligere medlemmer af Danmarks Kommunistiske Parti (DKP)?",
+    "options": {
+      "A": "Socialistisk Folkeparti",
+      "B": "Alternativet",
+      "C": "Radikale Venstre"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket land sendte Danmark soldater til på baggrund af terrorangrebet i USA den 11. september 2001?",
+    "options": {
+      "A": "Mali",
+      "B": "Kosovo",
+      "C": "Afghanistan"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af følgende partier har aldrig været med i en regering?",
+    "options": {
+      "A": "Radikale Venstre",
+      "B": "Enhedslisten",
+      "C": "Socialistisk Folkeparti"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem fik mere magt med enevælden, der blev indført i Danmark i 1660-61?",
+    "options": {
+      "A": "Det Konservative Folkeparti",
+      "B": "Venstre",
+      "C": "Socialdemokratiet"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad karakteriserede blandt andet 1960’erne i Danmark?",
+    "options": {
+      "A": "Oliekrise og høj arbejdsløshed",
+      "B": "Høj økonomisk vækst med stor stigning i produktion og forbrug"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken af følgende politikere var med til at stifte Dansk Folkeparti?",
+    "options": {
+      "A": "Pernille Vermund",
+      "B": "Inger Støjberg",
+      "C": "Pia Kjærsgaard"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev Nina Bang udnævnt til Danmarks første kvindelige minister?",
+    "options": {
+      "A": "1924",
+      "B": "1941",
+      "C": "1963"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Var Danmark besat af tyske tropper under 1. Verdenskrig (1914-18)?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af følgende partier er nyest?",
+    "options": {
+      "A": "Liberal Alliance",
+      "B": "Det Konservative Folkeparti",
+      "C": "Enhedslisten"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilke af følgende krige med dansk deltagelse foregik i 1600-tallet?",
+    "options": {
+      "A": "De Slesvigske Krige",
+      "B": "Englandskrigene",
+      "C": "Svenskekrigene"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Fik kvinder valgret til Folketinget med grundloven i 1849?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken international organisation blev Danmark medlem af i 1945?",
+    "options": {
+      "A": "EU",
+      "B": "WTO",
+      "C": "FN"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår trådte Danmarks Riges Grundlov i kraft?",
+    "options": {
+      "A": "1849",
+      "B": "1864",
+      "C": "1899"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvorfor kaldes folketingsvalget i 1973 for Jordskredsvalget?",
+    "options": {
+      "A": "Fordi der blev valgt flere kvinder end mænd til Folketinget",
+      "B": "Fordi der var mange vælgere, der stemte på nye partier",
+      "C": "Fordi Socialdemokratiet opnåede absolut flertal"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår fandt den danske regerings samarbejdspolitik med Tyskland under 2. Verdenskrig sted?",
+    "options": {
+      "A": "1940-43",
+      "B": "1943-45"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "I hvilken sektor arbejdede der flest mennesker omkring 1850?",
+    "options": {
+      "A": "Industri",
+      "B": "Fiskeri",
+      "C": "Landbrug"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken type regering har været mest almindelig i Danmark siden 2. Verdenskrig?",
+    "options": {
+      "A": "Mindretalsregering",
+      "B": "Flertalsregering"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket år blev Margrethe den 2. dronning af Danmark?",
+    "options": {
+      "A": "1962",
+      "B": "1972",
+      "C": "1982"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er Knud Rasmussen (1879-1933) særligt kendt for?",
+    "options": {
+      "A": "Han var polarforsker",
+      "B": "Han var atomfysiker",
+      "C": "Han var billedhugger"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Langs hvilken kyst i Danmark ligger der særligt mange bunkere, som tyskerne fik bygget under 2. Verdenskrig?",
+    "options": {
+      "A": "Lollands sydkyst",
+      "B": "Sjællands østkyst",
+      "C": "Jyllands vestkyst"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev Nordslesvig, i dag kaldet Sønderjylland, genforenet med Danmark?",
+    "options": {
+      "A": "1864",
+      "B": "1901",
+      "C": "1920"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket land anlagde en militær base i det nordlige Grønland i begyndelsen af 1950'erne?",
+    "options": {
+      "A": "Canada",
+      "B": "Tyskland",
+      "C": "USA"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af Danmarks EU-forbehold var der folkeafstemning om i 2022?",
+    "options": {
+      "A": "EU's fælles valuta (euroen)",
+      "B": "EU's fælles rets- og udlændingepolitik",
+      "C": "EU's forsvars- og sikkerhedspolitik"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket land sendte Danmark soldater til i 2003 på baggrund af amerikansk invasion?",
+    "options": {
+      "A": "Syrien",
+      "B": "Irak",
+      "C": "Libyen"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev det forbudt for lærerne at slå eleverne i folkeskolen?",
+    "options": {
+      "A": "1967",
+      "B": "1987",
+      "C": "2007"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket parti stemte landmænd typisk på i midten af 1900-tallet?",
+    "options": {
+      "A": "Dansk Folkeparti",
+      "B": "Det Konservative Folkeparti",
+      "C": "Venstre"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket parti har Inger Støjberg tidligere været medlem af?",
+    "options": {
+      "A": "Socialdemokratiet",
+      "B": "Venstre",
+      "C": "Det Konservative Folkeparti"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev Moderaterne valgt til Folketinget første gang?",
+    "options": {
+      "A": "2007",
+      "B": "2015",
+      "C": "2022"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad skete i 1849?",
+    "options": {
+      "A": "Danmark mistede Skåne",
+      "B": "Stavnsbåndet blev ophævet",
+      "C": "Grundloven blev indført"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "I hvilket af følgende årtier var Thorvald Stauning statsminister?",
+    "options": {
+      "A": "1930’erne",
+      "B": "1950’erne",
+      "C": "1970’erne"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår er landegrænsen mellem Danmark og Tyskland sidst blevet ændret?",
+    "options": {
+      "A": "1720",
+      "B": "1820",
+      "C": "1920"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af følgende partier har samlet set været i regering flest år?",
+    "options": {
+      "A": "Socialistisk Folkeparti",
+      "B": "Radikale Venstre",
+      "C": "Dansk Folkeparti"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken funktion havde Kronborg Slot i Helsingør frem til 1857?",
+    "options": {
+      "A": "Hjemsted for Højesteret",
+      "B": "Gravsted for danske konger og dronninger",
+      "C": "Opkrævning af told fra skibe, der sejlede gennem Øresund"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken ø er blandt andet kendt for sine runde kirker?",
+    "options": {
+      "A": "Bornholm",
+      "B": "Samsø",
+      "C": "Langeland"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket land blev Danmark angrebet og besejret af i Slaget på Reden i 1801 under Napoleonskrigene?",
+    "options": {
+      "A": "Storbritannien",
+      "B": "Nederlandene",
+      "C": "Spanien"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad kendetegnede Danmarks forsvarspolitik gennem det meste af Den Kolde Krig?",
+    "options": {
+      "A": "Danmark var allieret med USA gennem NATO",
+      "B": "Danmark var neutralt",
+      "C": "Danmark var allieret med Sovjetunionen gennem Warszawa-pagten"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "På hvilken dato markeres Danmarks befrielse i 1945 efter fem års tysk besættelse?",
+    "options": {
+      "A": "8. marts",
+      "B": "9. april",
+      "C": "5. maj"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad blev der afholdt en folkeafstemning om i 1972?",
+    "options": {
+      "A": "Danmarks indtræden i EF",
+      "B": "Indførelsen af folkepension",
+      "C": "Ophævelsen af DR’s monopol på at sende tv"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad blev vedtaget med grundlovsændringen i 1915?",
+    "options": {
+      "A": "At kvinder fik mulighed for at arve den danske trone",
+      "B": "At kvinder fik stemmeret til Folketinget",
+      "C": "At kvinder skulle aftjene værnepligt"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad var den primære baggrund for den politiske aftale Kanslergadeforliget i 1933?",
+    "options": {
+      "A": "Økonomiske problemer",
+      "B": "Udenrigspolitiske problemer",
+      "C": "Miljøproblemer"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af følgende partier er nyest?",
+    "options": {
+      "A": "Alternativet",
+      "B": "Socialistisk Folkeparti",
+      "C": "Enhedslisten"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvor ligger flest danske konger og dronninger begravet?",
+    "options": {
+      "A": "Viborg Domkirke",
+      "B": "Roskilde Domkirke",
+      "C": "Ribe Domkirke"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem fik mere magt med enevælden, der blev indført i Danmark 1660-61?",
+    "options": {
+      "A": "Adelen",
+      "B": "Kirken",
+      "C": "Kongen"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad indebar reformationen i Danmark i 1536?",
+    "options": {
+      "A": "Indførelsen af en demokratisk grundlov",
+      "B": "Overgangen fra katolsk til protestantisk kristendom",
+      "C": "Ophævelse af kongens eneret på at handle med udlandet"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad blev resultatet af Den 2. Slesvigske Krig i 1864?",
+    "options": {
+      "A": "Danmark erobrede Slesvig",
+      "B": "Danmark tabte Slesvig"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev Danmarks Riges Grundlov indført?",
+    "options": {
+      "A": "1849",
+      "B": "1814",
+      "C": "1789"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken konge fik skrevet på den ene af Jellingstenene, at han gjorde danskerne (danerne) kristne?",
+    "options": {
+      "A": "Svend Tveskæg",
+      "B": "Harald Blåtand",
+      "C": "Valdemar Sejr"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår fik Danmark sin første kvindelige minister?",
+    "options": {
+      "A": "1924",
+      "B": "1947",
+      "C": "1975"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår fik Danmark sin første socialdemokratiske statsminister?",
+    "options": {
+      "A": "1871",
+      "B": "1924",
+      "C": "1966"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad arbejdede rødstrømpebevægelsen blandt andet for?",
+    "options": {
+      "A": "Ligestilling mellem mænd og kvinder",
+      "B": "Indførelse af 12 års grundskole",
+      "C": "Folkepension til alle"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilke tre lande dannede Kalmarunionen i 1397?",
+    "options": {
+      "A": "Danmark, Sverige og England",
+      "B": "Danmark, Norge og Sverige",
+      "C": "Danmark, England og Norge"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår trådte loven om hjemmestyre i Grønland i kraft?",
+    "options": {
+      "A": "1949",
+      "B": "1979",
+      "C": "2009"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "I hvilket årti ophørte Danmarks Radios monopol og dermed eneretten til at sende dansk tv?",
+    "options": {
+      "A": "1940’erne",
+      "B": "1960’erne",
+      "C": "1980’erne"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Fra hvilket af følgende lande kom der flest indvandrere til Danmark i 1960’erne?",
+    "options": {
+      "A": "Ungarn",
+      "B": "Tyrkiet",
+      "C": "Vietnam"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af følgende politiske partier er ældst?",
+    "options": {
+      "A": "Det Konservative Folkeparti",
+      "B": "Socialistisk Folkeparti",
+      "C": "Dansk Folkeparti"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "I hvilket år blev Øresundsbroen åbnet?",
+    "options": {
+      "A": "I 1970",
+      "B": "I 1985",
+      "C": "I 2000"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket land var Danmark i union med indtil 1814?",
+    "options": {
+      "A": "Sverige",
+      "B": "Estland",
+      "C": "Norge"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket år ophørte den danske regerings samarbejdspolitik med den tyske besættelsesmagt under 2. Verdenskrig?",
+    "options": {
+      "A": "1941",
+      "B": "1943",
+      "C": "1945"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken historisk begivenhed fandt sted i 1864?",
+    "options": {
+      "A": "Danmark tabte Den 2. Slesvigske Krig",
+      "B": "Kongen underskrev Danmarks Riges Grundlov",
+      "C": "Briterne bombarderede København"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev den første lov om folkepension vedtaget?",
+    "options": {
+      "A": "1933",
+      "B": "1956",
+      "C": "1982"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad kaldes den bevægelse, hvor bønderne i 1800-tallet slog sig sammen om at oprette mejerier og brugsforeninger?",
+    "options": {
+      "A": "Græsrodsbevægelsen",
+      "B": "Modstandsbevægelsen",
+      "C": "Andelsbevægelsen"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken af følgende befolkningsgrupper fik partiet Venstre flest stemmer fra i slutningen af 1800-tallet?",
+    "options": {
+      "A": "Godsejere",
+      "B": "Arbejdere",
+      "C": "Bønder"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår fik personer af samme køn ret til at indgå ægteskab?",
+    "options": {
+      "A": "1972",
+      "B": "1992",
+      "C": "2012"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket politisk parti opstod i 1870’erne som en del af arbejderbevægelsen?",
+    "options": {
+      "A": "Radikale Venstre",
+      "B": "Socialdemokratiet",
+      "C": "Socialistisk Folkeparti"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev Grønlands hjemmestyreordning indført?",
+    "options": {
+      "A": "1949",
+      "B": "1979",
+      "C": "2019"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad stemte danskerne ja til ved en folkeafstemning i 1972?",
+    "options": {
+      "A": "En ændring af tronfølgeloven",
+      "B": "En nedsættelse af valgretsalderen",
+      "C": "Medlemskab af Det Europæiske Fællesskab"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår ophørte Den Kolde Krig?",
+    "options": {
+      "A": "Omkring 1950",
+      "B": "Omkring 1970",
+      "C": "Omkring 1990"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilke problemer i samfundet skulle Kanslergadeforliget fra 1933 især løse?",
+    "options": {
+      "A": "Økonomiske problemer",
+      "B": "Miljømæssige problemer",
+      "C": "Integrationsproblemer"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken begivenhed blev markeret den 5. april 2021?",
+    "options": {
+      "A": "50-årsdagen for Danmarks indtræden i Det Europæiske Fællesskab (EF)",
+      "B": "75-årsdagen for, at den sovjetiske hær forlod Bornholm efter 2. Verdenskrig",
+      "C": "100-årsdagen for Sønderjyllands genforening med resten af Danmark"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken konge står bag opførelsen af blandt andet Rundetårn og Rosenborg Slot i København?",
+    "options": {
+      "A": "Christian den 4.",
+      "B": "Christian den 7.",
+      "C": "Christian den 10."
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Fra hvilket land kom der over 200.000 krigsflygtninge til Danmark i forbindelse med 2. Verdenskrig?",
+    "options": {
+      "A": "Frankrig",
+      "B": "Tyskland",
+      "C": "Rusland"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken tidligere dansk statsminister blev i 2009 generalsekretær for NATO?",
+    "options": {
+      "A": "Poul Nyrup Rasmussen",
+      "B": "Anders Fogh Rasmussen",
+      "C": "Helle Thorning-Schmidt"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken af følgende internationale organisationer blev Danmark medlem af i 1973?",
+    "options": {
+      "A": "EF",
+      "B": "WTO",
+      "C": "OECD"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "I hvilket år blev amterne erstattet af regionerne?",
+    "options": {
+      "A": "1933",
+      "B": "1968",
+      "C": "2007"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken begivenhed fandt sted i Danmark i 1807?",
+    "options": {
+      "A": "Danmark måtte afstå Slesvig",
+      "B": "Kongen underskrev Danmarks Riges Grundlov",
+      "C": "Briterne bombarderede København"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "I hvilket årti åbnede Danmarks første jernbanestrækning?",
+    "options": {
+      "A": "1780’erne",
+      "B": "1840’erne",
+      "C": "1910’erne"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket politisk parti blev dannet i slutningen af 1950’erne som udbryder af Danmarks Kommunistiske Parti (DKP)?",
+    "options": {
+      "A": "Enhedslisten",
+      "B": "Det Radikale Venstre",
+      "C": "Socialistisk Folkeparti"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad indebar den seneste ændring af grundloven i 1953 blandt andet?",
+    "options": {
+      "A": "At valgretsalderen blev sænket til 18 år",
+      "B": "At kvinder fik mulighed for at arve tronen",
+      "C": "At Danmark blev medlem af FN"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Omkring hvilken krig blev Danmark ramt af influenza-epidemien ”Den Spanske Syge”?",
+    "options": {
+      "A": "2. Slesvigske Krig",
+      "B": "1. Verdenskrig",
+      "C": "2. Verdenskrig"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvorfor kaldes folketingsvalget i 1973 for ”Jordskredsvalget”?",
+    "options": {
+      "A": "Fordi der blev valgt flere kvinder end mænd til Folketinget",
+      "B": "Fordi mange vælgere stemte på nye partier",
+      "C": "Fordi Socialdemokratiet opnåede absolut flertal"
+    },
+    "correct": "B"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "exam": "real",
+    "question": "Hvilken ændring skete der med Grønlands repræsentation på de danske mønter, der blev sat i omløb i december 2025?",
+    "options": {
+      "A": "Grønland delte stadig plads med Færøerne",
+      "B": "Grønland fik sin egen selvstændige plads",
+      "C": "Grønland blev fjernet fra mønterne"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken ændring vedrørende udvisning af kriminelle udlændinge blev annonceret i januar 2026 med ikrafttræden 1. maj 2026?",
+    "options": {
+      "A": "Automatisk udvisning af udenlandske statsborgere dømt til mindst 1 års ubetinget fængsel for alvorlige forbrydelser",
+      "B": "Udvisning kun ved domme på over 2 år",
+      "C": "Ingen ændringer – kun frivillig hjemsendelse"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad handlede den store diplomatiske krise mellem Danmark og USA om i vinteren 2025–2026?",
+    "options": {
+      "A": "USA’s præsident Donald Trumps krav om at overtage eller få større indflydelse over Grønland",
+      "B": "Strid om dansk eksport af vindmøller",
+      "C": "NATO’s forsvarsudgifter"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvorfor udskrev statsminister Mette Frederiksen folketingsvalg den 26. februar 2026?",
+    "options": {
+      "A": "For at udnytte øget opbakning efter hendes håndtering af Grønland-krisen med USA",
+      "B": "På grund af en økonomisk recession",
+      "C": "For at imødekomme oppositionens krav om nyvalg"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken stramning af arbejdstilladelsesreglerne blev indført i januar 2026?",
+    "options": {
+      "A": "Højere lønkrav og gebyrer for arbejdstilladelser til udlændinge",
+      "B": "Lavere lønkrav for at tiltrække flere udlændinge",
+      "C": "Ingen ændringer i reglerne for arbejdstilladelser"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket museum i København fejrede sit 30-års jubilæum med gratis adgang, kage og limousinetransport den 15. marts 2026?",
+    "options": {
+      "A": "ARKEN Museum for Samtidskunst",
+      "B": "Louisiana Museum of Modern Art",
+      "C": "SMK – Statens Museum for Kunst"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket standpunkt tog Mette Frederiksen gentagne gange over for USA’s præsident Donald Trump angående Grønland i vinteren 2025–2026?",
+    "options": {
+      "A": "Grønland var til salg for den rigtige pris",
+      "B": "Grønland var ikke til salg, og rigsfællesskabet skulle bevares",
+      "C": "Grønland skulle blive fuldt uafhængigt øjeblikkeligt"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad understregede både den danske regering og Grønlands ledelse i fælles udtalelser i januar 2026?",
+    "options": {
+      "A": "At Grønland burde vælge USA frem for Danmark",
+      "B": "At Danmark og Grønland stod sammen i rigsfællesskabet",
+      "C": "At Grønland skulle forlade rigsfællesskabet hurtigst muligt"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken sportsevent blev annonceret som en stor kommende begivenhed i Danmark i 2026, med finaler i Horsens?",
+    "options": {
+      "A": "Thomas & Uber Cup Finals i badminton",
+      "B": "VM i håndbold",
+      "C": "Tour de France-etape"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad gik den såkaldte 'fødevarecheck', der blev vedtaget den 26. februar 2026, ud på?",
+    "options": {
+      "A": "En engangs skattefri udbetaling til pensionister og børnefamilier på grund af høje fødevarepriser",
+      "B": "En permanent nedsættelse af momsen på mad",
+      "C": "Øget bistand til landbruget"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken stor familiekulturevent fandt sted i København den 13. marts 2026?",
+    "options": {
+      "A": "Roskilde Festivalens forårsudgave",
+      "B": "Copenhagen Jazz Festival i vinterudgave",
+      "C": "Family Culture Night – over 200 museer, teatre og parker holdt åbent for familier"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket nyt skatteforslag fremlagde regeringen samtidig med udskrivelsen af folketingsvalget i februar 2026?",
+    "options": {
+      "A": "En formueskat på 0,5 procent for formuer over 25 millioner kroner",
+      "B": "En forhøjelse af topskatten",
+      "C": "Indførelse af formuebeskatning for alle over 5 millioner kroner"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken dato blev folketingsvalget afholdt efter udskrivelsen den 26. februar 2026?",
+    "options": {
+      "A": "17. marts 2026",
+      "B": "24. marts 2026",
+      "C": "31. marts 2026"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken håndbold-turnering med Danmark som medvært (sammen med Sverige og Norge) fandt sted i januar–februar 2026?",
+    "options": {
+      "A": "Olympiske lege håndbold",
+      "B": "VM i håndbold for mænd",
+      "C": "EHF Men's Euro 2026"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken stor vintermusikfestival med koncerter over hele landet løb fra 30. januar til 28. februar 2026?",
+    "options": {
+      "A": "Copenhagen Jazz Festival",
+      "B": "Vinterjazz (Winter Jazz Festival)",
+      "C": "Roskilde Festival vinterudgave"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken lyskunst-event lyste Københavns gader, broer og havn op fra 30. januar til 22. februar 2026?",
+    "options": {
+      "A": "Tivoli Winter Lights",
+      "B": "Copenhagen Light Festival",
+      "C": "Nordic Light Festival"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken familiekulturevent åbnede over 200 museer, teatre og parker i København og Frederiksberg den 13. marts 2026?",
+    "options": {
+      "A": "Den traditionelle Kulturnat i efteråret",
+      "B": "Family Culture Night",
+      "C": "Copenhagen Winter Lights Night"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken verdenskendt filmkomponist gav koncert i Royal Arena i København den 10. marts 2026?",
+    "options": {
+      "A": "John Williams",
+      "B": "Danny Elfman",
+      "C": "Hans Zimmer"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken stor krimi- og spændingsfestival med forfattere og talks blev afholdt i det tidligere fængsel i Horsens 21.–22. marts 2026?",
+    "options": {
+      "A": "Crime Fiction Fair (Krimimessen)",
+      "B": "Nordic Noir Festival",
+      "C": "Horsens Book Fair"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken debat om dansk gastronomi blev startet af kulturministeren i januar 2026?",
+    "options": {
+      "A": "Om street art skulle beskyttes som kulturarv",
+      "B": "Om gastronomi kunne anerkendes som en officiel kunstform",
+      "C": "Om moderne dans skulle være national dans"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken politisk begivenhed fandt sted i København i januar 2026, hvor danske veteraner demonstrerede mod Trumps udtalelser om Grønland?",
+    "options": {
+      "A": "Veteranernes march mod Trump",
+      "B": "Fredsmarch for NATO",
+      "C": "Grønlands-solidaritetsfestival"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken festival i Aarhus med temaet 'THE WORLD' inviterede til debatter, koncerter og foredrag i marts 2026?",
+    "options": {
+      "A": "Festival of the Century",
+      "B": "Aarhus Festuge",
+      "C": "SPOT Festival"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken fitness- og funktionel sportsevent med tusindvis af deltagere blev afholdt i Bella Center i marts 2026?",
+    "options": {
+      "A": "Copenhagen Marathon forårsudgave",
+      "B": "HYROX Copenhagen",
+      "C": "Spartan Race Denmark"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket skatteforslag blev et centralt tema i folketingsvalgskampagnen i februar 2026?",
+    "options": {
+      "A": "Genindførelse af formueskat for de største formuer",
+      "B": "Sænkning af topskatten",
+      "C": "Øget afgift på flyrejser"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken international dokumentarfilmfestival slog rekord i antal besøgende i København i marts 2026?",
+    "options": {
+      "A": "CPH:DOX",
+      "B": "CPH PIX",
+      "C": "Odense International Film Festival"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken kunstmesse med temaet 'Phoenix – art in motion' blev afholdt i København 13.–15. marts 2026?",
+    "options": {
+      "A": "CHART Art Fair",
+      "B": "Art Nordic",
+      "C": "Art Herning"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken løbe-VM-event med verdensatletikforbundet fandt sted i København i foråret 2026?",
+    "options": {
+      "A": "Royal Run",
+      "B": "Copenhagen Marathon",
+      "C": "World Athletics Road Running Championships"
+    },
+    "correct": "C"
+  }
+]
