@@ -1,103 +1,13 @@
 [
   {
-    "exam": "real",
-    "question": "Hvilken dansk forfatter har skrevet bogen Den Afrikanske Farm?",
+    "exam": "AI",
+    "question": "Hvilken genstand fra bronzealderen forestiller solen, der bliver trukket af en hest?",
     "options": {
-      "A": "Karen Blixen",
-      "B": "H.C. Andersen",
-      "C": "Tove Ditlevsen"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
-    "question": "For hvilken film vandt Gabriel Axel en Oscar i 1988?",
-    "options": {
-      "A": "Druk",
-      "B": "Italiensk for begyndere",
-      "C": "Babettes gæstebud"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvem har skrevet et stort antal af salmerne i Den Danske Salmebog?",
-    "options": {
-      "A": "Herman Bang",
-      "B": "Ludvig Holberg",
-      "C": "N.F.S. Grundtvig"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad er Anna Ancher og Michael Ancher særligt kendt for?",
-    "options": {
-      "A": "De var komponister",
-      "B": "De var filminstruktører",
-      "C": "De var kunstmalere"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "I hvilke årtier udspiller det meste af tv-serien Matador sig?",
-    "options": {
-      "A": "1880’erne og 1890’erne",
-      "B": "1930’erne og 1940’erne",
-      "C": "1960’erne og 1970’erne"
+      "A": "Guldhornene fra Gallehus",
+      "B": "Solvognen",
+      "C": "Harald Blåtands Jellingsten"
     },
     "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvilken dansk film vandt en Oscar i 2021?",
-    "options": {
-      "A": "Festen",
-      "B": "Druk",
-      "C": "Jagten"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad fik videnskabsmanden Niels Bohr Nobelprisen for i 1922?",
-    "options": {
-      "A": "En metode til måling af lysets hastighed",
-      "B": "En model over atomers opbygning",
-      "C": "En teori om jordens magnetfelt"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvem skrev romanerne Pelle Erobreren og Ditte Menneskebarn i begyndelsen af 1900-tallet?",
-    "options": {
-      "A": "Steen Steensen Blicher",
-      "B": "Martin Andersen Nexø",
-      "C": "Klaus Rifbjerg"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvilken dansk arkitekt har tegnet operahuset i Sydney i Australien?",
-    "options": {
-      "A": "Dorte Mandrup",
-      "B": "Jørn Utzon",
-      "C": "Arne Jacobsen"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvilken popgruppe udgav nummeret Barbie Girl i 1990’erne?",
-    "options": {
-      "A": "Whigfield",
-      "B": "Me & My",
-      "C": "Aqua"
-    },
-    "correct": "C"
   },
   {
     "exam": "real",
@@ -111,83 +21,73 @@
   },
   {
     "exam": "real",
-    "question": "Hvad hed forsangeren i bandet Gasolin?",
+    "question": "På hvilken af følgende mærkedage holder dronningen hvert år en tale til hele rigsfællesskabet?",
     "options": {
-      "A": "Kim Larsen",
-      "B": "Michael Bundesen",
-      "C": "Steffen Brandt"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
-    "question": "Hvem skrev romanen Lykke-Per omkring år 1900?",
-    "options": {
-      "A": "Amalie Skram",
-      "B": "Martin A. Hansen",
-      "C": "Henrik Pontoppidan"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad er Suzanne Brøgger og Naja Marie Aidt især kendte for?",
-    "options": {
-      "A": "De er skuespillere",
-      "B": "De er malere",
-      "C": "De er forfattere"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvem er kendt for at have beskrevet, hvordan man skal opføre sig i ’Takt og Tone – Hvordan Vi Omgaas’ fra 1918?",
-    "options": {
-      "A": "Herman Bang",
-      "B": "Emma Gad",
-      "C": "Karen Blixen"
+      "A": "Juleaften",
+      "B": "Nytårsaften",
+      "C": "Grundlovsdag"
     },
     "correct": "B"
   },
   {
     "exam": "real",
-    "question": "Hvordan fejrer man traditionelt sankthans i Danmark?",
+    "question": "For hvilken film vandt Gabriel Axel en Oscar i 1988?",
     "options": {
-      "A": "Man samles om aftenen og tænder bål",
-      "B": "Man holder fest og giver hinanden gaver",
-      "C": "Man klæder sig ud og slår katten af tønden"
+      "A": "Druk",
+      "B": "Italiensk for begyndere",
+      "C": "Babettes gæstebud"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket værk fra det moderne gennembrud skrev Herman Bang i 1886?",
+    "options": {
+      "A": "Ved Vejen",
+      "B": "Lykke-Per",
+      "C": "Den kroniske uskyld"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem skrev komedien Erasmus Montanus i 1723?",
+    "options": {
+      "A": "Ludvig Holberg",
+      "B": "Adam Oehlenschläger",
+      "C": "Kjeld Abell"
     },
     "correct": "A"
   },
   {
     "exam": "real",
-    "question": "Hvilken nobelpris fik Johannes V. Jensen i 1944?",
+    "question": "Hvem har skrevet romanen Barndommens Gade fra 1943?",
     "options": {
-      "A": "Nobelprisen i fysik",
-      "B": "Nobelprisen i økonomi",
-      "C": "Nobelprisen i litteratur"
+      "A": "Naja Marie Aidt",
+      "B": "Leonora Christina Skov",
+      "C": "Tove Ditlevsen"
     },
     "correct": "C"
   },
   {
     "exam": "real",
-    "question": "Hvad var Carl Nielsen (1865-1931) særligt kendt for?",
+    "question": "Hvilken dansk forfatter har skrevet bogen Den Afrikanske Farm?",
     "options": {
-      "A": "Han var maler",
-      "B": "Han var arkitekt",
-      "C": "Han var komponist"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "For hvilken film har Bille August vundet en Oscar?",
-    "options": {
-      "A": "Pelle Erobreren",
-      "B": "Jerusalem",
-      "C": "Zappa"
+      "A": "Karen Blixen",
+      "B": "H.C. Andersen",
+      "C": "Tove Ditlevsen"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem debutterede i 2013 med digtsamlingen Yahya Hassan, som solgte over 100.000 eksemplarer?",
+    "options": {
+      "A": "Naja Marie Aidt",
+      "B": "Yahya Hassan",
+      "C": "Helle Helle"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -200,252 +100,12 @@
     "correct": "B"
   },
   {
-    "exam": "real",
-    "question": "Hvilken dansk tv-serie beskriver blandt andet dagligliv og historiske begivenheder i perioden 1929-47?",
+    "exam": "AI",
+    "question": "Hvilken forfatter skrev Den, der lever stille om at vokse op i en streng religiøs familie?",
     "options": {
-      "A": "Kroniken",
-      "B": "Borgen",
-      "C": "Matador"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvilken popgruppe udgav nummeret ’Barbie Girl’ i 1990’erne?",
-    "options": {
-      "A": "Whigfield",
-      "B": "Me & My",
-      "C": "Aqua"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad er P.S. Krøyer (1851-1909) særligt kendt for?",
-    "options": {
-      "A": "Han var forfatter",
-      "B": "Han var komponist",
-      "C": "Han var kunstmaler"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "I hvilken dansk by kan man besøge H.C. Andersens Hus?",
-    "options": {
-      "A": "Aarhus",
-      "B": "Odense",
-      "C": "København"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvem har instrueret filmene 'Idioterne' og 'Dancer in the Dark'?",
-    "options": {
-      "A": "Susanne Bier",
-      "B": "Lars von Trier",
-      "C": "Lone Scherfig"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad er Tycho Brahe (1546-1601) særligt kendt for?",
-    "options": {
-      "A": "Han var astronom",
-      "B": "Han var salmedigter",
-      "C": "Han var opdagelsesrejsende"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
-    "question": "Hvilken dansk forfatter har skrevet bogen 'Den Afrikanske Farm'?",
-    "options": {
-      "A": "Tove Ditlevsen",
-      "B": "H.C. Andersen",
-      "C": "Karen Blixen"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad er Yahya Hassan (1995-2020) særligt kendt for?",
-    "options": {
-      "A": "Han var musiker",
-      "B": "Han var digter",
-      "C": "Han var fodboldspiller"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Ved hvilken by i Jylland malede Anna Ancher og Michael Ancher særligt mange af deres billeder i slutningen af 1800-tallet?",
-    "options": {
-      "A": "Silkeborg",
-      "B": "Sønderborg",
-      "C": "Skagen"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad er Susanne Bier (født 1960) særligt kendt for?",
-    "options": {
-      "A": "Hun er fysiker",
-      "B": "Hun er politiker",
-      "C": "Hun er filminstruktør"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvem har skrevet romanen Barndommens Gade fra 1943?",
-    "options": {
-      "A": "Herman Bang",
-      "B": "Tove Ditlevsen",
-      "C": "Naja Marie Aidt"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad er Søren Kierkegaard?",
-    "options": {
-      "A": "1700",
-      "B": "1800",
-      "C": "1900"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad var Carl Nielsen (1865-1931) særligt kendt for?",
-    "options": {
-      "A": "Han var komponist",
-      "B": "Han var kunstmaler",
-      "C": "Han var arkitekt"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
-    "question": "I hvilken dansk by kan man blandt andet besøge Den Gamle By og kunstmuseet ARoS?",
-    "options": {
-      "A": "Helsingør",
-      "B": "Odense",
-      "C": "Aarhus"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvilket symbol indgår i Færøernes flag?",
-    "options": {
-      "A": "Et trekant",
-      "B": "En stjerne",
-      "C": "Et kors"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvem skrev i 1950’erne romanen Den kroniske uskyld?",
-    "options": {
-      "A": "Ludvig Holberg",
-      "B": "Klaus Rifbjerg",
-      "C": "Peter Høeg"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvilken bevægelse fik Grundtvig i særlig grad betydning for i 1800-tallet?",
-    "options": {
-      "A": "Højskolebevægelsen",
-      "B": "Arbejderbevægelsen",
-      "C": "Modstandsbevægelsen"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad hedder Danmarks nationalsang med tekst af Adam Oehlenschlæger?",
-    "options": {
-      "A": "I Danmark er jeg født",
-      "B": "Vi elsker vort land",
-      "C": "Der er et yndigt land"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvem modtog i 1922 Nobelprisen i fysik?",
-    "options": {
-      "A": "Niels Bohr",
-      "B": "Jens Christian Skou",
-      "C": "Johannes V. Jensen"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad er Karen Blixen kendt for?",
-    "options": {
-      "A": "Hun var balletdanser",
-      "B": "Hun var skuespiller",
-      "C": "Hun var forfatter"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvordan fejrer man traditionelt sankthans i Danmark?",
-    "options": {
-      "A": "Man samles om aftenen og tænder bål",
-      "B": "Man holder fest og giver hinanden gaver",
-      "C": "Man klæder sig ud og slår katten af tønden"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
-    "question": "Inden for hvilket område fik Niels Bohr Nobelprisen i 1922?",
-    "options": {
-      "A": "Medicin",
-      "B": "Fysik",
-      "C": "Litteratur"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "På hvilken af følgende mærkedage holder dronningen hvert år en tale til hele rigsfællesskabet?",
-    "options": {
-      "A": "Juleaften",
-      "B": "Nytårsaften",
-      "C": "Grundlovsdag"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvilken af følgende personer gav i 1800-tallet inspiration til oprettelsen af folkehøjskoler?",
-    "options": {
-      "A": "Thomas Kingo",
-      "B": "Johannes V. Jensen",
-      "C": "N.F.S. Grundtvig"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvem skrev omkring år 1200 værket Gesta Danorum, der indeholder fortællinger om Danmarks historie og nordisk mytologi?",
-    "options": {
-      "A": "Saxo",
-      "B": "Brorson",
-      "C": "Ansgar"
+      "A": "Leonora Christina Skov",
+      "B": "Glenn Bech",
+      "C": "Klaus Rifbjerg"
     },
     "correct": "A"
   },
@@ -460,22 +120,472 @@
     "correct": "C"
   },
   {
-    "exam": "real",
-    "question": "Hvilken dansk film vandt i april 2021 en Oscar for bedste internationale film?",
+    "exam": "AI",
+    "question": "Hvilken roman af Michael Strunge fra 1985 handler om drømme, depression og storbyliv?",
     "options": {
-      "A": "Druk",
-      "B": "Festen",
-      "C": "Idioterne"
+      "A": "Verdenssøn",
+      "B": "Den kroniske uskyld",
+      "C": "Har døden taget noget fra dig"
     },
     "correct": "A"
   },
   {
     "exam": "real",
-    "question": "Hvem har designet ”Your rainbow panorama” (Din regnbueudsigt), der er placeret oven på kunstmuseet ARoS i Aarhus?",
+    "question": "Hvilken popgruppe udgav nummeret Barbie Girl i 1990’erne?",
     "options": {
-      "A": "Arne Jacobsen",
-      "B": "Olafur Eliasson",
-      "C": "Jørn Utzon"
+      "A": "Whigfield",
+      "B": "Me & My",
+      "C": "Aqua"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem skrev visen 'Man binder os på mund og hånd', som blev smuglet ind i en revy under besættelsen?",
+    "options": {
+      "A": "Poul Henningsen",
+      "B": "Kaj Munk",
+      "C": "Kjeld Abell"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem modtog i 1922 Nobelprisen i fysik?",
+    "options": {
+      "A": "Niels Bohr",
+      "B": "Jens Christian Skou",
+      "C": "Johannes V. Jensen"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem instruerede den børnefilmklassiker Busters Verden fra 1984?",
+    "options": {
+      "A": "Bille August",
+      "B": "Erik Balling",
+      "C": "Nils Malmros"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad var Carl Nielsen (1865-1931) særligt kendt for?",
+    "options": {
+      "A": "Han var komponist",
+      "B": "Han var kunstmaler",
+      "C": "Han var arkitekt"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken film af Lars von Trier fra Dogme 95 handler om voksne, der leger idioter?",
+    "options": {
+      "A": "Idioterne",
+      "B": "Dancer in the Dark",
+      "C": "Druk"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem skrev romanen Lykke-Per omkring år 1900?",
+    "options": {
+      "A": "Amalie Skram",
+      "B": "Martin A. Hansen",
+      "C": "Henrik Pontoppidan"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken konge fik udenlandske malere til Danmark for at udsmykke sine slotte?",
+    "options": {
+      "A": "Christian 4.",
+      "B": "Frederik 5.",
+      "C": "Valdemar den Store"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er Yahya Hassan (1995-2020) særligt kendt for?",
+    "options": {
+      "A": "Han var musiker",
+      "B": "Han var digter",
+      "C": "Han var fodboldspiller"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem skrev skuespillet Niels Ebbesen som opfordring til modstand mod nazismen?",
+    "options": {
+      "A": "Kaj Munk",
+      "B": "Kjeld Abell",
+      "C": "Ludvig Holberg"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken dansk arkitekt har tegnet operahuset i Sydney i Australien?",
+    "options": {
+      "A": "Dorte Mandrup",
+      "B": "Jørn Utzon",
+      "C": "Arne Jacobsen"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken forfatter skrev romanen Farskibet om traume, farens selvmord og 'giftig maskulinitet'?",
+    "options": {
+      "A": "Glenn Bech",
+      "B": "Thomas Korsgaard",
+      "C": "Leonora Christina Skov"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken af følgende bygninger har den kendte danske arkitekt og designer Arne Jacobsen tegnet?",
+    "options": {
+      "A": "Operaen i København",
+      "B": "Christiansborg",
+      "C": "Danmarks Nationalbank"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken film vandt Gabriel Axel en Oscar for i 1988?",
+    "options": {
+      "A": "Babettes Gæstebud",
+      "B": "Pelle Erobreren",
+      "C": "Hævnen"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er Karen Blixen kendt for?",
+    "options": {
+      "A": "Hun var balletdanser",
+      "B": "Hun var skuespiller",
+      "C": "Hun var forfatter"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken bog fra 1918 af Emma Gad giver konkrete råd om opførsel i hverdagen?",
+    "options": {
+      "A": "Jammers Minde",
+      "B": "Takt og Tone – Hvordan Vi Omgås",
+      "C": "Den Afrikanske Farm"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem har skrevet et stort antal af salmerne i Den Danske Salmebog?",
+    "options": {
+      "A": "Herman Bang",
+      "B": "Ludvig Holberg",
+      "C": "N.F.S. Grundtvig"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken digter skrev digtet Sommerfugledalen i 1991?",
+    "options": {
+      "A": "Inger Christensen",
+      "B": "Michael Strunge",
+      "C": "Yahya Hassan"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er Anna Ancher og Michael Ancher særligt kendt for?",
+    "options": {
+      "A": "De var komponister",
+      "B": "De var filminstruktører",
+      "C": "De var kunstmalere"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken film af Bille August er baseret på Martin Andersen Nexøs roman?",
+    "options": {
+      "A": "Pelle Erobreren",
+      "B": "Busters Verden",
+      "C": "Kundskabens træ"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "I hvilke årtier udspiller det meste af tv-serien Matador sig?",
+    "options": {
+      "A": "1880’erne og 1890’erne",
+      "B": "1930’erne og 1940’erne",
+      "C": "1960’erne og 1970’erne"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem skrev musicalerne Skatteøen og Ronja Røverdatter?",
+    "options": {
+      "A": "Sebastian",
+      "B": "Flemming Flindt",
+      "C": "August Bournonville"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken dansk film vandt en Oscar i 2021?",
+    "options": {
+      "A": "Festen",
+      "B": "Druk",
+      "C": "Jagten"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad fortæller Harald Blåtands Jellingsten fra 900-tallet?",
+    "options": {
+      "A": "At han vandt Danmark og Norge og gjorde danerne kristne",
+      "B": "Om livet på en kaffefarm i Kenya",
+      "C": "Om en fattig bonde i Jylland"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad fik videnskabsmanden Niels Bohr Nobelprisen for i 1922?",
+    "options": {
+      "A": "En metode til måling af lysets hastighed",
+      "B": "En model over atomers opbygning",
+      "C": "En teori om jordens magnetfelt"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken forfatter skrev Himmerlandshistorier om bønder og fattigfolk i Jylland?",
+    "options": {
+      "A": "Steen Steensen Blicher",
+      "B": "Johannes V. Jensen",
+      "C": "Martin Andersen Nexø"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem skrev romanerne Pelle Erobreren og Ditte Menneskebarn i begyndelsen af 1900-tallet?",
+    "options": {
+      "A": "Steen Steensen Blicher",
+      "B": "Martin Andersen Nexø",
+      "C": "Klaus Rifbjerg"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken skuespiller spiller vicekriminalkommissær Sarah Lund i tv-serien Forbrydelsen?",
+    "options": {
+      "A": "Sofie Gråbøl",
+      "B": "Trine Dyrholm",
+      "C": "Asta Nielsen"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er P.S. Krøyer (1851-1909) særligt kendt for?",
+    "options": {
+      "A": "Han var forfatter",
+      "B": "Han var komponist",
+      "C": "Han var kunstmaler"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken ballet af Flemming Flindt fra 1971 blev skabt sammen med rockbandet Savage Rose?",
+    "options": {
+      "A": "Sylfiden",
+      "B": "Dødens triumf",
+      "C": "Aladdin"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "I hvilken dansk by kan man besøge H.C. Andersens Hus?",
+    "options": {
+      "A": "Aarhus",
+      "B": "Odense",
+      "C": "København"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken standup-komiker er født i 1975 og kendt for sine shows?",
+    "options": {
+      "A": "Anders Matthesen",
+      "B": "Casper Christensen",
+      "C": "Nikolai Stokholm"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem har instrueret filmene 'Idioterne' og 'Dancer in the Dark'?",
+    "options": {
+      "A": "Susanne Bier",
+      "B": "Lars von Trier",
+      "C": "Lone Scherfig"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken skuespillerinde spillede hovedrollen i filmen Barndommens Gade fra 1986?",
+    "options": {
+      "A": "Sofie Gråbøl",
+      "B": "Trine Dyrholm",
+      "C": "Asta Nielsen"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er Tycho Brahe (1546-1601) særligt kendt for?",
+    "options": {
+      "A": "Han var astronom",
+      "B": "Han var salmedigter",
+      "C": "Han var opdagelsesrejsende"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken film af Nils Malmros handler om mobning og forelskelser blandt pubertetsbørn?",
+    "options": {
+      "A": "Kundskabens træ",
+      "B": "Busters Verden",
+      "C": "Festen"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken dansk tv-serie beskriver blandt andet dagligliv og historiske begivenheder i perioden 1929-47?",
+    "options": {
+      "A": "Kroniken",
+      "B": "Borgen",
+      "C": "Matador"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken konge lod 40 vævede tapeter med danske konger hænge på Kronborg?",
+    "options": {
+      "A": "Christian 4.",
+      "B": "Frederik 5.",
+      "C": "Valdemar den Store"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er Susanne Bier (født 1960) særligt kendt for?",
+    "options": {
+      "A": "Hun er fysiker",
+      "B": "Hun er politiker",
+      "C": "Hun er filminstruktør"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken roman-trilogi skrev Thomas Korsgaard om opvækst med vold og fattigdom?",
+    "options": {
+      "A": "Hvis der skulle komme et menneske forbi",
+      "B": "Har døden taget noget fra dig",
+      "C": "Verdenssøn"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er Søren Kierkegaard?",
+    "options": {
+      "A": "1700",
+      "B": "1800",
+      "C": "1900"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem var den dansk-amerikanske komiker, der fik stor succes med onemanshowet Comedy in the Music på Broadway?",
+    "options": {
+      "A": "Victor Borge",
+      "B": "Casper Christensen",
+      "C": "Anders Matthesen"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken bevægelse fik Grundtvig i særlig grad betydning for i 1800-tallet?",
+    "options": {
+      "A": "Højskolebevægelsen",
+      "B": "Arbejderbevægelsen",
+      "C": "Modstandsbevægelsen"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad viser de 40 vævede tapeter på Kronborg Slot?",
+    "options": {
+      "A": "Danske konger gennem tiden",
+      "B": "Scener fra Bibelen",
+      "C": "Bønders hverdag i Jylland"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad hed forsangeren i bandet Gasolin?",
+    "options": {
+      "A": "Kim Larsen",
+      "B": "Michael Bundesen",
+      "C": "Steffen Brandt"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken forfatter skrev Brudstykker af en Landsbydegns Dagbog om livet i Jylland?",
+    "options": {
+      "A": "Johannes V. Jensen",
+      "B": "Steen Steensen Blicher",
+      "C": "Martin Andersen Nexø"
     },
     "correct": "B"
   },
@@ -490,12 +600,292 @@
     "correct": "C"
   },
   {
-    "exam": "real",
-    "question": "Hvilken af følgende bygninger har den kendte danske arkitekt og designer Arne Jacobsen tegnet?",
+    "exam": "AI",
+    "question": "Hvilken skuespiller spiller rollen som Anne i Dronningen fra 2019?",
     "options": {
-      "A": "Operaen i København",
-      "B": "Christiansborg",
-      "C": "Danmarks Nationalbank"
+      "A": "Trine Dyrholm",
+      "B": "Sofie Gråbøl",
+      "C": "Asta Nielsen"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er Suzanne Brøgger og Naja Marie Aidt især kendte for?",
+    "options": {
+      "A": "De er skuespillere",
+      "B": "De er malere",
+      "C": "De er forfattere"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem skrev komedien Jeppe på Bjerget i 1722?",
+    "options": {
+      "A": "Ludvig Holberg",
+      "B": "Adam Oehlenschläger",
+      "C": "Johan Ludvig Heiberg"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem skrev omkring år 1200 værket Gesta Danorum, der indeholder fortællinger om Danmarks historie og nordisk mytologi?",
+    "options": {
+      "A": "Saxo",
+      "B": "Brorson",
+      "C": "Ansgar"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken film af Erik Balling handler om den fiktive forbryderbande Olsenbanden?",
+    "options": {
+      "A": "De røde heste",
+      "B": "Olsenbanden",
+      "C": "Matador"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "I hvilken dansk by kan man blandt andet besøge Den Gamle By og kunstmuseet ARoS?",
+    "options": {
+      "A": "Helsingør",
+      "B": "Odense",
+      "C": "Aarhus"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken forfatter skrev Rødby-Puttgarden om to søstres hverdag på Lolland?",
+    "options": {
+      "A": "Helle Helle",
+      "B": "Naja Marie Aidt",
+      "C": "Tove Ditlevsen"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem har designet ”Your rainbow panorama” (Din regnbueudsigt), der er placeret oven på kunstmuseet ARoS i Aarhus?",
+    "options": {
+      "A": "Arne Jacobsen",
+      "B": "Olafur Eliasson",
+      "C": "Jørn Utzon"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket eventyrspil af Adam Oehlenschläger er inspireret af 1001 Nats Eventyr?",
+    "options": {
+      "A": "Aladdin eller Den Forunderlige Lampe",
+      "B": "Sylfiden",
+      "C": "Erasmus Montanus"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem skrev i 1950’erne romanen Den kroniske uskyld?",
+    "options": {
+      "A": "Ludvig Holberg",
+      "B": "Klaus Rifbjerg",
+      "C": "Peter Høeg"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem skrev Dogme 95-manifestet i 1995 sammen med Thomas Vinterberg og andre?",
+    "options": {
+      "A": "Lars von Trier",
+      "B": "Susanne Bier",
+      "C": "Gabriel Axel"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken dansk forfatter har skrevet bogen 'Den Afrikanske Farm'?",
+    "options": {
+      "A": "Tove Ditlevsen",
+      "B": "H.C. Andersen",
+      "C": "Karen Blixen"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken forfatter skrev romanen Barndommens Gade fra 1943?",
+    "options": {
+      "A": "Herman Bang",
+      "B": "Tove Ditlevsen",
+      "C": "Naja Marie Aidt"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem er kendt for at have beskrevet, hvordan man skal opføre sig i ’Takt og Tone – Hvordan Vi Omgaas’ fra 1918?",
+    "options": {
+      "A": "Herman Bang",
+      "B": "Emma Gad",
+      "C": "Karen Blixen"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad er Søren Kierkegaard?",
+    "options": {
+      "A": "1700",
+      "B": "1800",
+      "C": "1900"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvordan fejrer man traditionelt sankthans i Danmark?",
+    "options": {
+      "A": "Man samles om aftenen og tænder bål",
+      "B": "Man holder fest og giver hinanden gaver",
+      "C": "Man klæder sig ud og slår katten af tønden"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken film vandt Susanne Bier både en Oscar og en Golden Globe i 2011?",
+    "options": {
+      "A": "Hævnen",
+      "B": "Druk",
+      "C": "Babettes Gæstebud"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Inden for hvilket område fik Niels Bohr Nobelprisen i 1922?",
+    "options": {
+      "A": "Medicin",
+      "B": "Fysik",
+      "C": "Litteratur"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken forfatter skrev Har døden taget noget fra dig, så giv det tilbage. Carls bog?",
+    "options": {
+      "A": "Inger Christensen",
+      "B": "Naja Marie Aidt",
+      "C": "Suzanne Brøgger"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Ved hvilken by i Jylland malede Anna Ancher og Michael Ancher særligt mange af deres billeder i slutningen af 1800-tallet?",
+    "options": {
+      "A": "Silkeborg",
+      "B": "Sønderborg",
+      "C": "Skagen"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "I hvilken kirke nord for København findes kalkmalerier, der fungerede som 'tegneserier' for folket?",
+    "options": {
+      "A": "Birkerød Kirke",
+      "B": "Kronborg Slotskirke",
+      "C": "Jelling Kirke"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad hedder Danmarks nationalsang med tekst af Adam Oehlenschlæger?",
+    "options": {
+      "A": "I Danmark er jeg født",
+      "B": "Vi elsker vort land",
+      "C": "Der er et yndigt land"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken roman af Johannes V. Jensen handler om Christian 2.s tid?",
+    "options": {
+      "A": "Kongens Fald",
+      "B": "Himmerlandshistorier",
+      "C": "Den kroniske uskyld"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken nobelpris fik Johannes V. Jensen i 1944?",
+    "options": {
+      "A": "Nobelprisen i fysik",
+      "B": "Nobelprisen i økonomi",
+      "C": "Nobelprisen i litteratur"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket tv-teaterstykke af Leif Panduro fra 1968 handler om skilsmisse og ensomhed?",
+    "options": {
+      "A": "Farvel Thomas",
+      "B": "Først bliver man jo født",
+      "C": "Dyveke"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er Carl Nielsen (1865-1931) særligt kendt for?",
+    "options": {
+      "A": "Han var maler",
+      "B": "Han var arkitekt",
+      "C": "Han var komponist"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem skrev Den Afrikanske Farm om livet på en kaffefarm i Kenya?",
+    "options": {
+      "A": "H.C. Andersen",
+      "B": "Tove Ditlevsen",
+      "C": "Karen Blixen"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken dansk film vandt i april 2021 en Oscar for bedste internationale film?",
+    "options": {
+      "A": "Druk",
+      "B": "Festen",
+      "C": "Idioterne"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken film af August Bournonville er en af verdens ældste overleverede?",
+    "options": {
+      "A": "Dødens triumf",
+      "B": "Aladdin",
+      "C": "Sylfiden"
     },
     "correct": "C"
   },
