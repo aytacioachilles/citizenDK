@@ -10,6 +10,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvem rejste den store Jellingsten omkring år 965, hvor det står, at han vandt sig hele Danmark og Norge og gjorde danerne kristne?",
+    "options": {
+      "A": "Gorm den Gamle",
+      "B": "Svend Tveskæg",
+      "C": "Harald Blåtand"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvilke af følgende landområder mistede Danmark i 1658?",
     "options": {
@@ -20,12 +30,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilke militære anlæg opførte Harald Blåtand omkring år 980 for at sikre sit rige mod fjender?",
+    "options": {
+      "A": "Klostre",
+      "B": "Ringborge",
+      "C": "Domkirker"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvornår blev der indført fri abort i Danmark?",
     "options": {
       "A": "1935",
       "B": "1951",
       "C": "1973"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken dansk konge erobrede England i 1013?",
+    "options": {
+      "A": "Harald Blåtand",
+      "B": "Knud den Store",
+      "C": "Svend Tveskæg"
     },
     "correct": "C"
   },
@@ -40,6 +70,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvad var den nordiske religion, som de fleste danskere troede på i vikingetiden før kristendommen?",
+    "options": {
+      "A": "Katolsk kristendom",
+      "B": "Asatro",
+      "C": "Protestantisk kristendom"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Ved hvilken grundlovsændring fik kvinder valgret til Folketinget?",
     "options": {
@@ -48,6 +88,16 @@
       "C": "Grundlovsændringen i 1953"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem var gudernes konge i asatroen, og hvad symboliserer hans to ravne?",
+    "options": {
+      "A": "Freja",
+      "B": "Thor",
+      "C": "Odin"
+    },
+    "correct": "C"
   },
   {
     "exam": "real",
@@ -60,11 +110,31 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken lov fra 1241 er den mest kendte fra middelalderen og indeholder sætningen \"Med lov skal man land bygge\"?",
+    "options": {
+      "A": "Danske Lov",
+      "B": "Kalmarloven",
+      "C": "Jyske Lov"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Var Danmark besat af tyske tropper under 1. Verdenskrig?",
     "options": {
       "A": "Ja",
       "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem samlede Danmark, Norge og Sverige i Kalmarunionen i 1397?",
+    "options": {
+      "A": "Christian 3.",
+      "B": "Margrete 1.",
+      "C": "Valdemar Atterdag"
     },
     "correct": "B"
   },
@@ -79,6 +149,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvad skete med magten over kirken som følge af reformationen i 1536?",
+    "options": {
+      "A": "Kirken blev uafhængig af staten",
+      "B": "Kirken fik mere magt over kongen",
+      "C": "Kongen fik mere magt over kirken"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvornår blev Enhedslisten valgt til Folketinget første gang?",
     "options": {
@@ -87,6 +167,16 @@
       "C": "2011"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken konge stod bag opførelsen af blandt andet Rosenborg Slot, Rundetårn og Københavns Børs?",
+    "options": {
+      "A": "Frederik 3.",
+      "B": "Christian 3.",
+      "C": "Christian 4."
+    },
+    "correct": "C"
   },
   {
     "exam": "real",
@@ -99,6 +189,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvornår blev det enevældige arvekongedømme indført i Danmark?",
+    "options": {
+      "A": "1536",
+      "B": "1814",
+      "C": "1660-61"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvornår blev andelsbevægelsen grundlagt i Danmark med oprettelsen af de første brugsforeninger og andelsmejerier?",
     "options": {
@@ -107,6 +207,16 @@
       "C": "I 1900-tallet"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken aftale gav Danmark fire EU-forbehold efter folkeafstemningen i 1993?",
+    "options": {
+      "A": "Edinburgh-aftalen",
+      "B": "Roskilde-freden",
+      "C": "Maastricht-traktaten"
+    },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -119,6 +229,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvornår blev Dansk Folkeparti valgt til Folketinget første gang med Pia Kjærsgaard som formand?",
+    "options": {
+      "A": "2001",
+      "B": "1998",
+      "C": "1994"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilken organisation blev Danmark medlem af i 1945?",
     "options": {
@@ -129,12 +249,32 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilke to nye partier blev valgt til Folketinget første gang ved valget i 2022?",
+    "options": {
+      "A": "Liberal Alliance og Alternativet",
+      "B": "Danmarksdemokraterne og Moderaterne",
+      "C": "Nye Borgerlige og Enhedslisten"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvad var baggrunden for Kanslergadeforliget i 1933?",
     "options": {
       "A": "Integrationsproblemer",
       "B": "Miljøproblemer",
       "C": "Økonomiske problemer"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem blev Danmarks første kvindelige statsminister i 2011?",
+    "options": {
+      "A": "Pia Kjærsgaard",
+      "B": "Mette Frederiksen",
+      "C": "Helle Thorning-Schmidt"
     },
     "correct": "C"
   },
@@ -149,6 +289,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvem var den første kendte konge, der samlede en del af det område, der senere blev til Danmark, omkring år 700?",
+    "options": {
+      "A": "Harald Blåtand",
+      "B": "Gorm den Gamle",
+      "C": "Angantyr"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvilket af følgende partier har haft statsministerposten i sammenlagt flest år siden Systemskiftet i 1901?",
     "options": {
@@ -156,6 +306,16 @@
       "B": "Det Konservative Folkeparti"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad betyder ordet \"Danmark\" ifølge teksten fra slutningen af 800-tallet?",
+    "options": {
+      "A": "Vikingernes land",
+      "B": "Asatroens rige",
+      "C": "Danernes grænseområde"
+    },
+    "correct": "C"
   },
   {
     "exam": "real",
@@ -168,12 +328,32 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken runesten blev rejst af Gorm den Gamle til minde om hans kone Thyra?",
+    "options": {
+      "A": "Jellingstenen",
+      "B": "Trelleborg-stenen",
+      "C": "Den første kendte brug af navnet Danmark inden for landets grænser"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvilken gruppe borgere blev i tusindtal hjulpet med at flygte fra Danmark til Sverige i oktober 1943?",
     "options": {
       "A": "Danske kommunister",
       "B": "Danske soldater",
       "C": "Danske jøder"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad gjorde vikingeskibene bedre end tidligere skibe, så vikingerne kunne sejle langt og op ad floder?",
+    "options": {
+      "A": "De havde sejl af silke",
+      "B": "De var større og kunne rumme flere krigere",
+      "C": "De var mere solide og smidige"
     },
     "correct": "C"
   },
@@ -188,6 +368,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilke engelske ord stammer fra vikingernes oldnordiske sprog, som eksempelvis egg, window og knife?",
+    "options": {
+      "A": "Kun fem ord",
+      "B": "Et par hundrede ord",
+      "C": "Ingen ord"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvornår blev Danmark ramt af pest-epidemien Den Sorte Død, som slog en stor del af befolkningen ihjel?",
     "options": {
@@ -198,12 +388,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvem var gudernes konge i asatroen, ofte beskrevet med ét øje og to ravne på skuldrene?",
+    "options": {
+      "A": "Thor",
+      "B": "Odin",
+      "C": "Freja"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvornår gjorde en større gruppe af unge oprør mod samfundets traditionelle normer, så det blandt andet blev mere accepteret at få børn uden at være gift?",
     "options": {
       "A": "I slutningen af 1920’erne",
       "B": "I slutningen af 1940’erne",
       "C": "I slutningen af 1960’erne"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken tysk missionær byggede kirker i Hedeby og Ribe i midten af 800-tallet?",
+    "options": {
+      "A": "Hans Tausen",
+      "B": "Martin Luther",
+      "C": "Ansgar"
     },
     "correct": "C"
   },
@@ -218,6 +428,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvad kaldes Harald Blåtands Jellingsten ofte, fordi der står, at han gjorde danerne kristne?",
+    "options": {
+      "A": "Kalmarstenen",
+      "B": "Vikingernes lov",
+      "C": "Danmarks dåbsattest"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvornår trådte Danmarks Riges Grundlov i kraft?",
     "options": {
@@ -226,6 +446,16 @@
       "C": "1889"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken aftale udviklede sig fra kontrakter mellem kongen og stormændene efter mordet på Knud den Hellige i 1086?",
+    "options": {
+      "A": "Jyske Lov",
+      "B": "Kalmarunionen",
+      "C": "Håndfæstninger"
+    },
+    "correct": "C"
   },
   {
     "exam": "real",
@@ -238,6 +468,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvornår fik Lund i Skåne sin egen ærkebiskop med hele Norden under sig?",
+    "options": {
+      "A": "1241",
+      "B": "1397",
+      "C": "1103"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvilken befolkningsgruppe fik begrænset deres rettigheder med indførelsen af stavnsbåndet i 1733?",
     "options": {
@@ -248,12 +488,32 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvad hed den skat, som befolkningen skulle betale til kirken i middelalderen, fordi den udgjorde en tiendedel af høsten?",
+    "options": {
+      "A": "Bøde",
+      "B": "Aflad",
+      "C": "Tiende"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvornår besluttede Island ved en folkeafstemning at oprette en republik, der var uafhængig af Danmark?",
     "options": {
       "A": "1904",
       "B": "1944",
       "C": "1984"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvor mange kirker var der cirka blevet bygget i Danmark omkring år 1250?",
+    "options": {
+      "A": "Kun 100",
+      "B": "Op mod 3.000",
+      "C": "Over 10.000"
     },
     "correct": "B"
   },
@@ -268,6 +528,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket korstog i 1219 førte til, at Dannebrog ifølge legenden faldt ned fra himlen?",
+    "options": {
+      "A": "Korstoget til Sverige",
+      "B": "Korstoget til Norge",
+      "C": "Korstoget til Estland"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvilket af følgende partier er ældst?",
     "options": {
@@ -276,6 +546,16 @@
       "C": "Socialistisk Folkeparti"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem inddrog meget af den jord, der havde tilhørt dem, som døde af pesten Den Sorte Død, for at styrke kongemagten?",
+    "options": {
+      "A": "Christian 3.",
+      "B": "Margrete 1.",
+      "C": "Valdemar Atterdag"
+    },
+    "correct": "C"
   },
   {
     "exam": "real",
@@ -288,6 +568,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken union blev opløst endeligt i 1523, da Sverige rev sig løs?",
+    "options": {
+      "A": "Norge-Danmark-unionen",
+      "B": "Kalmarunionen",
+      "C": "Sverige-Finland-unionen"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilket af følgende steder i København blev der begået et terrorangreb i 2015?",
     "options": {
@@ -298,12 +588,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvem udbredte Martin Luthers ideer i Danmark i 1520’erne som præst?",
+    "options": {
+      "A": "Ansgar",
+      "B": "Christian 4.",
+      "C": "Hans Tausen"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvem fik især betydning for folkehøjskolerne i 1800-tallet?",
     "options": {
       "A": "Steen Steensen Blicher",
       "B": "Johannes V. Jensen",
       "C": "N.F.S. Grundtvig"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket år blev reformationen formelt gennemført i Danmark under Christian 3.s ledelse?",
+    "options": {
+      "A": "1397",
+      "B": "1660",
+      "C": "1536"
     },
     "correct": "C"
   },
@@ -318,6 +628,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvad oversatte man til dansk som følge af reformationen, så alle kunne forstå kristendommen på deres eget sprog?",
+    "options": {
+      "A": "Kalmartraktaten",
+      "B": "Biblen",
+      "C": "Jyske Lov"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvem var Danmarks første socialdemokratiske statsminister?",
     "options": {
@@ -328,12 +648,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken konge har været Danmarks længst regerende konge med næsten 60 år på tronen?",
+    "options": {
+      "A": "Harald Blåtand",
+      "B": "Margrete 1.",
+      "C": "Christian 4."
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "I forbindelse med hvilken krig blev Danmark ramt af influenzaepidemien Den Spanske Syge?",
     "options": {
       "A": "2. Slesvigske Krig",
       "B": "1. Verdenskrig",
       "C": "2. Verdenskrig"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken krig trak Christian 4. Danmark ind i 1625-29, hvor Sverige blev førende magt i Østersøen?",
+    "options": {
+      "A": "Napoleonskrigene",
+      "B": "Trediveårskrigen",
+      "C": "Svenskekrigene"
     },
     "correct": "B"
   },
@@ -348,6 +688,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken ø iværksatte et oprør og fik styrtet det svenske styre efter Roskilde-freden i 1658?",
+    "options": {
+      "A": "Færøerne",
+      "B": "Grønland",
+      "C": "Bornholm"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvordan ændrede forholdet mellem kongen og kirken sig som følge af reformationen i 1500-tallet?",
     "options": {
@@ -355,6 +705,16 @@
       "B": "Kongen fik mere magt over kirken"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket navn skiftede EF til i 1992, da samarbejdet blev udvidet med flere politiske områder?",
+    "options": {
+      "A": "NATO",
+      "B": "FN",
+      "C": "EU"
+    },
+    "correct": "C"
   },
   {
     "exam": "real",
@@ -367,6 +727,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvad stemte et lille flertal af danskerne nej til ved folkeafstemningen i juni 1992?",
+    "options": {
+      "A": "Nordsø-olien",
+      "B": "Edinburgh-aftalen",
+      "C": "Maastricht-traktaten"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Støttede den daværende danske regering den amerikansk ledede invasion af Irak i 2003 (Irak-krigen)?",
     "options": {
@@ -374,6 +744,16 @@
       "B": "Nej"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket parti blev valgt ind i Folketinget første gang i 1994 delvis på grund af modstand mod EU?",
+    "options": {
+      "A": "Moderaterne",
+      "B": "Dansk Folkeparti",
+      "C": "Enhedslisten"
+    },
+    "correct": "C"
   },
   {
     "exam": "real",
@@ -386,6 +766,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket boligområde i Aarhus blev nævnt som eksempel på bydele med mange beboere med anden etnisk baggrund?",
+    "options": {
+      "A": "Roskilde Domkirke",
+      "B": "Trelleborg",
+      "C": "Gellerupparken"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvilken politisk bevægelse var rødstrømpebevægelsen en del af?",
     "options": {
@@ -396,12 +786,32 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken regel kræver, at begge parter skal være fyldt 24 år for at få familiesammenføring med en ægtefælle fra udlandet?",
+    "options": {
+      "A": "18-års-reglen",
+      "B": "30-års-reglen",
+      "C": "24-års-reglen"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvilket parti var Poul Nyrup Rasmussen formand for, da han var statsminister 1993-2001?",
     "options": {
       "A": "Det Konservative Folkeparti",
       "B": "Venstre",
       "C": "Socialdemokratiet"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad førte Muhammed-tegningerne i Jyllands-Posten i 2005 til i mange muslimske lande?",
+    "options": {
+      "A": "Oliekrise",
+      "B": "Dansk indtræden i EU",
+      "C": "Demonstrationer og boykot af danske produkter"
     },
     "correct": "C"
   },
@@ -416,12 +826,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket terrorangreb i 2015 i København ramte både et debatmøde om ytringsfrihed og en jødisk synagoge?",
+    "options": {
+      "A": "Terrorangrebet ved Hovedbanegården",
+      "B": "Terrorangrebet i lufthavnen",
+      "C": "Terrorangrebet på Østerbro og synagogen"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvem samlede i slutningen af 1300-tallet Danmark, Norge og Sverige i en union?",
     "options": {
       "A": "Knud den Store",
       "B": "Margrete den 1.",
       "C": "Christian den 3"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken internationale finanskrise ramte Danmark i 2008 og førte til det største økonomiske tilbageslag siden 2. Verdenskrig?",
+    "options": {
+      "A": "Oliekrisen 1970’erne",
+      "B": "Finanskrisen 2008",
+      "C": "Kanslergadeforliget"
     },
     "correct": "B"
   },
@@ -436,6 +866,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken pandemi førte til mundbindskrav, skolelukninger og hjemmearbejde i Danmark i 2020-22?",
+    "options": {
+      "A": "Den Spanske Syge",
+      "B": "Den Sorte Død",
+      "C": "Covid-19-pandemien"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvilket politisk parti blev dannet i slutningen af 1950’erne af en gruppe tidligere medlemmer af Danmarks Kommunistiske Parti (DKP)?",
     "options": {
@@ -444,6 +884,16 @@
       "C": "Radikale Venstre"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket parti blev valgt til Folketinget første gang i 2011 med fokus på skattelettelser og lavere offentlige udgifter?",
+    "options": {
+      "A": "Alternativet",
+      "B": "Nye Borgerlige",
+      "C": "Liberal Alliance"
+    },
+    "correct": "C"
   },
   {
     "exam": "real",
@@ -456,12 +906,32 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket parti blev valgt til Folketinget første gang i 2015 med større fokus på klima, natur og miljø?",
+    "options": {
+      "A": "Danmarksdemokraterne",
+      "B": "Alternativet",
+      "C": "Liberal Alliance"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilket af følgende partier har aldrig været med i en regering?",
     "options": {
       "A": "Radikale Venstre",
       "B": "Enhedslisten",
       "C": "Socialistisk Folkeparti"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket parti blev valgt til Folketinget første gang i 2019 og ønskede lavere skatter og besparelser på ulandsbistand?",
+    "options": {
+      "A": "Moderaterne",
+      "B": "Nye Borgerlige",
+      "C": "Enhedslisten"
     },
     "correct": "B"
   },
@@ -476,11 +946,31 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvem stiftede Danmarksdemokraterne kort før folketingsvalget i 2022?",
+    "options": {
+      "A": "Pia Kjærsgaard",
+      "B": "Lars Løkke Rasmussen",
+      "C": "Inger Støjberg"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvad karakteriserede blandt andet 1960’erne i Danmark?",
     "options": {
       "A": "Oliekrise og høj arbejdsløshed",
       "B": "Høj økonomisk vækst med stor stigning i produktion og forbrug"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem stiftede Moderaterne kort før folketingsvalget i 2022 og ønskede en regering hen over midten?",
+    "options": {
+      "A": "Poul Nyrup Rasmussen",
+      "B": "Lars Løkke Rasmussen",
+      "C": "Inger Støjberg"
     },
     "correct": "B"
   },
@@ -495,12 +985,32 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken type regering blev dannet efter folketingsvalget i 2022 med Mette Frederiksen som statsminister?",
+    "options": {
+      "A": "Mindretalsregering alene med Socialdemokratiet",
+      "B": "Flertalsregering med kun borgerlige partier",
+      "C": "Flertalsregering med Socialdemokratiet, Venstre og Moderaterne"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvornår blev Nina Bang udnævnt til Danmarks første kvindelige minister?",
     "options": {
       "A": "1924",
       "B": "1941",
       "C": "1963"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilke to nye partier mistede Danmarksdemokraterne og Moderaterne repræsentation for i Folketinget efter valget i 2022?",
+    "options": {
+      "A": "Nye Borgerlige mistede alle medlemmer",
+      "B": "Liberal Alliance mistede alle medlemmer",
+      "C": "Alternativet mistede alle medlemmer"
     },
     "correct": "A"
   },
@@ -514,6 +1024,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken konge grundlagde nye byer som Kristianstad i Skåne og Kristiania (nutidens Oslo)?",
+    "options": {
+      "A": "Valdemar Atterdag",
+      "B": "Christian 3.",
+      "C": "Christian 4."
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvilket af følgende partier er nyest?",
     "options": {
@@ -522,6 +1042,16 @@
       "C": "Enhedslisten"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad skete med Norges status i unionen med Danmark efter Kalmarunionens opløsning?",
+    "options": {
+      "A": "Norge gik til Sverige i 1397",
+      "B": "Norge blev selvstændigt i 1523",
+      "C": "Norge forblev i union med Danmark indtil 1814"
+    },
+    "correct": "C"
   },
   {
     "exam": "real",
@@ -534,11 +1064,31 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken sætning stammer fra indledningen til Jyske Lov fra 1241?",
+    "options": {
+      "A": "Med sværd skal man land erobre",
+      "B": "Med tro skal man land frelse",
+      "C": "Med lov skal man land bygge"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Fik kvinder valgret til Folketinget med grundloven i 1849?",
     "options": {
       "A": "Ja",
       "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken dansk statsminister blev i 2009 generalsekretær for NATO?",
+    "options": {
+      "A": "Helle Thorning-Schmidt",
+      "B": "Anders Fogh Rasmussen",
+      "C": "Poul Nyrup Rasmussen"
     },
     "correct": "B"
   },
@@ -553,6 +1103,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket år blev der afholdt folkeafstemning om Danmarks fire EU-forbehold, der stadig gælder delvist i dag?",
+    "options": {
+      "A": "1953",
+      "B": "1972",
+      "C": "1993"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvornår trådte Danmarks Riges Grundlov i kraft?",
     "options": {
@@ -561,6 +1121,16 @@
       "C": "1899"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad var en af årsagerne til, at Dansk Folkeparti blev valgt ind første gang i 1998?",
+    "options": {
+      "A": "Ønske om højere skatter",
+      "B": "Ønske om mere EU-samarbejde",
+      "C": "Ønske om stramninger af udlændingepolitikken"
+    },
+    "correct": "C"
   },
   {
     "exam": "real",
@@ -573,6 +1143,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken begivenhed i 1989 førte til, at Danmark fik tættere forbindelser med de baltiske lande?",
+    "options": {
+      "A": "Oliekrisen",
+      "B": "Finanskrisen",
+      "C": "Berlinmurens fald"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvornår fandt den danske regerings samarbejdspolitik med Tyskland under 2. Verdenskrig sted?",
     "options": {
@@ -582,12 +1162,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilke danske soldater var udstationeret som FN-styrker i Bosnien og Kroatien i midten af 1990’erne?",
+    "options": {
+      "A": "I forbindelse med Irak-krigen",
+      "B": "I forbindelse med Afghanistan",
+      "C": "I forbindelse med opløsningen af Jugoslavien"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "I hvilken sektor arbejdede der flest mennesker omkring 1850?",
     "options": {
       "A": "Industri",
       "B": "Fiskeri",
       "C": "Landbrug"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad var et af formålene med restriktionerne under Covid-19-pandemien i Danmark?",
+    "options": {
+      "A": "At sænke skatterne",
+      "B": "At øge turismen",
+      "C": "At forhindre overbelastning af sygehusene"
     },
     "correct": "C"
   },
@@ -601,12 +1201,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvor mange danskere blev vaccineret mod coronavirus med to eller tre stik?",
+    "options": {
+      "A": "Kun 50 procent",
+      "B": "Kun 10 procent",
+      "C": "Cirka 90 procent af befolkningen"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvilket år blev Margrethe den 2. dronning af Danmark?",
     "options": {
       "A": "1962",
       "B": "1972",
       "C": "1982"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken type regering havde Danmark flest af siden 2. Verdenskrig ifølge lærematerialet?",
+    "options": {
+      "A": "Flertalsregering",
+      "B": "Mindretalsregering",
+      "C": "Enevældig regering"
     },
     "correct": "B"
   },
@@ -621,6 +1241,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvad symboliserer Thors hammer Mjølner i asatroen?",
+    "options": {
+      "A": "Torden og krig",
+      "B": "Frugtbarhed",
+      "C": "Visdom"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Langs hvilken kyst i Danmark ligger der særligt mange bunkere, som tyskerne fik bygget under 2. Verdenskrig?",
     "options": {
@@ -629,6 +1259,16 @@
       "C": "Jyllands vestkyst"
     },
     "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad var håndfæstninger i middelalderen aftaler om mellem?",
+    "options": {
+      "A": "Kongen og stormændene",
+      "B": "Kongen og kirken",
+      "C": "Kongen og bønderne"
+    },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -641,6 +1281,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken lov fra 1241 indeholder sætningen \"Med lov skal man land bygge\"?",
+    "options": {
+      "A": "Danske Lov",
+      "B": "Jyske Lov",
+      "C": "Kalmarloven"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilket land anlagde en militær base i det nordlige Grønland i begyndelsen af 1950'erne?",
     "options": {
@@ -649,6 +1299,16 @@
       "C": "USA"
     },
     "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad overtog kongen fra den katolske kirke ved reformationen i 1536?",
+    "options": {
+      "A": "Kirkens jord og værdier",
+      "B": "Pavens magt i Rom",
+      "C": "Klostrenes sprog"
+    },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -661,12 +1321,32 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken ø gjorde oprør og blev dansk igen efter at være afstået til Sverige i 1658?",
+    "options": {
+      "A": "Bornholm",
+      "B": "Samsø",
+      "C": "Langeland"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvilket land sendte Danmark soldater til i 2003 på baggrund af amerikansk invasion?",
     "options": {
       "A": "Syrien",
       "B": "Irak",
       "C": "Libyen"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad skiftede EF navn til i 1992?",
+    "options": {
+      "A": "NATO",
+      "B": "EU",
+      "C": "FN"
     },
     "correct": "B"
   },
@@ -681,6 +1361,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken aftale fra 1993 gav Danmark fire EU-forbehold?",
+    "options": {
+      "A": "Maastricht-traktaten",
+      "B": "Edinburgh-aftalen",
+      "C": "Roskilde-freden"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilket parti stemte landmænd typisk på i midten af 1900-tallet?",
     "options": {
@@ -689,6 +1379,16 @@
       "C": "Venstre"
     },
     "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket boligområde i Aarhus blev nævnt som eksempel på områder med mange indvandrere og flygtninge i 1990’erne?",
+    "options": {
+      "A": "Gellerupparken",
+      "B": "Trelleborg",
+      "C": "Roskilde Domkirke"
+    },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -701,6 +1401,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvad førte Muhammed-karikaturtegningerne i Jyllands-Posten i 2005 til i flere muslimske lande?",
+    "options": {
+      "A": "Boykot af danske produkter og demonstrationer",
+      "B": "Dansk indtræden i NATO",
+      "C": "Oliekrise i Danmark"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvornår blev Moderaterne valgt til Folketinget første gang?",
     "options": {
@@ -709,6 +1419,16 @@
       "C": "2022"
     },
     "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket terrorangreb ramte København i 2015 ved et debatmøde om ytringsfrihed og en jødisk synagoge?",
+    "options": {
+      "A": "Terrorangrebet på Østerbro og synagogen",
+      "B": "Terrorangrebet ved Hovedbanegården",
+      "C": "Terrorangrebet i lufthavnen"
+    },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -721,6 +1441,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken pandemi førte til mundbindskrav, skolelukninger og hjemmearbejde i Danmark fra 2020?",
+    "options": {
+      "A": "Den Spanske Syge",
+      "B": "Covid-19-pandemien",
+      "C": "Den Sorte Død"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "I hvilket af følgende årtier var Thorvald Stauning statsminister?",
     "options": {
@@ -731,12 +1461,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket parti blev valgt til Folketinget første gang i 2011 med fokus på skattelettelser og lavere offentlige udgifter?",
+    "options": {
+      "A": "Nye Borgerlige",
+      "B": "Liberal Alliance",
+      "C": "Alternativet"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvornår er landegrænsen mellem Danmark og Tyskland sidst blevet ændret?",
     "options": {
       "A": "1720",
       "B": "1820",
       "C": "1920"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket parti blev valgt til Folketinget første gang i 2015 med større fokus på klima og miljø?",
+    "options": {
+      "A": "Liberal Alliance",
+      "B": "Danmarksdemokraterne",
+      "C": "Alternativet"
     },
     "correct": "C"
   },
@@ -751,12 +1501,32 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket parti blev valgt til Folketinget første gang i 2019 og ønskede besparelser på ulandsbistand?",
+    "options": {
+      "A": "Nye Borgerlige",
+      "B": "Moderaterne",
+      "C": "Enhedslisten"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvilken funktion havde Kronborg Slot i Helsingør frem til 1857?",
     "options": {
       "A": "Hjemsted for Højesteret",
       "B": "Gravsted for danske konger og dronninger",
       "C": "Opkrævning af told fra skibe, der sejlede gennem Øresund"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem stiftede Danmarksdemokraterne kort før valget i 2022?",
+    "options": {
+      "A": "Lars Løkke Rasmussen",
+      "B": "Pia Kjærsgaard",
+      "C": "Inger Støjberg"
     },
     "correct": "C"
   },
@@ -771,6 +1541,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvem stiftede Moderaterne kort før valget i 2022 og ønskede en regering hen over midten?",
+    "options": {
+      "A": "Inger Støjberg",
+      "B": "Lars Løkke Rasmussen",
+      "C": "Poul Nyrup Rasmussen"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilket land blev Danmark angrebet og besejret af i Slaget på Reden i 1801 under Napoleonskrigene?",
     "options": {
@@ -779,6 +1559,16 @@
       "C": "Spanien"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken type regering blev dannet efter folketingsvalget i 2022 med Mette Frederiksen som statsminister?",
+    "options": {
+      "A": "Mindretalsregering kun med Socialdemokratiet",
+      "B": "Flertalsregering med Socialdemokratiet, Venstre og Moderaterne",
+      "C": "Flertalsregering kun med borgerlige partier"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -791,12 +1581,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket parti mistede alle sine medlemmer i Folketinget efter valget i 2022 og er ikke længere repræsenteret?",
+    "options": {
+      "A": "Liberal Alliance",
+      "B": "Alternativet",
+      "C": "Nye Borgerlige"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "På hvilken dato markeres Danmarks befrielse i 1945 efter fem års tysk besættelse?",
     "options": {
       "A": "8. marts",
       "B": "9. april",
       "C": "5. maj"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvor blev danske soldater udstationeret som FN-styrker i midten af 1990’erne?",
+    "options": {
+      "A": "Afghanistan",
+      "B": "Irak",
+      "C": "Bosnien og Kroatien"
     },
     "correct": "C"
   },
@@ -811,6 +1621,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvad var et hovedformål med restriktionerne under Covid-19-pandemien i Danmark?",
+    "options": {
+      "A": "At øge turismen",
+      "B": "At forhindre overbelastning af sygehusene",
+      "C": "At sænke skatterne"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvad blev vedtaget med grundlovsændringen i 1915?",
     "options": {
@@ -819,6 +1639,16 @@
       "C": "At kvinder skulle aftjene værnepligt"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvor mange danskere blev vaccineret mod coronavirus med to eller tre stik?",
+    "options": {
+      "A": "Kun cirka 10 procent",
+      "B": "Kun cirka 50 procent",
+      "C": "Cirka 90 procent af befolkningen"
+    },
+    "correct": "C"
   },
   {
     "exam": "real",
@@ -831,6 +1661,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken type regering har været mest almindelig i Danmark siden 2. Verdenskrig?",
+    "options": {
+      "A": "Flertalsregering",
+      "B": "Enevældig regering",
+      "C": "Mindretalsregering"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvilket af følgende partier er nyest?",
     "options": {
@@ -841,12 +1681,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken konge grundlagde byer som Kristianstad i Skåne og Kristiania (nutidens Oslo)?",
+    "options": {
+      "A": "Christian 3.",
+      "B": "Valdemar Atterdag",
+      "C": "Christian 4."
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvor ligger flest danske konger og dronninger begravet?",
     "options": {
       "A": "Viborg Domkirke",
       "B": "Roskilde Domkirke",
       "C": "Ribe Domkirke"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvor længe forblev Norge i union med Danmark efter Kalmarunionens opløsning?",
+    "options": {
+      "A": "Indtil 1523",
+      "B": "Indtil 1814",
+      "C": "Indtil 1397"
     },
     "correct": "B"
   },
@@ -861,6 +1721,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken sætning står i indledningen til Jyske Lov fra 1241?",
+    "options": {
+      "A": "Med sværd skal man land erobre",
+      "B": "Med tro skal man land frelse",
+      "C": "Med lov skal man land bygge"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvad indebar reformationen i Danmark i 1536?",
     "options": {
@@ -871,6 +1741,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken regel kræver mindst 24 år for familiesammenføring med ægtefælle fra udlandet?",
+    "options": {
+      "A": "18-års-reglen",
+      "B": "30-års-reglen",
+      "C": "24-års-reglen"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvad blev resultatet af Den 2. Slesvigske Krig i 1864?",
     "options": {
@@ -878,6 +1758,16 @@
       "B": "Danmark tabte Slesvig"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket år blev reformationen formelt gennemført i Danmark?",
+    "options": {
+      "A": "1397",
+      "B": "1660",
+      "C": "1536"
+    },
+    "correct": "C"
   },
   {
     "exam": "real",
@@ -890,6 +1780,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvad blev oversat til dansk som følge af reformationen?",
+    "options": {
+      "A": "Jyske Lov",
+      "B": "Kalmartraktaten",
+      "C": "Biblen"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvilken konge fik skrevet på den ene af Jellingstenene, at han gjorde danskerne (danerne) kristne?",
     "options": {
@@ -898,6 +1798,16 @@
       "C": "Valdemar Sejr"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvor mange kirker var der cirka bygget i Danmark omkring år 1250?",
+    "options": {
+      "A": "Over 10.000",
+      "B": "Kun 100",
+      "C": "Op mod 3.000"
+    },
+    "correct": "C"
   },
   {
     "exam": "real",
@@ -910,6 +1820,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket korstog i 1219 førte ifølge legenden til at Dannebrog faldt ned fra himlen?",
+    "options": {
+      "A": "Korstoget til Norge",
+      "B": "Korstoget til Sverige",
+      "C": "Korstoget til Estland"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvornår fik Danmark sin første socialdemokratiske statsminister?",
     "options": {
@@ -918,6 +1838,16 @@
       "C": "1966"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem samlede Danmark, Norge og Sverige i Kalmarunionen?",
+    "options": {
+      "A": "Valdemar Atterdag",
+      "B": "Christian 3.",
+      "C": "Margrete 1."
+    },
+    "correct": "C"
   },
   {
     "exam": "real",
@@ -930,6 +1860,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken skat skulle befolkningen betale til kirken i middelalderen?",
+    "options": {
+      "A": "Bøde",
+      "B": "Aflad",
+      "C": "Tiende"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvilke tre lande dannede Kalmarunionen i 1397?",
     "options": {
@@ -938,6 +1878,16 @@
       "C": "Danmark, England og Norge"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken missionær byggede kirker i Danmark i 800-tallet?",
+    "options": {
+      "A": "Hans Tausen",
+      "B": "Martin Luther",
+      "C": "Ansgar"
+    },
+    "correct": "C"
   },
   {
     "exam": "real",
@@ -950,12 +1900,32 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken religion dyrkede danskerne i vikingetiden før kristendommen?",
+    "options": {
+      "A": "Protestantisk kristendom",
+      "B": "Katolsk kristendom",
+      "C": "Asatro"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "I hvilket årti ophørte Danmarks Radios monopol og dermed eneretten til at sende dansk tv?",
     "options": {
       "A": "1940’erne",
       "B": "1960’erne",
       "C": "1980’erne"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem var gudernes konge i asatroen med ét øje og to ravne?",
+    "options": {
+      "A": "Thor",
+      "B": "Freja",
+      "C": "Odin"
     },
     "correct": "C"
   },
@@ -970,6 +1940,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken konge rejste den store Jellingsten omkring år 965?",
+    "options": {
+      "A": "Gorm den Gamle",
+      "B": "Svend Tveskæg",
+      "C": "Harald Blåtand"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvilket af følgende politiske partier er ældst?",
     "options": {
@@ -980,12 +1960,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilke militære anlæg byggede Harald Blåtand omkring år 980?",
+    "options": {
+      "A": "Domkirker",
+      "B": "Klostre",
+      "C": "Ringborge"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "I hvilket år blev Øresundsbroen åbnet?",
     "options": {
       "A": "I 1970",
       "B": "I 1985",
       "C": "I 2000"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad gjorde vikingeskibene særligt egnede til lange togter?",
+    "options": {
+      "A": "De var større og rummede flere krigere",
+      "B": "De havde sejl af silke",
+      "C": "De var mere solide og smidige"
     },
     "correct": "C"
   },
@@ -1000,12 +2000,32 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvornår blev Danmark en konstitutionel monarki med Junigrundloven?",
+    "options": {
+      "A": "1660",
+      "B": "1814",
+      "C": "1849"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvilket år ophørte den danske regerings samarbejdspolitik med den tyske besættelsesmagt under 2. Verdenskrig?",
     "options": {
       "A": "1941",
       "B": "1943",
       "C": "1945"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken krig i 1864 førte til, at Danmark mistede Slesvig, Holsten og Lauenburg til Preussen og Østrig?",
+    "options": {
+      "A": "Trediveårskrigen",
+      "B": "Den Anden Slesvigske Krig",
+      "C": "Den Store Nordiske Krig"
     },
     "correct": "B"
   },
@@ -1020,6 +2040,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvornår blev Danmark neutral under Første Verdenskrig?",
+    "options": {
+      "A": "1914-1918",
+      "B": "1939-1945",
+      "C": "1940-1945"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvornår blev den første lov om folkepension vedtaget?",
     "options": {
@@ -1028,6 +2058,16 @@
       "C": "1982"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvornår blev Danmark besat af Tyskland under Anden Verdenskrig?",
+    "options": {
+      "A": "9. april 1940",
+      "B": "8. maj 1945",
+      "C": "1. september 1939"
+    },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -1040,6 +2080,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvad skete med Danmark den 5. maj 1945?",
+    "options": {
+      "A": "Danmark blev besat",
+      "B": "Danmark blev befriet",
+      "C": "Danmark erklærede krig mod Tyskland"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilken af følgende befolkningsgrupper fik partiet Venstre flest stemmer fra i slutningen af 1800-tallet?",
     "options": {
@@ -1048,6 +2098,16 @@
       "C": "Bønder"
     },
     "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken folkeafstemning i 1920 førte til genforeningen af Nordslesvig med Danmark?",
+    "options": {
+      "A": "Folkeafstemningen om Sønderjylland",
+      "B": "Folkeafstemningen om Færøerne",
+      "C": "Folkeafstemningen om Grønland"
+    },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -1060,6 +2120,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvornår blev kvinderne i Danmark tildelt almindelig valgret?",
+    "options": {
+      "A": "1849",
+      "B": "1915",
+      "C": "1920"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilket politisk parti opstod i 1870’erne som en del af arbejderbevægelsen?",
     "options": {
@@ -1070,12 +2140,32 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken dansk politiker var statsminister under besættelsen og senere kendt for samarbejdspolitikken?",
+    "options": {
+      "A": "Thorvald Stauning",
+      "B": "H. C. Hansen",
+      "C": "Poul Schlüter"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvornår blev Grønlands hjemmestyreordning indført?",
     "options": {
       "A": "1949",
       "B": "1979",
       "C": "2019"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvornår blev Danmark medlem af EF (senere EU)?",
+    "options": {
+      "A": "1960",
+      "B": "1973",
+      "C": "1993"
     },
     "correct": "B"
   },
@@ -1090,6 +2180,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvad var hovedårsagen til systemskiftet i 1901?",
+    "options": {
+      "A": "Indførelse af parlamentarisme",
+      "B": "Krigen i 1864",
+      "C": "EU-medlemskab"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvornår ophørte Den Kolde Krig?",
     "options": {
@@ -1098,6 +2198,16 @@
       "C": "Omkring 1990"
     },
     "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken dansk statsminister stod bag opbygningen af velfærdsstaten i midten af 1900-tallet?",
+    "options": {
+      "A": "Thorvald Stauning",
+      "B": "Helle Thorning-Schmidt",
+      "C": "Anders Fogh Rasmussen"
+    },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -1110,6 +2220,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvornår fik Grønland hjemmestyre?",
+    "options": {
+      "A": "1948",
+      "B": "1979",
+      "C": "2009"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilken begivenhed blev markeret den 5. april 2021?",
     "options": {
@@ -1120,12 +2240,32 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken begivenhed i 1848-51 handlede om dansk-tyske modsætninger i hertugdømmerne?",
+    "options": {
+      "A": "Den Første Slesvigske Krig",
+      "B": "Den Anden Slesvigske Krig",
+      "C": "Treårskrigen"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvilken konge står bag opførelsen af blandt andet Rundetårn og Rosenborg Slot i København?",
     "options": {
       "A": "Christian den 4.",
       "B": "Christian den 7.",
       "C": "Christian den 10."
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem var den første socialdemokratiske statsminister i Danmark?",
+    "options": {
+      "A": "Thorvald Stauning",
+      "B": "Poul Nyrup Rasmussen",
+      "C": "Mette Frederiksen"
     },
     "correct": "A"
   },
@@ -1140,6 +2280,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvad skete med Færøerne under Anden Verdenskrig?",
+    "options": {
+      "A": "De blev besat af Tyskland",
+      "B": "De blev beskyttet af Storbritannien",
+      "C": "De blev selvstændige"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilken tidligere dansk statsminister blev i 2009 generalsekretær for NATO?",
     "options": {
@@ -1150,12 +2300,32 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken lov fra 1849 indførte frihedsrettigheder og et tokammersystem?",
+    "options": {
+      "A": "Junigrundloven",
+      "B": "Kongeloven",
+      "C": "Grundloven af 1953"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvilken af følgende internationale organisationer blev Danmark medlem af i 1973?",
     "options": {
       "A": "EF",
       "B": "WTO",
       "C": "OECD"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem var dronning Margrethe 1.s adoptivsøn, der blev kronet i Kalmar i 1397?",
+    "options": {
+      "A": "Erik af Pommern",
+      "B": "Valdemar Atterdag",
+      "C": "Christian 1."
     },
     "correct": "A"
   },
@@ -1170,6 +2340,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken periode kaldes ofte \"den oplyste enevælde\" i Danmark?",
+    "options": {
+      "A": "1660-1784",
+      "B": "1784-1800",
+      "C": "1849-1901"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilken begivenhed fandt sted i Danmark i 1807?",
     "options": {
@@ -1180,12 +2360,32 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvad var hovedresultatet af freden i Kiel i 1814 for Danmark?",
+    "options": {
+      "A": "Tab af Norge",
+      "B": "Tab af Skåne",
+      "C": "Genforening med Slesvig"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "I hvilket årti åbnede Danmarks første jernbanestrækning?",
     "options": {
       "A": "1780’erne",
       "B": "1840’erne",
       "C": "1910’erne"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvornår blev den danske Grundlov ændret til den nuværende version?",
+    "options": {
+      "A": "1849",
+      "B": "1953",
+      "C": "1992"
     },
     "correct": "B"
   },
@@ -1200,6 +2400,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvem var den danske modstandsbevægelse aktiv imod under den tyske besættelse?",
+    "options": {
+      "A": "Under 2. Verdenskrig",
+      "B": "Under 1. Verdenskrig",
+      "C": "Under Napoleonskrigene"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvad indebar den seneste ændring af grundloven i 1953 blandt andet?",
     "options": {
@@ -1208,6 +2418,16 @@
       "C": "At Danmark blev medlem af FN"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad var det vigtigste resultat af folkeafstemningen i 1972 for Danmark?",
+    "options": {
+      "A": "Medlemskab af EF",
+      "B": "Fire EU-forbehold",
+      "C": "Indførelse af euroen"
+    },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -1220,6 +2440,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken dansk konge mistede synet på det ene øje under et søslag i 1644?",
+    "options": {
+      "A": "Christian 4.",
+      "B": "Frederik 3.",
+      "C": "Christian 7."
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvorfor kaldes folketingsvalget i 1973 for ”Jordskredsvalget”?",
     "options": {
@@ -1228,5 +2458,235 @@
       "C": "Fordi Socialdemokratiet opnåede absolut flertal"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad kaldes den periode efter 1901, hvor Venstre og Socialdemokraterne skiftedes om magten?",
+    "options": {
+      "A": "Systemskiftet",
+      "B": "Enevælden",
+      "C": "Kalmarunionen"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken dansk politiker var statsminister under finanskrisen i 2008?",
+    "options": {
+      "A": "Anders Fogh Rasmussen",
+      "B": "Lars Løkke Rasmussen",
+      "C": "Helle Thorning-Schmidt"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvornår fik Færøerne hjemmestyre?",
+    "options": {
+      "A": "1948",
+      "B": "1979",
+      "C": "2009"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad var den vigtigste sociale reform under Thorvald Stauning?",
+    "options": {
+      "A": "Opbygning af velfærdsstaten",
+      "B": "Indførelse af enevælde",
+      "C": "Tab af Norge"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken lov fra 1953 afskaffede Landstinget og indførte étkammersystem?",
+    "options": {
+      "A": "Junigrundloven",
+      "B": "Grundloven af 1953",
+      "C": "Kongeloven"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem var den danske dronning, der regerede fra 1972 til 2024?",
+    "options": {
+      "A": "Margrethe 2.",
+      "B": "Caroline Mathilde",
+      "C": "Margrete 1."
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken begivenhed i 1943 førte til redningen af de fleste danske jøder?",
+    "options": {
+      "A": "Oktober 1943-flugten til Sverige",
+      "B": "Besættelsen den 9. april",
+      "C": "Befrielsen den 5. maj"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad var hovedårsagen til Danmarks neutralitetspolitik i 1800-tallet?",
+    "options": {
+      "A": "At undgå krig efter 1864",
+      "B": "At deltage i Napoleonskrigene",
+      "C": "At støtte Sverige"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken dansk konge mistede synet på det ene øje under et søslag i 1644?",
+    "options": {
+      "A": "Christian 4.",
+      "B": "Frederik 3.",
+      "C": "Christian 7."
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad symboliserer Bluetooth-teknologien i forhold til dansk historie?",
+    "options": {
+      "A": "Harald Blåtand",
+      "B": "Christian 4.",
+      "C": "Margrete 1."
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvornår fik Danmark sit første folkehøjskole?",
+    "options": {
+      "A": "1844",
+      "B": "1864",
+      "C": "1901"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken krig i 1848-51 vandt Danmark mod de slesvig-holstenske oprørere?",
+    "options": {
+      "A": "Den Første Slesvigske Krig",
+      "B": "Den Anden Slesvigske Krig",
+      "C": "Treårskrigen"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem indførte trykkefrihed i 1770 under den oplyste enevælde?",
+    "options": {
+      "A": "Struensee",
+      "B": "Christian 7.",
+      "C": "Frederik 6."
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad var det danske imperiums vigtigste oversøiske besiddelser i 1700-1800-tallet?",
+    "options": {
+      "A": "Grønland, Island, Færøerne og kolonier i Vestindien",
+      "B": "Skåne og Halland",
+      "C": "Norge og Sverige"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad skete med Island i 1944?",
+    "options": {
+      "A": "Island blev selvstændigt",
+      "B": "Island blev dansk igen",
+      "C": "Island blev besat af Tyskland"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem var statsminister under Muhammed-krisen i 2005-06?",
+    "options": {
+      "A": "Anders Fogh Rasmussen",
+      "B": "Helle Thorning-Schmidt",
+      "C": "Lars Løkke Rasmussen"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken dansk konge regerede under Stockholm Blodbadet i 1520?",
+    "options": {
+      "A": "Christian 2.",
+      "B": "Christian 3.",
+      "C": "Frederik 1."
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad skete med Danmark under Napoleonskrigene?",
+    "options": {
+      "A": "Bombardementet af København i 1807",
+      "B": "Tab af Norge i 1814",
+      "C": "Begge dele"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvornår blev den danske velfærdsstat mest udbygget?",
+    "options": {
+      "A": "Efter 2. Verdenskrig",
+      "B": "I 1800-tallet",
+      "C": "Under enevælden"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken folkeafstemning i 2000 handlede om euroen?",
+    "options": {
+      "A": "Nej til euroen",
+      "B": "Ja til EU-forbehold",
+      "C": "Nej til NATO"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad var det vigtigste resultat af Junigrundloven i 1849?",
+    "options": {
+      "A": "Indførelse af demokrati og frihedsrettigheder",
+      "B": "Indførelse af enevælde",
+      "C": "Tab af Norge"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken periode kaldes \"Guldalderen\" i dansk kultur?",
+    "options": {
+      "A": "Første halvdel af 1800-tallet",
+      "B": "Vikingetiden",
+      "C": "Efter 1945"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad skete med Grønland i 1953?",
+    "options": {
+      "A": "Det blev en del af Danmark som amt",
+      "B": "Det blev selvstændigt",
+      "C": "Det blev solgt til USA"
+    },
+    "correct": "A"
   }
 ]
