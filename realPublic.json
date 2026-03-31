@@ -9,6 +9,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvor mange paragraffer indeholder Danmarks Riges Grundlov?",
+    "options": {
+      "A": "89",
+      "B": "175",
+      "C": "179"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvilken rettighed er sikret i grundloven?",
     "options": {
@@ -19,12 +29,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvad var den officielle styreform i Danmark fra 1660-61 til 1849?",
+    "options": {
+      "A": "Parlamentarisme",
+      "B": "Enevælde",
+      "C": "Republik"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvem har den dømmende magt?",
     "options": {
       "A": "Folketinget",
       "B": "Regeringen",
       "C": "Domstolene"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket år blev det parlamentariske princip indføjet direkte i grundlovsteksten?",
+    "options": {
+      "A": "1901",
+      "B": "1915",
+      "C": "1953"
     },
     "correct": "C"
   },
@@ -38,6 +68,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "I hvilket år fik kvinder og tjenestefolk valgret til Folketinget?",
+    "options": {
+      "A": "1849",
+      "B": "1915",
+      "C": "1978"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Kan en regering bestå af et eller flere partier, der ikke tilsammen har flertal i Folketinget?",
     "options": {
@@ -45,6 +85,16 @@
       "B": "Nej"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvor mange gange er grundloven blevet ændret siden den første demokratiske udgave i 1849?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -57,12 +107,32 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvad kræves der for at ændre grundloven?",
+    "options": {
+      "A": "Kun flertal i Folketinget",
+      "B": "Tilslutning fra både Folketinget og befolkningen",
+      "C": "Kun folkeafstemning uden Folketingets godkendelse"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilket af følgende områder har kommunerne ansvaret for driften af?",
     "options": {
       "A": "Politi",
       "B": "Ældrepleje",
       "C": "Universiteter"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken rettighed er sikret i grundloven blandt andet som retten til frit at give udtryk for sine holdninger?",
+    "options": {
+      "A": "Forsamlingsfrihed",
+      "B": "Ytringsfrihed",
+      "C": "Ejendomsret"
     },
     "correct": "B"
   },
@@ -77,6 +147,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken magtudøvelse er overtaget af regeringen i praksis, selvom grundloven stadig nævner kongen?",
+    "options": {
+      "A": "Den dømmende magt",
+      "B": "Den politiske magt",
+      "C": "Den lovgivende magt alene"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvornår blev regionerne oprettet?",
     "options": {
@@ -87,6 +167,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvem bestemmer ifølge grundloven, hvilke udlændinge der kan tildeles dansk indfødsret?",
+    "options": {
+      "A": "Domstolene",
+      "B": "Regeringen og Folketingets flertal",
+      "C": "Kommunerne"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Har et homoseksuelt par ret til at indgå ægteskab?",
     "options": {
@@ -94,6 +184,16 @@
       "B": "Nej"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken type demokrati er det danske folkestyre overvejende?",
+    "options": {
+      "A": "Direkte demokrati",
+      "B": "Repræsentativt og indirekte demokrati",
+      "C": "Kun lokalt demokrati"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -106,12 +206,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvad er magtens tredeling i det danske system?",
+    "options": {
+      "A": "Folketinget, kommunerne og regionerne",
+      "B": "Lovgivende, udøvende og dømmende magt",
+      "C": "Monark, regering og EU"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilken mærkedag fejres den 5. juni?",
     "options": {
       "A": "Dronningens fødselsdag",
       "B": "Danmarks befrielse",
       "C": "Grundlovsdag"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem udøver den dømmende magt i Danmark?",
+    "options": {
+      "A": "Regeringen",
+      "B": "Folketinget",
+      "C": "Domstolene"
     },
     "correct": "C"
   },
@@ -126,6 +246,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken rolle har monarken i det danske demokrati ifølge grundloven i praksis?",
+    "options": {
+      "A": "Politisk magtfuld statsoverhoved",
+      "B": "Ceremoniel repræsentant uden politisk magt",
+      "C": "Valgt folkeafstemningsleder"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvad hedder Radikale Venstres politiske leder?",
     "options": {
@@ -136,12 +266,32 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilke frihedsrettigheder beskytter grundloven borgerne og mindretallet imod?",
+    "options": {
+      "A": "Flertallets misbrug af magt",
+      "B": "Kun økonomiske rettigheder",
+      "C": "Kun militære beslutninger"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvilken meget omtalt aftale indgik regeringen med en række partier i efteråret 2020?",
     "options": {
       "A": "En aftale om en folkeskolereform",
       "B": "En aftale om ret til tidlig pension",
       "C": "En aftale om afskaffelse af værnepligten"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvor mange medlemmer vælges til Folketinget i Danmark (ekskl. Færøerne og Grønland)?",
+    "options": {
+      "A": "179",
+      "B": "175",
+      "C": "98"
     },
     "correct": "B"
   },
@@ -156,6 +306,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvor ligger Folketinget fysisk?",
+    "options": {
+      "A": "Christiansborg i København",
+      "B": "Slotsholmen uden for København",
+      "C": "Højesteret i Aarhus"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvilken af følgende borgmestre gik af i oktober 2020?",
     "options": {
@@ -164,6 +324,16 @@
       "C": "Borgmester i Odense Peter Rahbæk Juel"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvornår begynder folketingsåret med statsministerens åbningstale?",
+    "options": {
+      "A": "Første tirsdag i oktober",
+      "B": "5. juni",
+      "C": "Første mandag i januar"
+    },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -175,11 +345,31 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvor mange lovforslag vedtager Folketinget i gennemsnit om året?",
+    "options": {
+      "A": "Cirka 100",
+      "B": "Cirka 200",
+      "C": "Cirka 300"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvem vedtager et lovforslag?",
     "options": {
       "A": "Regeringen",
       "B": "Folketinget"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad er en kongerunde?",
+    "options": {
+      "A": "En folkeafstemning om grundloven",
+      "B": "Partirepræsentanters råd til kongen om ny regering",
+      "C": "Årligt møde i Europaudvalget"
     },
     "correct": "B"
   },
@@ -194,6 +384,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvad kan Folketinget gøre, hvis det er utilfreds med en minister?",
+    "options": {
+      "A": "Udtale mistillid og tvinge ministeren til at gå af",
+      "B": "Udnævne en ny dommer",
+      "C": "Ændre grundloven ensidigt"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Kan et ægtepar ifølge dansk lov blive skilt, selvom den ene part ikke ønsker det?",
     "options": {
@@ -201,6 +401,16 @@
       "B": "Nej"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad sker der ved et mistillidsvotum mod statsministeren?",
+    "options": {
+      "A": "Regeringen bliver siddende",
+      "B": "Regeringen må gå af eller udskrive nyvalg",
+      "C": "Kun oppositionen træder tilbage"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -213,6 +423,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvor mange rigsretssager er der rejst mod ministre siden 1849?",
+    "options": {
+      "A": "2",
+      "B": "6",
+      "C": "15"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "På hvilken af følgende mærkedage holder dronningen hvert år en tale til hele rigsfællesskabet?",
     "options": {
@@ -223,11 +443,31 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvad omhandlede den rigsretssag fra 2021 mod en tidligere udlændinge- og integrationsminister?",
+    "options": {
+      "A": "Tamilsag om familiesammenføring",
+      "B": "Adskillelse af asylsøgende ægtefæller og samlevende par",
+      "C": "Beslaglæggelse af flygtninges værdigenstande"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Kan regeringen bestemme, hvordan en dommer skal dømme i en konkret retssag?",
     "options": {
       "A": "Nej",
       "B": "Ja"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad kaldes Folketingets stående udvalg ofte?",
+    "options": {
+      "A": "Folketingets værksteder",
+      "B": "Kongerunder",
+      "C": "Rigsretssale"
     },
     "correct": "A"
   },
@@ -242,6 +482,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvor mange medlemmer har et typisk stående udvalg i Folketinget?",
+    "options": {
+      "A": "15",
+      "B": "29",
+      "C": "179"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilken af følgende øgrupper er i rigsfællesskab med Danmark?",
     "options": {
@@ -252,12 +502,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket udvalg skal regeringen rådføre sig med før større udenrigspolitiske beslutninger?",
+    "options": {
+      "A": "Europaudvalget",
+      "B": "Det Udenrigspolitiske Nævn",
+      "C": "Finansudvalget"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvem repræsenterer DA, når der skal forhandles kollektive overenskomster på det danske arbejdsmarked?",
     "options": {
       "A": "Arbejdsgiverne",
       "B": "Regeringen",
       "C": "Lønmodtagerne"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad giver Europaudvalget regeringen i større EU-sager?",
+    "options": {
+      "A": "Et forhandlingsmandat",
+      "B": "Direkte lovgivningsmagt",
+      "C": "Retslig dom over ministre"
     },
     "correct": "A"
   },
@@ -272,6 +542,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvem har den udøvende magt i Danmark?",
+    "options": {
+      "A": "Folketinget",
+      "B": "Regeringen",
+      "C": "Domstolene"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvor mange procent af stemmerne ved et folketingsvalg skal et parti normalt have for at komme i Folketinget?",
     "options": {
@@ -280,6 +560,16 @@
       "C": "Mindst 6 %"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem udarbejder langt de fleste lovforslag?",
+    "options": {
+      "A": "Folketingets udvalg",
+      "B": "Regeringen",
+      "C": "Lokale kommuner"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -291,11 +581,31 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvad kaldes en regering, der ikke har flertal i Folketinget?",
+    "options": {
+      "A": "Flertalsregering",
+      "B": "Mindretalsregering",
+      "C": "Enhedsregering"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvem skal betale kirkeskat?",
     "options": {
       "A": "Alle skattepligtige borgere",
       "B": "Skattepligtige medlemmer af folkekirken"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilke partier indgik i regeringen siden 2022 ifølge materialet?",
+    "options": {
+      "A": "Socialdemokratiet, SF og Radikale Venstre",
+      "B": "Socialdemokratiet, Venstre og Moderaterne",
+      "C": "Venstre, Konservative og Danmarksdemokraterne"
     },
     "correct": "B"
   },
@@ -310,6 +620,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvad er støttepartier?",
+    "options": {
+      "A": "Partier i oppositionen",
+      "B": "Partier uden for regeringen, der støtter en mindretalsregering",
+      "C": "Partier i Folketingets udvalg"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilken begivenhed fandt sted den 15. maj 2021?",
     "options": {
@@ -318,6 +638,16 @@
       "C": "Kronprinsesse Mary og Kronprins Frederiks sølvbryllup"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken organisation repræsenterer arbejdsgiverne ved kollektive overenskomstforhandlinger?",
+    "options": {
+      "A": "Fagbevægelsens Hovedorganisation (FH)",
+      "B": "Dansk Arbejdsgiverforening (DA)",
+      "C": "Arbejdsgiverforeningen for Offentligt Ansatte"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -330,6 +660,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken tradition har dybe rødder i dansk historie og giver borgerne indflydelse på lokale forhold?",
+    "options": {
+      "A": "Centralt statsstyre",
+      "B": "Lokalt selvstyre i kommunerne",
+      "C": "EU-samarbejde"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvor stor en andel af Danmarks befolkning er medlem af folkekirken?",
     "options": {
@@ -338,6 +678,16 @@
       "C": "Cirka tre ud af fire"
     },
     "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken afdeling under Udenrigsministeriet har været ansvarlig for dansk udviklingspolitik siden 1971?",
+    "options": {
+      "A": "NATO-sekretariatet",
+      "B": "Danida",
+      "C": "Forsvarets Efterretningstjeneste"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -350,12 +700,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken verdensdel har historisk modtaget størstedelen af dansk udviklingsbistand?",
+    "options": {
+      "A": "Asien",
+      "B": "Latinamerika",
+      "C": "Afrika"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvad hedder den øverste domstol i Danmark?",
     "options": {
       "A": "Landsretten",
       "B": "Højesteret",
       "C": "Statsretten"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad var Afrikas befolkningstal cirka i 2025 ifølge materialet?",
+    "options": {
+      "A": "830 millioner",
+      "B": "1,55 milliarder",
+      "C": "2,5 milliarder"
     },
     "correct": "B"
   },
@@ -370,11 +740,31 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken strategi fremlagde den danske regering i 2024 for styrket engagement i Afrika?",
+    "options": {
+      "A": "En neutralitetsstrategi",
+      "B": "En strategi for fred, sikkerhed, klima og investeringer",
+      "C": "En strategi kun for militær bistand"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Må en dommer bære synlige religiøse symboler i en retssal?",
     "options": {
       "A": "Ja",
       "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvornår opgav Danmark sin traditionelle neutralitet ved indtræden i en alliance?",
+    "options": {
+      "A": "1990",
+      "B": "1949",
+      "C": "2001"
     },
     "correct": "B"
   },
@@ -389,6 +779,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken militær indsats deltog Danmark i 1990-91 uden at deltage i kamphandlinger?",
+    "options": {
+      "A": "Kosovo-krigen",
+      "B": "Befrielsen af Kuwait",
+      "C": "Irak-krigen 2003"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvor har USA luftbasen Thulebasen?",
     "options": {
@@ -399,12 +799,32 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "I hvilket land deltog danske soldater i direkte kamphandlinger i 1994 som del af FN-styrker?",
+    "options": {
+      "A": "Afghanistan",
+      "B": "Bosnien",
+      "C": "Libyen"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvad var middel-levetiden for kvinder i 2019-2020?",
     "options": {
       "A": "78-79 år",
       "B": "83-84 år",
       "C": "88-89 år"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket år greb NATO militært ind i Kosovo med dansk deltagelse?",
+    "options": {
+      "A": "1994",
+      "B": "1999",
+      "C": "2001"
     },
     "correct": "B"
   },
@@ -418,6 +838,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket terrorangreb i 2001 blev et vendepunkt for Danmarks deltagelse i internationale militære missioner?",
+    "options": {
+      "A": "Angrebet i Bosnien",
+      "B": "11. september-angrebet på USA",
+      "C": "Angrebet i Libyen"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvor gammel skal man være for at købe cigaretter i Danmark?",
     "options": {
@@ -426,6 +856,16 @@
       "C": "Mindst 21 år"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvor blev danske soldater udstationeret i Afghanistan blandt andet sammen med britiske tropper?",
+    "options": {
+      "A": "Helmand-provinsen",
+      "B": "Kabul",
+      "C": "Kosovo"
+    },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -438,12 +878,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvor mange danske soldater mistede livet i Afghanistan ifølge materialet?",
+    "options": {
+      "A": "8",
+      "B": "44",
+      "C": "Over 100"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvor ofte skal der ifølge grundloven være folketingsvalg i Danmark?",
     "options": {
       "A": "Mindst hvert tredje år",
       "B": "Mindst hvert fjerde år",
       "C": "Mindst hvert femte år"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket land deltog Danmark i en krig mod i 2003 uden klart FN-mandat?",
+    "options": {
+      "A": "Afghanistan",
+      "B": "Irak",
+      "C": "Libyen"
     },
     "correct": "B"
   },
@@ -458,6 +918,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvor mange danske soldater døde i forbindelse med interventionen i Irak?",
+    "options": {
+      "A": "44",
+      "B": "8",
+      "C": "Ingen"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvor mange indbyggere har Færøerne?",
     "options": {
@@ -468,6 +938,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket land deltog Danmark i et militært indgreb i 2011 for at beskytte civilbefolkningen?",
+    "options": {
+      "A": "Irak",
+      "B": "Libyen",
+      "C": "Syrien"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Kan man blive minister, hvis man ikke er medlem af Folketinget?",
     "options": {
@@ -475,6 +955,16 @@
       "B": "Nej"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket år skiftede fokus i dansk sikkerhedspolitik markant mod territorialforsvar?",
+    "options": {
+      "A": "1990",
+      "B": "2014",
+      "C": "2001"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -487,6 +977,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvad var en hovedårsag til styrkelsen af europæisk NATO-forsvar efter 2014?",
+    "options": {
+      "A": "Klimaforandringer i Arktis",
+      "B": "Øgede spændinger med Rusland",
+      "C": "Nedskæringer i USA's budget"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvor mange indbyggere har Grønland?",
     "options": {
@@ -497,12 +997,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "I hvilket år indledte Rusland et omfattende militært angreb på Ukraine?",
+    "options": {
+      "A": "2014",
+      "B": "2022",
+      "C": "1999"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvad er NATO?",
     "options": {
       "A": "Et internationalt frihandelsområde",
       "B": "En international forsvarsalliance",
       "C": "Et internationalt flygtningesamarbejde"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvor mange procent af BNP brugte Danmark på forsvaret i perioden 1990-2015?",
+    "options": {
+      "A": "Over 2 procent",
+      "B": "1,05 procent",
+      "C": "5 procent"
     },
     "correct": "B"
   },
@@ -516,11 +1036,31 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvad blev Danmarks forsvarsudgifter som procent af BNP i 2024?",
+    "options": {
+      "A": "Under 1 procent",
+      "B": "Over 2 procent",
+      "C": "5 procent"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Kan en regering bestemme, hvordan en dommer skal dømme i en retssag?",
     "options": {
       "A": "Ja",
       "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad forventes Danmarks forsvarsudgifter at nå i 2025?",
+    "options": {
+      "A": "2 procent",
+      "B": "3 procent",
+      "C": "1 procent"
     },
     "correct": "B"
   },
@@ -535,12 +1075,32 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken base i Grønland bruges stadig af USA under navnet Pituffik Space Base?",
+    "options": {
+      "A": "Qaanaaq (Thule)",
+      "B": "Nuuk",
+      "C": "Ilulissat"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvad er Danmark og en række andre lande især forpligtet til ifølge Paris-aftalen fra 2015?",
     "options": {
       "A": "At reducere udslippet af drivhusgasser i atmosfæren",
       "B": "At bruge flere penge på forsvaret",
       "C": "At samarbejde om forebyggelse af grænseoverskridende kriminalitet"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad har øget Grønlands strategiske betydning de seneste år?",
+    "options": {
+      "A": "Afsmeltning af isen og nye skibsruter",
+      "B": "Øget turisme fra EU",
+      "C": "Mindre interesse fra Rusland og Kina"
     },
     "correct": "A"
   },
@@ -555,6 +1115,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken erklæring fra 2008 handler om fredelige relationer i Arktis?",
+    "options": {
+      "A": "Ilulissat-erklæringen",
+      "B": "Paris-aftalen",
+      "C": "NATO-traktaten"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvem har som udgangspunkt forældremyndigheden, når en far og en mor, der er gift med hinanden, har et fælles barn?",
     "options": {
@@ -565,11 +1135,31 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvem udtaler sig først på Rigsfællesskabets vegne i Arktisk Råd?",
+    "options": {
+      "A": "Danmark",
+      "B": "Grønland",
+      "C": "Færøerne"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Er der flest mænd eller kvinder, der fuldfører en videregående uddannelse?",
     "options": {
       "A": "Mænd",
       "B": "Kvinder"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad skete med Arktisk Råd som reaktion på Ruslands invasion af Ukraine i 2022?",
+    "options": {
+      "A": "Det blev opløst permanent",
+      "B": "De øvrige medlemmer trak sig midlertidigt",
+      "C": "Rusland overtog formandskabet"
     },
     "correct": "B"
   },
@@ -584,6 +1174,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket skib patruljerer ved Grønlands kyst ifølge materialet?",
+    "options": {
+      "A": "Vædderen",
+      "B": "F-16 kampfly",
+      "C": "Pituffik-basefartøj"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvordan har de politiske partiers medlemstal overordnet udviklet sig siden 1950?",
     "options": {
@@ -591,6 +1191,16 @@
       "B": "De er steget"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad er en af grundene til, at grundloven er svær at ændre?",
+    "options": {
+      "A": "Den skal kun godkendes af regeringen",
+      "B": "Den skal sikre politisk stabilitet og beskytte borgerrettigheder",
+      "C": "Den er kun 89 paragraffer lang"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -603,6 +1213,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvad betyder parlamentarisme i dansk sammenhæng?",
+    "options": {
+      "A": "Kongen bestemmer regeringen",
+      "B": "En regering kan ikke blive ved magten mod et flertal i Folketinget",
+      "C": "Kun folkeafstemninger afgør love"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Betaler alle skattepligtige borgere kirkeskat?",
     "options": {
@@ -612,11 +1232,31 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket organ kontrollerer, at regeringen fører lovene ud i livet som ønsket af Folketinget?",
+    "options": {
+      "A": "Domstolene",
+      "B": "Folketinget",
+      "C": "Arktisk Råd"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvortil kan man anke en afgørelse fra byretten?",
     "options": {
       "A": "Landsretten",
       "B": "Højesteret"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad kan borgere gøre i Folketingets udvalg ved behandling af lovforslag?",
+    "options": {
+      "A": "Fremlægge synspunkter ved besøg eller skriftligt",
+      "B": "Stemme direkte om loven",
+      "C": "Udnævne ministre"
     },
     "correct": "A"
   },
@@ -631,6 +1271,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvor mange stående udvalg har Folketinget normalt?",
+    "options": {
+      "A": "10-15",
+      "B": "20-25",
+      "C": "Over 30"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvor lang var middellevetiden for mænd i 2020-2021?",
     "options": {
@@ -639,6 +1289,16 @@
       "C": "Cirka 87 år"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken minister kan Folketinget stille for Rigsretten?",
+    "options": {
+      "A": "Enhver minister mistænkt for ulovlighed i embedet",
+      "B": "Kun statsministeren",
+      "C": "Kun udenrigsministeren"
+    },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -651,12 +1311,32 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvad er Danidas rolle i dansk udenrigspolitik?",
+    "options": {
+      "A": "Militær planlægning",
+      "B": "Udviklingssamarbejde og bistand",
+      "C": "Indenrigspolitisk lovgivning"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvem beslutter, om der skal være valg til Folketinget inden valgperiodens udløb?",
     "options": {
       "A": "Indenrigsministeren",
       "B": "Statsministeren",
       "C": "Folketingets formand"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken konsekvens af klimaforandringerne mærkes stærkt i Afrika ifølge materialet?",
+    "options": {
+      "A": "Øget turisme",
+      "B": "Oversvømmelser, ekstrem varme og misvækst",
+      "C": "Mindre befolkningstilvækst"
     },
     "correct": "B"
   },
@@ -671,6 +1351,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvad var Danmarks traditionelle sikkerhedspolitik før 1949?",
+    "options": {
+      "A": "Aktivistisk udenrigspolitik",
+      "B": "Neutralitet",
+      "C": "NATO-medlemskab"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvad hedder Færøernes største by?",
     "options": {
@@ -681,6 +1371,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken mission i 1990'erne involverede danske soldater i kamphandlinger i Bosnien?",
+    "options": {
+      "A": "FN's fredsbevarende styrker",
+      "B": "NATO's invasion af Irak",
+      "C": "EU's grænsekontrol"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Deltager Danmark i EU’s forsvars- og sikkerhedspolitik?",
     "options": {
@@ -688,6 +1388,16 @@
       "B": "Nej"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad skete med den afghanske regering efter de internationale styrkers tilbagetrækning?",
+    "options": {
+      "A": "Den blev styrket",
+      "B": "Den faldt sammen, og Taliban generobrede magten",
+      "C": "Den blev en del af NATO"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -700,11 +1410,31 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket år besluttede et stort flertal i Folketinget at sende soldater til Afghanistan?",
+    "options": {
+      "A": "1999",
+      "B": "2002",
+      "C": "2011"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Er Grønland og Færøerne en del af EU?",
     "options": {
       "A": "Ja",
       "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket land deltog Danmark i en krig mod i 2003 uden klart FN-mandat?",
+    "options": {
+      "A": "Afghanistan",
+      "B": "Irak",
+      "C": "Libyen"
     },
     "correct": "B"
   },
@@ -719,6 +1449,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvor mange danske soldater døde i forbindelse med interventionen i Irak?",
+    "options": {
+      "A": "44",
+      "B": "8",
+      "C": "Ingen"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Kan den samme person være statsminister i mere end to valgperioder?",
     "options": {
@@ -726,6 +1466,16 @@
       "B": "Nej"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket land deltog Danmark i et militært indgreb i 2011 for at beskytte civilbefolkningen?",
+    "options": {
+      "A": "Irak",
+      "B": "Libyen",
+      "C": "Syrien"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -738,12 +1488,32 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket år skiftede fokus i dansk sikkerhedspolitik markant mod territorialforsvar?",
+    "options": {
+      "A": "1990",
+      "B": "2014",
+      "C": "2001"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilken instans har som sin primære opgave at kontrollere offentlige myndigheders sagsbehandling?",
     "options": {
       "A": "Etisk Råd",
       "B": "Folketingets Ombudsmand",
       "C": "Pressenævnet"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad var en hovedårsag til styrkelsen af europæisk NATO-forsvar efter 2014?",
+    "options": {
+      "A": "Klimaforandringer i Arktis",
+      "B": "Øgede spændinger med Rusland",
+      "C": "Nedskæringer i USA's budget"
     },
     "correct": "B"
   },
@@ -758,6 +1528,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "I hvilket år indledte Rusland et omfattende militært angreb på Ukraine?",
+    "options": {
+      "A": "2014",
+      "B": "2022",
+      "C": "1999"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvordan har dagpengeperioden for arbejdsløse udviklet sig siden 1994?",
     "options": {
@@ -766,6 +1546,16 @@
       "C": "Den er blevet kortere"
     },
     "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvor mange procent af BNP brugte Danmark på forsvaret i perioden 1990-2015?",
+    "options": {
+      "A": "Over 2 procent",
+      "B": "1,05 procent",
+      "C": "5 procent"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -778,6 +1568,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvad blev Danmarks forsvarsudgifter som procent af BNP i 2024?",
+    "options": {
+      "A": "Under 1 procent",
+      "B": "Over 2 procent",
+      "C": "5 procent"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvad hedder Grønlands største by?",
     "options": {
@@ -786,6 +1586,16 @@
       "C": "Reykjavik"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad forventes Danmarks forsvarsudgifter at nå i 2025?",
+    "options": {
+      "A": "2 procent",
+      "B": "3 procent",
+      "C": "1 procent"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -798,6 +1608,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken base i Grønland bruges stadig af USA under navnet Pituffik Space Base?",
+    "options": {
+      "A": "Qaanaaq (Thule)",
+      "B": "Nuuk",
+      "C": "Ilulissat"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Kan regionerne opkræve skatter?",
     "options": {
@@ -805,6 +1625,16 @@
       "B": "Nej"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad har øget Grønlands strategiske betydning de seneste år?",
+    "options": {
+      "A": "Afsmeltning af isen og nye skibsruter",
+      "B": "Øget turisme fra EU",
+      "C": "Mindre interesse fra Rusland og Kina"
+    },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -816,6 +1646,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken erklæring fra 2008 handler om fredelige relationer i Arktis?",
+    "options": {
+      "A": "Ilulissat-erklæringen",
+      "B": "Paris-aftalen",
+      "C": "NATO-traktaten"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Kan to personer af samme køn indgå et ægteskab?",
     "options": {
@@ -825,12 +1665,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvem udtaler sig først på Rigsfællesskabets vegne i Arktisk Råd?",
+    "options": {
+      "A": "Danmark",
+      "B": "Grønland",
+      "C": "Færøerne"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilket EU-land har flest indvandrere og efterkommere i Danmark oprindelse i?",
     "options": {
       "A": "Spanien",
       "B": "Polen",
       "C": "Frankrig"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad skete med Arktisk Råd som reaktion på Ruslands invasion af Ukraine i 2022?",
+    "options": {
+      "A": "Det blev opløst permanent",
+      "B": "De øvrige medlemmer trak sig midlertidigt",
+      "C": "Rusland overtog formandskabet"
     },
     "correct": "B"
   },
@@ -845,11 +1705,31 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket skib patruljerer ved Grønlands kyst ifølge materialet?",
+    "options": {
+      "A": "Vædderen",
+      "B": "F-16 kampfly",
+      "C": "Pituffik-basefartøj"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvordan har andelen af borgere over 64 år udviklet sig siden 1980?",
     "options": {
       "A": "Andelen er faldet",
       "B": "Andelen er steget"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad er en af grundene til, at grundloven er svær at ændre?",
+    "options": {
+      "A": "Den skal kun godkendes af regeringen",
+      "B": "Den skal sikre politisk stabilitet og beskytte borgerrettigheder",
+      "C": "Den er kun 89 paragraffer lang"
     },
     "correct": "B"
   },
@@ -864,11 +1744,31 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvad betyder parlamentarisme i dansk sammenhæng?",
+    "options": {
+      "A": "Kongen bestemmer regeringen",
+      "B": "En regering kan ikke blive ved magten mod et flertal i Folketinget",
+      "C": "Kun folkeafstemninger afgør love"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Skal alle skattepligtige borgere betale kirkeskat?",
     "options": {
       "A": "Ja",
       "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket organ kontrollerer, at regeringen fører lovene ud i livet som ønsket af Folketinget?",
+    "options": {
+      "A": "Domstolene",
+      "B": "Folketinget",
+      "C": "Arktisk Råd"
     },
     "correct": "B"
   },
@@ -883,6 +1783,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvad kan borgere gøre i Folketingets udvalg ved behandling af lovforslag?",
+    "options": {
+      "A": "Fremlægge synspunkter ved besøg eller skriftligt",
+      "B": "Stemme direkte om loven",
+      "C": "Udnævne ministre"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvem består Europa-Parlamentet af?",
     "options": {
@@ -891,6 +1801,16 @@
       "C": "Politikere direkte valgt af EU’s befolkninger"
     },
     "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvor mange stående udvalg har Folketinget normalt?",
+    "options": {
+      "A": "10-15",
+      "B": "20-25",
+      "C": "Over 30"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -902,11 +1822,31 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken minister kan Folketinget stille for Rigsretten?",
+    "options": {
+      "A": "Enhver minister mistænkt for ulovlighed i embedet",
+      "B": "Kun statsministeren",
+      "C": "Kun udenrigsministeren"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvordan har arbejdsløsheden i Danmark overordnet udviklet sig de sidste ti år?",
     "options": {
       "A": "Den er vokset",
       "B": "Den er faldet"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad er Danidas rolle i dansk udenrigspolitik?",
+    "options": {
+      "A": "Militær planlægning",
+      "B": "Udviklingssamarbejde og bistand",
+      "C": "Indenrigspolitisk lovgivning"
     },
     "correct": "B"
   },
@@ -921,6 +1861,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken konsekvens af klimaforandringerne mærkes stærkt i Afrika ifølge materialet?",
+    "options": {
+      "A": "Øget turisme",
+      "B": "Oversvømmelser, ekstrem varme og misvækst",
+      "C": "Mindre befolkningstilvækst"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvor stor en andel af Grønland er dækket af is hele året?",
     "options": {
@@ -929,6 +1879,16 @@
       "C": "Cirka 80 procent"
     },
     "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad var Danmarks traditionelle sikkerhedspolitik før 1949?",
+    "options": {
+      "A": "Aktivistisk udenrigspolitik",
+      "B": "Neutralitet",
+      "C": "NATO-medlemskab"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -940,12 +1900,32 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken mission i 1990'erne involverede danske soldater i kamphandlinger i Bosnien?",
+    "options": {
+      "A": "FN's fredsbevarende styrker",
+      "B": "NATO's invasion af Irak",
+      "C": "EU's grænsekontrol"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvor stor en andel af Danmarks befolkning udgøres af indvandrere og deres efterkommere?",
     "options": {
       "A": "Cirka 5 procent",
       "B": "Cirka 15 procent",
       "C": "Cirka 25 procent"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad skete med den afghanske regering efter de internationale styrkers tilbagetrækning?",
+    "options": {
+      "A": "Den blev styrket",
+      "B": "Den faldt sammen, og Taliban generobrede magten",
+      "C": "Den blev en del af NATO"
     },
     "correct": "B"
   },
@@ -960,6 +1940,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket år besluttede et stort flertal i Folketinget at sende soldater til Afghanistan?",
+    "options": {
+      "A": "1999",
+      "B": "2002",
+      "C": "2011"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvad er der sket med folkepensionsalderen siden 2018?",
     "options": {
@@ -968,6 +1958,16 @@
       "C": "Den er blevet lavere"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket land deltog Danmark i en krig mod i 2003 uden klart FN-mandat?",
+    "options": {
+      "A": "Afghanistan",
+      "B": "Irak",
+      "C": "Libyen"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -980,12 +1980,32 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket år greb NATO militært ind i Kosovo med dansk deltagelse?",
+    "options": {
+      "A": "1994",
+      "B": "1999",
+      "C": "2001"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvad er den type vedvarende energi som producerer den største andel af Danmarks el-forbrug?",
     "options": {
       "A": "Solenergi",
       "B": "Vindenergi",
       "C": "Bølgeenergi"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket terrorangreb i 2001 blev et vendepunkt for Danmarks deltagelse i internationale militære missioner?",
+    "options": {
+      "A": "Angrebet i Bosnien",
+      "B": "11. september-angrebet på USA",
+      "C": "Angrebet i Libyen"
     },
     "correct": "B"
   },
@@ -1000,6 +2020,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvor blev danske soldater udstationeret i Afghanistan blandt andet sammen med britiske tropper?",
+    "options": {
+      "A": "Helmand-provinsen",
+      "B": "Kabul",
+      "C": "Kosovo"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvad er moms?",
     "options": {
@@ -1010,12 +2040,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvor mange danske soldater mistede livet i Afghanistan ifølge materialet?",
+    "options": {
+      "A": "8",
+      "B": "44",
+      "C": "Over 100"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvor ofte afholdes der valg til kommunalbestyrelser og regionsråd?",
     "options": {
       "A": "Hvert tredje år",
       "B": "Hvert fjerde år",
       "C": "Hvert femte år"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket år skiftede fokus i dansk sikkerhedspolitik markant mod territorialforsvar?",
+    "options": {
+      "A": "1990",
+      "B": "2014",
+      "C": "2001"
     },
     "correct": "B"
   },
@@ -1030,6 +2080,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvad var en hovedårsag til styrkelsen af europæisk NATO-forsvar efter 2014?",
+    "options": {
+      "A": "Klimaforandringer i Arktis",
+      "B": "Øgede spændinger med Rusland",
+      "C": "Nedskæringer i USA's budget"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvordan har antallet af studerende på de lange videregående uddannelser overordnet udviklet sig de seneste 20 år?",
     "options": {
@@ -1037,5 +2097,25 @@
       "B": "Det er faldet"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket land deltog Danmark i et militært indgreb i 2011 for at beskytte civilbefolkningen?",
+    "options": {
+      "A": "Irak",
+      "B": "Libyen",
+      "C": "Syrien"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er Arktisk Råds formål?",
+    "options": {
+      "A": "Kun militært samarbejde",
+      "B": "Bæredygtig udvikling i arktiske områder",
+      "C": "Kun økonomisk minedrift"
+    },
+    "correct": "B"
   }
 ]
