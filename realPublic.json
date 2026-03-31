@@ -611,7 +611,7 @@
   },
   {
     "exam": "real",
-    "question": "Hvad omhandler Folketingets tiltale i rigsretssagen mod tidligere udlændinge- og integrationsminister Inger Støjberg blandt andet?",
+    "question": "Hvad omhandlede Folketingets tiltale i rigsretssagen mod tidligere udlændinge- og integrationsminister Inger Støjberg blandt andet?",
     "options": {
       "A": "Beslaglæggelse af flygtninges værdigenstande ved indrejse",
       "B": "Midlertidigt stop for familiesammenføringer",
@@ -830,7 +830,7 @@
   },
   {
     "exam": "real",
-    "question": "Hvor stor en del af alle lønmodtagere arbejder i dag i den offentlige sektor?",
+    "question": "Hvor stor en andel af alle lønmodtagere arbejder i dag i den offentlige sektor?",
     "options": {
       "A": "Cirka en tredjedel",
       "B": "Cirka to tredjedele"
@@ -1429,71 +1429,12 @@
     "correct": "B"
   },
   {
-    "exam": "AI",
-    "question": "Hvilket land deltog Danmark i en krig mod i 2003 uden klart FN-mandat?",
-    "options": {
-      "A": "Afghanistan",
-      "B": "Irak",
-      "C": "Libyen"
-    },
-    "correct": "B"
-  },
-  {
     "exam": "real",
     "question": "Hvilket af følgende lande har Danmark størst samhandel (import og eksport) med?",
     "options": {
       "A": "Kina",
       "B": "Tyskland",
       "C": "Storbritannien"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "AI",
-    "question": "Hvor mange danske soldater døde i forbindelse med interventionen i Irak?",
-    "options": {
-      "A": "44",
-      "B": "8",
-      "C": "Ingen"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Kan den samme person være statsminister i mere end to valgperioder?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "AI",
-    "question": "Hvilket land deltog Danmark i et militært indgreb i 2011 for at beskytte civilbefolkningen?",
-    "options": {
-      "A": "Irak",
-      "B": "Libyen",
-      "C": "Syrien"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvor ligger Danmarks højeste naturlige punkt?",
-    "options": {
-      "A": "I Nordsjælland",
-      "B": "I Sønderjylland",
-      "C": "I Østjylland"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "AI",
-    "question": "Hvilket år skiftede fokus i dansk sikkerhedspolitik markant mod territorialforsvar?",
-    "options": {
-      "A": "1990",
-      "B": "2014",
-      "C": "2001"
     },
     "correct": "B"
   },
@@ -1508,16 +1449,6 @@
     "correct": "B"
   },
   {
-    "exam": "AI",
-    "question": "Hvad var en hovedårsag til styrkelsen af europæisk NATO-forsvar efter 2014?",
-    "options": {
-      "A": "Klimaforandringer i Arktis",
-      "B": "Øgede spændinger med Rusland",
-      "C": "Nedskæringer i USA's budget"
-    },
-    "correct": "B"
-  },
-  {
     "exam": "real",
     "question": "Hvilken international organisation har vedtaget 17 såkaldte verdensmål om for eksempel ligestilling, klima og fattigdom?",
     "options": {
@@ -1526,16 +1457,6 @@
       "C": "WTO"
     },
     "correct": "A"
-  },
-  {
-    "exam": "AI",
-    "question": "I hvilket år indledte Rusland et omfattende militært angreb på Ukraine?",
-    "options": {
-      "A": "2014",
-      "B": "2022",
-      "C": "1999"
-    },
-    "correct": "B"
   },
   {
     "exam": "real",
@@ -1548,16 +1469,6 @@
     "correct": "C"
   },
   {
-    "exam": "AI",
-    "question": "Hvor mange procent af BNP brugte Danmark på forsvaret i perioden 1990-2015?",
-    "options": {
-      "A": "Over 2 procent",
-      "B": "1,05 procent",
-      "C": "5 procent"
-    },
-    "correct": "B"
-  },
-  {
     "exam": "real",
     "question": "Hvem består Rådet for Den Europæiske Union af?",
     "options": {
@@ -1566,16 +1477,6 @@
       "C": "Ministre fra medlemsstaternes regeringer"
     },
     "correct": "C"
-  },
-  {
-    "exam": "AI",
-    "question": "Hvad blev Danmarks forsvarsudgifter som procent af BNP i 2024?",
-    "options": {
-      "A": "Under 1 procent",
-      "B": "Over 2 procent",
-      "C": "5 procent"
-    },
-    "correct": "B"
   },
   {
     "exam": "real",
@@ -1588,16 +1489,6 @@
     "correct": "A"
   },
   {
-    "exam": "AI",
-    "question": "Hvad forventes Danmarks forsvarsudgifter at nå i 2025?",
-    "options": {
-      "A": "2 procent",
-      "B": "3 procent",
-      "C": "1 procent"
-    },
-    "correct": "B"
-  },
-  {
     "exam": "real",
     "question": "Hvor gammel skal man mindst være for at købe stærk spiritus?",
     "options": {
@@ -1606,16 +1497,6 @@
       "C": "21"
     },
     "correct": "B"
-  },
-  {
-    "exam": "AI",
-    "question": "Hvilken base i Grønland bruges stadig af USA under navnet Pituffik Space Base?",
-    "options": {
-      "A": "Qaanaaq (Thule)",
-      "B": "Nuuk",
-      "C": "Ilulissat"
-    },
-    "correct": "A"
   },
   {
     "exam": "real",
@@ -1627,16 +1508,6 @@
     "correct": "B"
   },
   {
-    "exam": "AI",
-    "question": "Hvad har øget Grønlands strategiske betydning de seneste år?",
-    "options": {
-      "A": "Afsmeltning af isen og nye skibsruter",
-      "B": "Øget turisme fra EU",
-      "C": "Mindre interesse fra Rusland og Kina"
-    },
-    "correct": "A"
-  },
-  {
     "exam": "real",
     "question": "Hvordan har de politiske partiers samlede medlemstal overordnet udviklet sig siden 1950?",
     "options": {
@@ -1644,16 +1515,6 @@
       "B": "Det er faldet"
     },
     "correct": "B"
-  },
-  {
-    "exam": "AI",
-    "question": "Hvilken erklæring fra 2008 handler om fredelige relationer i Arktis?",
-    "options": {
-      "A": "Ilulissat-erklæringen",
-      "B": "Paris-aftalen",
-      "C": "NATO-traktaten"
-    },
-    "correct": "A"
   },
   {
     "exam": "real",
@@ -1665,32 +1526,12 @@
     "correct": "A"
   },
   {
-    "exam": "AI",
-    "question": "Hvem udtaler sig først på Rigsfællesskabets vegne i Arktisk Råd?",
-    "options": {
-      "A": "Danmark",
-      "B": "Grønland",
-      "C": "Færøerne"
-    },
-    "correct": "B"
-  },
-  {
     "exam": "real",
     "question": "Hvilket EU-land har flest indvandrere og efterkommere i Danmark oprindelse i?",
     "options": {
       "A": "Spanien",
       "B": "Polen",
       "C": "Frankrig"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "AI",
-    "question": "Hvad skete med Arktisk Råd som reaktion på Ruslands invasion af Ukraine i 2022?",
-    "options": {
-      "A": "Det blev opløst permanent",
-      "B": "De øvrige medlemmer trak sig midlertidigt",
-      "C": "Rusland overtog formandskabet"
     },
     "correct": "B"
   },
@@ -1705,31 +1546,11 @@
     "correct": "A"
   },
   {
-    "exam": "AI",
-    "question": "Hvilket skib patruljerer ved Grønlands kyst ifølge materialet?",
-    "options": {
-      "A": "Vædderen",
-      "B": "F-16 kampfly",
-      "C": "Pituffik-basefartøj"
-    },
-    "correct": "A"
-  },
-  {
     "exam": "real",
     "question": "Hvordan har andelen af borgere over 64 år udviklet sig siden 1980?",
     "options": {
       "A": "Andelen er faldet",
       "B": "Andelen er steget"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "AI",
-    "question": "Hvad er en af grundene til, at grundloven er svær at ændre?",
-    "options": {
-      "A": "Den skal kun godkendes af regeringen",
-      "B": "Den skal sikre politisk stabilitet og beskytte borgerrettigheder",
-      "C": "Den er kun 89 paragraffer lang"
     },
     "correct": "B"
   },
@@ -1744,31 +1565,11 @@
     "correct": "A"
   },
   {
-    "exam": "AI",
-    "question": "Hvad betyder parlamentarisme i dansk sammenhæng?",
-    "options": {
-      "A": "Kongen bestemmer regeringen",
-      "B": "En regering kan ikke blive ved magten mod et flertal i Folketinget",
-      "C": "Kun folkeafstemninger afgør love"
-    },
-    "correct": "B"
-  },
-  {
     "exam": "real",
     "question": "Skal alle skattepligtige borgere betale kirkeskat?",
     "options": {
       "A": "Ja",
       "B": "Nej"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "AI",
-    "question": "Hvilket organ kontrollerer, at regeringen fører lovene ud i livet som ønsket af Folketinget?",
-    "options": {
-      "A": "Domstolene",
-      "B": "Folketinget",
-      "C": "Arktisk Råd"
     },
     "correct": "B"
   },
@@ -1783,16 +1584,6 @@
     "correct": "A"
   },
   {
-    "exam": "AI",
-    "question": "Hvad kan borgere gøre i Folketingets udvalg ved behandling af lovforslag?",
-    "options": {
-      "A": "Fremlægge synspunkter ved besøg eller skriftligt",
-      "B": "Stemme direkte om loven",
-      "C": "Udnævne ministre"
-    },
-    "correct": "A"
-  },
-  {
     "exam": "real",
     "question": "Hvem består Europa-Parlamentet af?",
     "options": {
@@ -1803,31 +1594,11 @@
     "correct": "C"
   },
   {
-    "exam": "AI",
-    "question": "Hvor mange stående udvalg har Folketinget normalt?",
-    "options": {
-      "A": "10-15",
-      "B": "20-25",
-      "C": "Over 30"
-    },
-    "correct": "B"
-  },
-  {
     "exam": "real",
     "question": "Hvortil kan man normalt anke en afgørelse fra byretten?",
     "options": {
       "A": "Landsretten",
       "B": "Højesteret"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "AI",
-    "question": "Hvilken minister kan Folketinget stille for Rigsretten?",
-    "options": {
-      "A": "Enhver minister mistænkt for ulovlighed i embedet",
-      "B": "Kun statsministeren",
-      "C": "Kun udenrigsministeren"
     },
     "correct": "A"
   },
@@ -1841,34 +1612,14 @@
     "correct": "B"
   },
   {
-    "exam": "AI",
-    "question": "Hvad er Danidas rolle i dansk udenrigspolitik?",
-    "options": {
-      "A": "Militær planlægning",
-      "B": "Udviklingssamarbejde og bistand",
-      "C": "Indenrigspolitisk lovgivning"
-    },
-    "correct": "B"
-  },
-  {
     "exam": "real",
-    "question": "Fra hvilket land kom der særligt mange asylansøgere til Danmark i 2015?",
+    "question": "Fra hvilket land kom der særligt many asylansøgere til Danmark i 2015?",
     "options": {
       "A": "Syrien",
       "B": "Iran",
       "C": "Ukraine"
     },
     "correct": "A"
-  },
-  {
-    "exam": "AI",
-    "question": "Hvilken konsekvens af klimaforandringerne mærkes stærkt i Afrika ifølge materialet?",
-    "options": {
-      "A": "Øget turisme",
-      "B": "Oversvømmelser, ekstrem varme og misvækst",
-      "C": "Mindre befolkningstilvækst"
-    },
-    "correct": "B"
   },
   {
     "exam": "real",
@@ -1881,16 +1632,6 @@
     "correct": "C"
   },
   {
-    "exam": "AI",
-    "question": "Hvad var Danmarks traditionelle sikkerhedspolitik før 1949?",
-    "options": {
-      "A": "Aktivistisk udenrigspolitik",
-      "B": "Neutralitet",
-      "C": "NATO-medlemskab"
-    },
-    "correct": "B"
-  },
-  {
     "exam": "real",
     "question": "Er der flest mænd eller kvinder, der gennemfører en videregående uddannelse?",
     "options": {
@@ -1900,32 +1641,12 @@
     "correct": "B"
   },
   {
-    "exam": "AI",
-    "question": "Hvilken mission i 1990'erne involverede danske soldater i kamphandlinger i Bosnien?",
-    "options": {
-      "A": "FN's fredsbevarende styrker",
-      "B": "NATO's invasion af Irak",
-      "C": "EU's grænsekontrol"
-    },
-    "correct": "A"
-  },
-  {
     "exam": "real",
     "question": "Hvor stor en andel af Danmarks befolkning udgøres af indvandrere og deres efterkommere?",
     "options": {
       "A": "Cirka 5 procent",
       "B": "Cirka 15 procent",
       "C": "Cirka 25 procent"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "AI",
-    "question": "Hvad skete med den afghanske regering efter de internationale styrkers tilbagetrækning?",
-    "options": {
-      "A": "Den blev styrket",
-      "B": "Den faldt sammen, og Taliban generobrede magten",
-      "C": "Den blev en del af NATO"
     },
     "correct": "B"
   },
@@ -1940,16 +1661,6 @@
     "correct": "C"
   },
   {
-    "exam": "AI",
-    "question": "Hvilket år besluttede et stort flertal i Folketinget at sende soldater til Afghanistan?",
-    "options": {
-      "A": "1999",
-      "B": "2002",
-      "C": "2011"
-    },
-    "correct": "B"
-  },
-  {
     "exam": "real",
     "question": "Hvad er der sket med folkepensionsalderen siden 2018?",
     "options": {
@@ -1958,16 +1669,6 @@
       "C": "Den er blevet lavere"
     },
     "correct": "A"
-  },
-  {
-    "exam": "AI",
-    "question": "Hvilket land deltog Danmark i en krig mod i 2003 uden klart FN-mandat?",
-    "options": {
-      "A": "Afghanistan",
-      "B": "Irak",
-      "C": "Libyen"
-    },
-    "correct": "B"
   },
   {
     "exam": "real",
@@ -1980,32 +1681,12 @@
     "correct": "C"
   },
   {
-    "exam": "AI",
-    "question": "Hvilket år greb NATO militært ind i Kosovo med dansk deltagelse?",
-    "options": {
-      "A": "1994",
-      "B": "1999",
-      "C": "2001"
-    },
-    "correct": "B"
-  },
-  {
     "exam": "real",
     "question": "Hvad er den type vedvarende energi som producerer den største andel af Danmarks el-forbrug?",
     "options": {
       "A": "Solenergi",
       "B": "Vindenergi",
       "C": "Bølgeenergi"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "AI",
-    "question": "Hvilket terrorangreb i 2001 blev et vendepunkt for Danmarks deltagelse i internationale militære missioner?",
-    "options": {
-      "A": "Angrebet i Bosnien",
-      "B": "11. september-angrebet på USA",
-      "C": "Angrebet i Libyen"
     },
     "correct": "B"
   },
@@ -2020,16 +1701,6 @@
     "correct": "B"
   },
   {
-    "exam": "AI",
-    "question": "Hvor blev danske soldater udstationeret i Afghanistan blandt andet sammen med britiske tropper?",
-    "options": {
-      "A": "Helmand-provinsen",
-      "B": "Kabul",
-      "C": "Kosovo"
-    },
-    "correct": "A"
-  },
-  {
     "exam": "real",
     "question": "Hvad er moms?",
     "options": {
@@ -2040,32 +1711,12 @@
     "correct": "A"
   },
   {
-    "exam": "AI",
-    "question": "Hvor mange danske soldater mistede livet i Afghanistan ifølge materialet?",
-    "options": {
-      "A": "8",
-      "B": "44",
-      "C": "Over 100"
-    },
-    "correct": "B"
-  },
-  {
     "exam": "real",
     "question": "Hvor ofte afholdes der valg til kommunalbestyrelser og regionsråd?",
     "options": {
       "A": "Hvert tredje år",
       "B": "Hvert fjerde år",
       "C": "Hvert femte år"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "AI",
-    "question": "Hvilket år skiftede fokus i dansk sikkerhedspolitik markant mod territorialforsvar?",
-    "options": {
-      "A": "1990",
-      "B": "2014",
-      "C": "2001"
     },
     "correct": "B"
   },
@@ -2080,16 +1731,6 @@
     "correct": "A"
   },
   {
-    "exam": "AI",
-    "question": "Hvad var en hovedårsag til styrkelsen af europæisk NATO-forsvar efter 2014?",
-    "options": {
-      "A": "Klimaforandringer i Arktis",
-      "B": "Øgede spændinger med Rusland",
-      "C": "Nedskæringer i USA's budget"
-    },
-    "correct": "B"
-  },
-  {
     "exam": "real",
     "question": "Hvordan har antallet af studerende på de lange videregående uddannelser overordnet udviklet sig de seneste 20 år?",
     "options": {
@@ -2097,16 +1738,6 @@
       "B": "Det er faldet"
     },
     "correct": "A"
-  },
-  {
-    "exam": "AI",
-    "question": "Hvilket land deltog Danmark i et militært indgreb i 2011 for at beskytte civilbefolkningen?",
-    "options": {
-      "A": "Irak",
-      "B": "Libyen",
-      "C": "Syrien"
-    },
-    "correct": "B"
   },
   {
     "exam": "real",
