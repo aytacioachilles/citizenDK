@@ -9,6 +9,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvad udgjorde ægteskabet mellem mand og kvinde af alle samboende par i Danmark i 2025?",
+    "options": {
+      "A": "31 procent",
+      "B": "55 procent",
+      "C": "73 procent"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Kan man ifølge dansk lov blive straffet med fængsel, hvis man ulovligt tvinger nogen til en religiøs vielse?",
     "options": {
@@ -18,11 +28,31 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "I hvilket år blev Danmark det første land i verden, der indførte registreret partnerskab for personer af samme køn?",
+    "options": {
+      "A": "1981",
+      "B": "1989",
+      "C": "2012"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Er det ifølge dansk lov lovligt at have samleje med en person under 15 år, hvis personen har givet samtykke til samlejet?",
     "options": {
       "A": "Ja",
       "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvor stor en andel af voksne over 18 år levede som enlige i Danmark i 2024?",
+    "options": {
+      "A": "31 procent",
+      "B": "55 procent",
+      "C": "73 procent"
     },
     "correct": "B"
   },
@@ -36,6 +66,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvad er myndighedsalderen i Danmark?",
+    "options": {
+      "A": "15 år",
+      "B": "18 år",
+      "C": "21 år"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Er det muligt for en person over 18 år at få et CPR-nr., der svarer til et andet køn (skifte juridisk køn)?",
     "options": {
@@ -43,6 +83,15 @@
       "B": "Nej"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Er det lovligt at tvinge nogen til at indgå ægteskab i Danmark?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -54,6 +103,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvad kaldes forbrydelser, der begås særligt strengt straffet på grund af ofrets etniske oprindelse, tro eller seksuelle orientering?",
+    "options": {
+      "A": "Hadforbrydelser",
+      "B": "Ytringsforbrydelser",
+      "C": "Diskriminationsforbrydelser"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Kan en dansk statsborger blive straffet ved en dansk domstol, hvis vedkommende medvirker til menneskehandel i udlandet?",
     "options": {
@@ -61,6 +120,16 @@
       "B": "Nej"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvor mange hadforbrydelser registrerede politiet i Danmark i perioden 2017-22?",
+    "options": {
+      "A": "517",
+      "B": "1.709",
+      "C": "3.107"
+    },
+    "correct": "C"
   },
   {
     "exam": "real",
@@ -72,6 +141,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken gruppe i Danmark er særligt udsat for hadforbrydelser ifølge materialet?",
+    "options": {
+      "A": "Den jødiske minoritet",
+      "B": "Homoseksuelle personer",
+      "C": "Personer med ikke-vestlig baggrund"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Har alle friskoler i Danmark pligt til at styrke elevernes respekt for ligestilling mellem kønnene?",
     "options": {
@@ -79,6 +158,16 @@
       "B": "Nej"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "I hvilket år blev homoseksualitet fjernet fra Sundhedsstyrelsens liste over psykiske sygdomme?",
+    "options": {
+      "A": "1933",
+      "B": "1981",
+      "C": "1989"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -90,6 +179,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvor stor var lønforskellen mellem mænd og kvinder i timeløn på det danske arbejdsmarked i 2022?",
+    "options": {
+      "A": "4-7 procent",
+      "B": "12 procent",
+      "C": "55 procent"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Kan præster og imamer blive straffet med fængsel, hvis de som led i religiøs oplæring udtrykker støtte til vold, terrorisme, frihedsberøvelse eller tvang?",
     "options": {
@@ -99,6 +198,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken samlivsform udgjorde stadig den mest almindelige i Danmark i 2025?",
+    "options": {
+      "A": "Ugifte samlevende par med børn",
+      "B": "Ægteskab mellem mand og kvinde",
+      "C": "Registrerede partnerskaber mellem personer af samme køn"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Er Danmark blandt de ti lande i verden, som har den højeste grad af politisk frihed og borgerrettigheder (ifølge Freedom House, Freedom in the World 2023)?",
     "options": {
@@ -106,6 +215,16 @@
       "B": "Nej"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvor mange procent af 30-årige kvinder var gift i 1970 sammenlignet med 2025?",
+    "options": {
+      "A": "88 procent i 1970 og 73 procent i 2025",
+      "B": "88 procent i 1970 og 31 procent i 2025",
+      "C": "73 procent i 1970 og 31 procent i 2025"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -118,6 +237,16 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken rettighed fik personer af samme køn i Danmark i 2012?",
+    "options": {
+      "A": "Ret til registreret partnerskab",
+      "B": "Ret til at indgå ægteskab, herunder i folkekirken",
+      "C": "Ret til adoption af børn"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Kan man ifølge dansk lov kræve, at en anden borger aldrig må udtale sig kritisk om ens religion?",
     "options": {
@@ -125,6 +254,16 @@
       "B": "Nej"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad er konsekvensen, hvis forældre slår deres børn i Danmark?",
+    "options": {
+      "A": "Børnene kan blive tvangsfjernet af myndighederne",
+      "B": "Forældrene kan kun få en bøde",
+      "C": "Det er tilladt, hvis barnet er under 13 år"
+    },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -136,11 +275,31 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Kan en ægtefælle få skilsmisse straks, hvis der er utroskab eller vold i ægteskabet?",
+    "options": {
+      "A": "Nej, der kræves altid 6 måneders separation",
+      "B": "Ja, uanset om parret er enige",
+      "C": "Ja, kun hvis begge parter er enige om skilsmissen"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilken myndighed kan opløse (forbyde) en forening, der søger at opnå sine mål med vold?",
     "options": {
       "A": "Politiet",
       "B": "Domstolene"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad beskytter grundloven blandt andet mod misbrug i form af diskrimination?",
+    "options": {
+      "A": "Kun ytringsfrihed",
+      "B": "Frihed til at sige eller skrive hvad man vil, religionsfrihed, foreningsfrihed og forsamlingsfrihed",
+      "C": "Kun retten til at danne foreninger"
     },
     "correct": "B"
   },
@@ -154,12 +313,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvor stor en andel af hadforbrydelserne i perioden 2017-22 skyldtes ofrenes race eller etnicitet?",
+    "options": {
+      "A": "17 procent",
+      "B": "29 procent",
+      "C": "55 procent"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Hvad er den seksuelle lavalder i Danmark?",
     "options": {
       "A": "13 år",
       "B": "15 år",
       "C": "18 år"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket år skete det mest alvorlige antisemitiske terrorangreb i nyere dansk historie ifølge materialet?",
+    "options": {
+      "A": "2019",
+      "B": "2015",
+      "C": "2023"
     },
     "correct": "B"
   },
@@ -173,6 +352,16 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvad var den gennemsnitlige timeløn for mænd i industri/håndværk i 1914 sammenlignet med kvinder?",
+    "options": {
+      "A": "Mænd 55 øre, kvinder 30 øre",
+      "B": "Mænd 30 øre, kvinder 55 øre",
+      "C": "Mænd 55 øre, kvinder to tredjedele af mændenes løn"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Kan man komme i fængsel for at sende sit barn til udlandet til forhold, der bringer barnets sundhed eller udvikling i alvorlig fare (genopdragelsesrejse)?",
     "options": {
@@ -182,12 +371,32 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvor stor en andel af kvinder på en årgang fuldførte en videregående uddannelse i 2023?",
+    "options": {
+      "A": "45 procent",
+      "B": "64 procent",
+      "C": "16 procent"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvor stor en andel af borgerne i Danmark har tillid til, at politiet vil hjælpe dem, hvis de har brug for det (ifølge Justitsministeriets Tryghedsundersøgelse 2023)?",
     "options": {
       "A": "Cirka 25 procent",
       "B": "Cirka 55 procent",
       "C": "Cirka 85 procent"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad er en vigtig årsag til, at lønforskellen mellem mænd og kvinder er blevet mindre de seneste årtier?",
+    "options": {
+      "A": "Mændene er blevet bedre uddannede end kvinderne",
+      "B": "Kvinderne er sakket bagud i uddannelse",
+      "C": "Mændene er sakket bagud i uddannelse sammenlignet med kvinderne"
     },
     "correct": "C"
   },
@@ -201,6 +410,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken andel af kvindelige ledere var der på det danske arbejdsmarked i 2022?",
+    "options": {
+      "A": "16 procent",
+      "B": "19 procent",
+      "C": "31 procent"
+    },
+    "correct": "C"
+  },
+  {
     "exam": "real",
     "question": "Kan man blive straffet med fængsel, hvis man snyder med optællingen af stemmer til Folketinget?",
     "options": {
@@ -208,6 +427,16 @@
       "B": "Nej"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken juridisk konsekvens har et 'papirløst ægteskab' (samboende uden vielse) i Danmark?",
+    "options": {
+      "A": "Samme juridiske og økonomiske forpligtelser som ægtepar",
+      "B": "Ingen automatiske juridiske eller økonomiske forpligtelser som ægtepar",
+      "C": "Automatisk fælles forældremyndighed over eventuelle børn"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -219,11 +448,31 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Kan børn under 13 år arbejde uden for hjemmet ifølge dansk lov?",
+    "options": {
+      "A": "Ja, hvis forældrene giver tilladelse",
+      "B": "Nej, det er forbudt",
+      "C": "Ja, kun i familievirksomheder"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Kan en regering bestemme, at en forening skal opløses for altid?",
     "options": {
       "A": "Ja",
       "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad sker der med forældremyndigheden efter en skilsmisse, hvis forældrene ikke er enige?",
+    "options": {
+      "A": "Den går automatisk til moderen",
+      "B": "Fælles forældremyndighed fortsætter, medmindre retten bestemmer andet",
+      "C": "Den går automatisk til faderen"
     },
     "correct": "B"
   },
@@ -238,6 +487,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilket år blev det ulovligt at straffe seksuelle relationer mellem personer af samme køn i Danmark?",
+    "options": {
+      "A": "1933",
+      "B": "1981",
+      "C": "1989"
+    },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Kan man komme i fængsel, hvis man ulovligt hjælper fremmede staters efterretningstjenester med at virke i Danmark?",
     "options": {
@@ -245,6 +504,16 @@
       "B": "Nej"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad er et eksempel på en hadforbrydelse mod jøder i 2019 ifølge materialet?",
+    "options": {
+      "A": "Overhældning af en mindesten for Danmarks befrielse med rød maling",
+      "B": "Overhældning og væltning af gravsten på jødisk gravplads i Randers",
+      "C": "Angreb på en synagoge med skydevåben"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -256,11 +525,31 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Kan man ifølge grundloven offentligt opfordre til vold mod en bestemt gruppe mennesker?",
+    "options": {
+      "A": "Ja, på grund af ytringsfrihed",
+      "B": "Nej, det er ulovligt",
+      "C": "Ja, hvis det sker i en privat samtale"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Er det lovligt at lade sit barn under 18 år blive religiøst viet?",
     "options": {
       "A": "Ja",
       "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken andel af hadforbrydelserne i 2017-22 skyldtes ofrenes religion?",
+    "options": {
+      "A": "17 procent",
+      "B": "29 procent",
+      "C": "55 procent"
     },
     "correct": "B"
   },
@@ -275,6 +564,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvad var den vigtigste milepæl for ligeløn i 1976?",
+    "options": {
+      "A": "Lov om samme løn for mænd og kvinder i samme branche",
+      "B": "Lov om lige løn for samme arbejde efter krav fra EF (EU)",
+      "C": "Forbud mod forskel på timeløn mellem mænd og kvinder"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Har alle friskoler og private grundskoler pligt til at udvikle og styrke elevernes respekt for ligestilling mellem kønnene?",
     "options": {
@@ -282,6 +581,16 @@
       "B": "Nej"
     },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvorfor er nogle traditionelle 'kvindefag' stadig lavere lønnet end 'mandefag'?",
+    "options": {
+      "A": "Fordi kvinderne er mindre uddannede",
+      "B": "Fordi lønforskellene blev fastlagt for over 50 år siden, hvor samfundet så mindre ligeværdigt på kønnene",
+      "C": "Fordi der er flere mænd i ledelse i de offentlige fag"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -293,6 +602,16 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvilken sektor har en markant større andel af kvindelige ledere?",
+    "options": {
+      "A": "Den private sektor",
+      "B": "Den offentlige sektor",
+      "C": "Begge sektorer har samme andel"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Kan en familie ifølge dansk lov bestemme, hvem et familiemedlem på 18 år må være kæreste med?",
     "options": {
@@ -302,11 +621,41 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Er det muligt at blive skilt straks, hvis parret er enige om skilsmisse?",
+    "options": {
+      "A": "Nej, der kræves altid 6 måneders separation",
+      "B": "Ja",
+      "C": "Ja, men kun hvis der er særlige forhold som utroskab"
+    },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Er det lovligt at gennemføre en religiøs vielse af mindreårige i Danmark?",
     "options": {
       "A": "Ja",
       "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad skete der med en mindesten i København den 5. maj 2023?",
+    "options": {
+      "A": "Den blev overhældt med rød maling på årsdagen for Danmarks befrielse",
+      "B": "Den blev malet med nazistiske symboler på årsdagen for Krystalnatten",
+      "C": "Den blev angrebet i forbindelse med terrorangrebet i 2015"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvor stor en andel af voksne over 18 år levede som enlige i Danmark i 2024 ifølge materialet?",
+    "options": {
+      "A": "31 procent",
+      "B": "55 procent",
+      "C": "73 procent"
     },
     "correct": "B"
   }
