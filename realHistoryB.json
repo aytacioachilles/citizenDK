@@ -1,0 +1,430 @@
+[
+  {
+    "exam": "real",
+    "question": "Hvilken rettighed fik kvinder i forbindelse med grundlovsændringen i 1915?",
+    "options": {
+      "A": "Retten til at stemme til den lovgivende forsamling",
+      "B": "Retten til at få en abort til og med 12. graviditetsuge",
+      "C": "Retten til at blive skilt fra en voldelig ægtemand"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Under hvilken krig var Danmark besat af tyske tropper?",
+    "options": {
+      "A": "1. Verdenskrig",
+      "B": "2. Verdenskrig"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår trådte Danmarks Riges Grundlov i kraft?",
+    "options": {
+      "A": "1849",
+      "B": "1923",
+      "C": "1958"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev grundloven sidst ændret?",
+    "options": {
+      "A": "1855",
+      "B": "1907",
+      "C": "1953"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev de første jernbaner i Danmark bygget?",
+    "options": {
+      "A": "I 1700-tallet",
+      "B": "I 1800-tallet",
+      "C": "I 1900-tallet"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev protestantismen indført i Danmark?",
+    "options": {
+      "A": "1100-tallet",
+      "B": "1300-tallet",
+      "C": "1500-tallet"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Fik kvinder stemmeret til Folketinget med grundloven fra 1849?",
+    "options": {
+      "A": "Ja",
+      "B": "Nej"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken organisation blev Danmark medlem af i 1945?",
+    "options": {
+      "A": "FN",
+      "B": "WTO",
+      "C": "EU"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af følgende områder mistede Danmark i 1864?",
+    "options": {
+      "A": "Norge",
+      "B": "Skåne",
+      "C": "Slesvig"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket år blev Danmark besat af tyske tropper?",
+    "options": {
+      "A": "1935",
+      "B": "1940",
+      "C": "1945"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem var Danmarks første kvindelige statsminister?",
+    "options": {
+      "A": "Margrethe Vestager",
+      "B": "Mette Frederiksen",
+      "C": "Helle Thorning-Schmidt"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket af følgende lande var i union med Danmark over 400 år frem til 1814?",
+    "options": {
+      "A": "Sverige",
+      "B": "Finland",
+      "C": "Norge"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket parti sad i regering flest år mellem 1929 og 1982?",
+    "options": {
+      "A": "Socialdemokratiet",
+      "B": "Venstre",
+      "C": "Det Konservative Folkeparti"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem fik især betydning for højskolerne i 1800-tallet?",
+    "options": {
+      "A": "N.F.S. Grundtvig",
+      "B": "Søren Kierkegaard",
+      "C": "P.S. Krøyer"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket landområde mistede Danmark i 1658?",
+    "options": {
+      "A": "Shetlands-øerne",
+      "B": "Slesvig",
+      "C": "Skåne"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev Reformationen og dermed den protestantiske kristendom indført i Danmark?",
+    "options": {
+      "A": "900-tallet",
+      "B": "1200-tallet",
+      "C": "1500-tallet"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket år blev Danmark befriet fra den tyske besættelse?",
+    "options": {
+      "A": "1940",
+      "B": "1943",
+      "C": "1945"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev Danmark medlem af NATO?",
+    "options": {
+      "A": "1949",
+      "B": "1969",
+      "C": "1989"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket år blev Danmark besat af tyske tropper?",
+    "options": {
+      "A": "1932",
+      "B": "1940",
+      "C": "1944"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket land blev Danmark besat af den 9. april 1940?",
+    "options": {
+      "A": "Frankrig",
+      "B": "Sverige",
+      "C": "Tyskland"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev protestantismen indført i Danmark?",
+    "options": {
+      "A": "I 1100-tallet",
+      "B": "I 1300-tallet",
+      "C": "I 1500-tallet"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår fik Danmark for første gang en kvindelig statsminister?",
+    "options": {
+      "A": "1924",
+      "B": "1968",
+      "C": "2011"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev Danmarks Riges Grundlov indført?",
+    "options": {
+      "A": "1661",
+      "B": "1788",
+      "C": "1849"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev Danmark besat af tyske tropper under 2. Verdenskrig?",
+    "options": {
+      "A": "April 1937",
+      "B": "April 1940",
+      "C": "April 1945"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket område mistede Danmark i 1864?",
+    "options": {
+      "A": "Norge",
+      "B": "Skåne",
+      "C": "Slesvig"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad hedder Danmarks første kvindelige statsminister?",
+    "options": {
+      "A": "Pia Kjærsgaard",
+      "B": "Mette Frederiksen",
+      "C": "Helle Thorning-Schmidt"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad fejres hvert år den 5. juni?",
+    "options": {
+      "A": "Kristi Himmelfart",
+      "B": "Grundlovsdag",
+      "C": "Fastelavn"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken international organisation blev Danmark medlem af i 1949?",
+    "options": {
+      "A": "EU",
+      "B": "WTO",
+      "C": "NATO"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår er Danmarks Riges Grundlov fra?",
+    "options": {
+      "A": "1649",
+      "B": "1749",
+      "C": "1849"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår er den første grundlov fra?",
+    "options": {
+      "A": "1600-tallet",
+      "B": "1700-tallet",
+      "C": "1800-tallet"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev Reformationen gennemført i Danmark?",
+    "options": {
+      "A": "I 1100-tallet",
+      "B": "I 1300-tallet",
+      "C": "I 1500-tallet"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev Danmark under 2. Verdenskrig besat af tyske tropper?",
+    "options": {
+      "A": "I 1937",
+      "B": "I 1940",
+      "C": "I 1945"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket område mistede Danmark blandt andet i 1864?",
+    "options": {
+      "A": "Norge",
+      "B": "Skåne",
+      "C": "Slesvig"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken organisation blev Danmark medlem af i 1949?",
+    "options": {
+      "A": "FN",
+      "B": "NATO",
+      "C": "EU"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilket år blev reformationen gennemført i Danmark?",
+    "options": {
+      "A": "1066",
+      "B": "1397",
+      "C": "1536"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår blev Danmark under 2. Verdenskrig besat af tyske tropper?",
+    "options": {
+      "A": "April 1937",
+      "B": "April 1940",
+      "C": "April 1945"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken rettighed fik kvinder i 1915?",
+    "options": {
+      "A": "Retten til at stemme til den lovgivende forsamling",
+      "B": "Retten til at få en abort til og med 12. graviditetsuge",
+      "C": "Retten til at blive skilt fra en voldelig ægtemand"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår er Danmarks Riges Grundlov fra?",
+    "options": {
+      "A": "1661",
+      "B": "1788",
+      "C": "1849"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem var Danmarks første kvindelige statsminister?",
+    "options": {
+      "A": "Mette Frederiksen",
+      "B": "Helle Thorning-Schmidt",
+      "C": "Margrethe Vestager"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken organisation blev Danmark medlem af i 1945?",
+    "options": {
+      "A": "EU",
+      "B": "FN",
+      "C": "NATO"
+    },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilke områder mistede Danmark i 1864?",
+    "options": {
+      "A": "Island og Norge",
+      "B": "Skåne, Halland og Blekinge",
+      "C": "Slesvig og Holsten"
+    },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår fik kvinder stemmeret til Folketinget?",
+    "options": {
+      "A": "I 1915",
+      "B": "I 1945",
+      "C": "I 1975"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem var Danmarks første kvindelige statsminister?",
+    "options": {
+      "A": "Mette Frederiksen",
+      "B": "Pia Kjærsgaard",
+      "C": "Helle Thorning-Schmidt"
+    },
+    "correct": "C"
+  }
+]
