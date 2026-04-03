@@ -2,367 +2,297 @@
   {
     "exam": "real",
     "question": "Er det forbudt at slå børn i Danmark?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad er det overordnede princip i det danske velfærdssamfund?",
+    "options": {
+      "A": "Kun dem, der arbejder, får hjælp",
+      "B": "Alle, der kan, bidrager – alle, der har behov, får hjælp",
+      "C": "Kun personer med dansk statsborgerskab får hjælp"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
     "question": "Hvilken rettighed er sikret i den danske grundlov?",
-    "options": {
-      "A": "Retten til at stifte familie",
-      "B": "Retten til at købe og bruge våben",
-      "C": "Retten til at sige hvad man mener"
-    },
+    "options": { "A": "Retten til at stifte familie", "B": "Retten til at købe og bruge våben", "C": "Retten til at sige hvad man mener" },
     "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Må man forskelsbehandle på arbejdsmarkedet på grund af køn?",
+    "options": { "A": "Ja", "B": "Nej" },
+    "correct": "B"
   },
   {
     "exam": "real",
     "question": "Kan man gifte sig med en person af det samme køn i Danmark?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad er et centralt princip i det danske demokrati?",
+    "options": {
+      "A": "Kun mænd kan stemme",
+      "B": "Ingen må forhindres i at stemme eller stille op på grund af køn, etnicitet eller religion",
+      "C": "Kun statsborgere må stille op"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
     "question": "Må en arbejdsgiver fyre en ansat, fordi han eller hun melder sig ind i en fagforening?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad er et af målene med den danske udviklingsbistand?",
+    "options": { "A": "Kun at støtte militære operationer", "B": "At bekæmpe fattigdom og støtte grøn omstilling", "C": "Kun at støtte EU-lande" },
     "correct": "B"
   },
   {
     "exam": "real",
     "question": "Må en arbejdsgiver fyre en kvinde, fordi hun er gravid?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad er målet med den grønne omstilling i Danmark?",
+    "options": { "A": "At reducere udledningen af drivhusgasser", "B": "At øge brugen af olie og gas", "C": "At lukke alle vindmøller" },
+    "correct": "A"
   },
   {
     "exam": "real",
     "question": "Skal der være en folkeafstemning, hvis den danske grundlov skal ændres?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad er forsamlingsfrihed?",
+    "options": { "A": "Retten til at mødes offentligt uden tilladelse", "B": "Retten til at nægte at betale skat", "C": "Retten til at vælge religion" },
     "correct": "A"
   },
   {
     "exam": "real",
     "question": "Er flertallet af Danmarks befolkning medlem af folkekirken?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad er foreningsfrihed?",
+    "options": { "A": "Retten til at danne foreninger med lovligt formål uden tilladelse", "B": "Retten til at nægte værnepligt", "C": "Retten til gratis uddannelse" },
     "correct": "A"
   },
   {
     "exam": "real",
     "question": "Hvornår er man ifølge loven myndig i Danmark?",
-    "options": {
-      "A": "Når man fylder 15 år",
-      "B": "Når man fylder 18 år",
-      "C": "Når man fylder 21 år"
-    },
+    "options": { "A": "Når man fylder 15 år", "B": "Når man fylder 18 år", "C": "Når man fylder 21 år" },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad indeholder Den Europæiske Menneskerettighedskonvention?",
+    "options": { "A": "Kun økonomiske rettigheder", "B": "Ytringsfrihed, forbud mod tortur og ret til retfærdig rettergang", "C": "Kun militære regler" },
     "correct": "B"
   },
   {
     "exam": "real",
     "question": "Skal politiet normalt give tilladelse til, at man afholder en demonstration?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad er formålet med Danmarks udviklingsbistand?",
+    "options": { "A": "Kun militær hjælp", "B": "At bekæmpe fattigdom, støtte grøn omstilling og kvinders rettigheder", "C": "Kun at støtte EU-lande" },
     "correct": "B"
   },
   {
     "exam": "real",
     "question": "Hvilken rettighed er beskyttet af grundloven?",
-    "options": {
-      "A": "Retten til bære våben",
-      "B": "Retten til at have et arbejde",
-      "C": "Retten til selv at vælge religion"
-    },
+    "options": { "A": "Retten til bære våben", "B": "Retten til at have et arbejde", "C": "Retten til selv at vælge religion" },
     "correct": "C"
   },
   {
     "exam": "real",
     "question": "Kan man gifte sig med en person af samme køn i Danmark?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "A"
   },
   {
     "exam": "real",
     "question": "Hvor gammel skal man være for at blive gift i Danmark?",
-    "options": {
-      "A": "Mindst 16 år",
-      "B": "Mindst 18 år",
-      "C": "Mindst 20 år"
-    },
+    "options": { "A": "Mindst 16 år", "B": "Mindst 18 år", "C": "Mindst 20 år" },
     "correct": "B"
   },
   {
     "exam": "real",
     "question": "Må man danne en forening, hvis man ikke er dansk statsborger?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "A"
   },
   {
     "exam": "real",
     "question": "Hvad var rødstrømpe-bevægelsen en del af?",
-    "options": {
-      "A": "Arbejderbevægelsen i 1930'erne",
-      "B": "Kvindebevægelsen i 1970'erne",
-      "C": "Miljøbevægelsen i 1990'erne"
-    },
+    "options": { "A": "Arbejderbevægelsen i 1930'erne", "B": "Kvindebevægelsen i 1970'erne", "C": "Miljøbevægelsen i 1990'erne" },
     "correct": "B"
   },
   {
     "exam": "real",
     "question": "Fik alle mænd og kvinder over 18 år stemmeret til Folketinget med Grundloven i 1849?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "B"
   },
   {
     "exam": "real",
     "question": "Kan regeringen bestemme, hvordan en dommer skal dømme i en konkret retssag?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "B"
   },
   {
     "exam": "real",
     "question": "Hvilken rettighed er sikret i grundloven?",
-    "options": {
-      "A": "Retten til at stifte familie",
-      "B": "Retten til at bære våben",
-      "C": "Retten til at ytre sig"
-    },
+    "options": { "A": "Retten til at stifte familie", "B": "Retten til at bære våben", "C": "Retten til at ytre sig" },
     "correct": "C"
   },
   {
     "exam": "real",
     "question": "Har kvinder ifølge dansk lov ret til samme løn som mænd for samme arbejde?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "A"
   },
   {
     "exam": "real",
     "question": "Hvad er en kollektiv overenskomst for privat ansatte?",
-    "options": {
-      "A": "En aftale mellem virksomheder og kommunalbestyrelser",
-      "B": "En aftale mellem staten, regionerne og kommunerne",
-      "C": "En aftale mellem fagforeninger og arbejdsgiverorganisationer"
-    },
+    "options": { "A": "En aftale mellem virksomheder og kommunalbestyrelser", "B": "En aftale mellem staten, regionerne og kommunerne", "C": "En aftale mellem fagforeninger og arbejdsgiverorganisationer" },
     "correct": "C"
   },
   {
     "exam": "real",
     "question": "Hvilken rettighed er beskyttet af den danske grundlov?",
-    "options": {
-      "A": "Retten til at holde ferie",
-      "B": "Retten til at eje våben",
-      "C": "Retten til at forsamles"
-    },
+    "options": { "A": "Retten til at holde ferie", "B": "Retten til at eje våben", "C": "Retten til at forsamles" },
     "correct": "C"
   },
   {
     "exam": "real",
     "question": "Kan man få arbejdsløshedsdagpenge uden at være medlem af en arbejdsløshedskasse (A-kasse)?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "B"
   },
   {
     "exam": "real",
     "question": "Har man ifølge Grundloven ret til at danne foreninger i Danmark?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "A"
   },
   {
     "exam": "real",
     "question": "Kan politikerne bestemme, hvordan domstolene skal afgøre en konkret retssag?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "B"
   },
   {
     "exam": "real",
     "question": "Har fædre ret til fædreorlov efter barns fødsel?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "A"
   },
   {
     "exam": "real",
     "question": "Betyder en betinget fængselsstraf, at man kan undgå at komme i fængsel?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "A"
   },
   {
     "exam": "real",
     "question": "Hvilken rettighed er sikret i den danske grundlov?",
-    "options": {
-      "A": "Retten til at bære våben",
-      "B": "Retten til at stifte familie",
-      "C": "Retten til at forsamles"
-    },
+    "options": { "A": "Retten til at bære våben", "B": "Retten til at stifte familie", "C": "Retten til at forsamles" },
     "correct": "C"
   },
   {
     "exam": "real",
     "question": "Hvornår er man ifølge loven myndig i Danmark?",
-    "options": {
-      "A": "Når man er 15 år",
-      "B": "Når man er 18 år",
-      "C": "Når man er 21 år"
-    },
+    "options": { "A": "Når man er 15 år", "B": "Når man er 18 år", "C": "Når man er 21 år" },
     "correct": "B"
   },
   {
     "exam": "real",
     "question": "Skal man underrette politiet, før man holder en demonstration?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "A"
   },
   {
     "exam": "real",
     "question": "Hvem har den dømmende magt?",
-    "options": {
-      "A": "Regeringen",
-      "B": "Domstolene",
-      "C": "Folketinget"
-    },
+    "options": { "A": "Regeringen", "B": "Domstolene", "C": "Folketinget" },
     "correct": "B"
   },
   {
     "exam": "real",
     "question": "Har kvinder normalt mulighed for at få økonomisk støtte under barselsorlov?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "A"
   },
   {
     "exam": "real",
     "question": "Har en medarbejder altid krav på at arbejde på deltid?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "B"
   },
   {
     "exam": "real",
     "question": "Kan udlændinge stemme til folketingsvalg i Danmark?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "B"
   },
   {
     "exam": "real",
     "question": "Har mænd normalt ret til at tage fædreorlov, når de er blevet fædre?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "A"
   },
   {
     "exam": "real",
     "question": "Hvilken rettighed fik kvinder i 1915?",
-    "options": {
-      "A": "Retten til at stemme til den lovgivende forsamling",
-      "B": "Retten til at få en abort til og med 12. graviditetsuge",
-      "C": "Retten til at blive skilt fra en voldelig ægtemand"
-    },
+    "options": { "A": "Retten til at stemme til den lovgivende forsamling", "B": "Retten til at få en abort til og med 12. graviditetsuge", "C": "Retten til at blive skilt fra en voldelig ægtemand" },
     "correct": "A"
   },
   {
     "exam": "real",
     "question": "Hvordan bliver det afgjort, hvem der skal være konge eller dronning i Danmark?",
-    "options": {
-      "A": "Folketinget vælger den bedst kvalificerede",
-      "B": "Den nye konge eller dronning arver tronen",
-      "C": "Det bliver afgjort gennem en folkeafstemning"
-    },
+    "options": { "A": "Folketinget vælger den bedst kvalificerede", "B": "Den nye konge eller dronning arver tronen", "C": "Det bliver afgjort gennem en folkeafstemning" },
     "correct": "B"
   },
   {
     "exam": "real",
     "question": "Hvem har den dømmende magt?",
-    "options": {
-      "A": "Folketinget",
-      "B": "Regeringen",
-      "C": "Domstolene"
-    },
+    "options": { "A": "Folketinget", "B": "Regeringen", "C": "Domstolene" },
     "correct": "C"
   },
   {
     "exam": "real",
     "question": "Kan man få dagpenge ved arbejdsløshed uden at være medlem af en arbejdsløshedskasse?",
-    "options": {
-      "A": "Nej",
-      "B": "Ja"
-    },
+    "options": { "A": "Nej", "B": "Ja" },
     "correct": "A"
   },
   {
     "exam": "real",
     "question": "Hvilken rettighed er sikret i den danske grundlov?",
-    "options": {
-      "A": "Retten til at stifte familie",
-      "B": "Retten til at købe og bruge våben",
-      "C": "Retten til at mødes til en demonstration"
-    },
+    "options": { "A": "Retten til at stifte familie", "B": "Retten til at købe og bruge våben", "C": "Retten til at mødes til en demonstration" },
     "correct": "C"
   },
   {
     "exam": "real",
     "question": "Kan arbejdsgiveren forlange, at medarbejderne skal gå på deltid?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
+    "options": { "A": "Ja", "B": "Nej" },
     "correct": "B"
   }
 ]

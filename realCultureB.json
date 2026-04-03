@@ -2,339 +2,281 @@
   {
     "exam": "real",
     "question": "Hvem holder sin nytårstale den 31. december?",
-    "options": {
-      "A": "Dronningen",
-      "B": "Statsministeren"
-    },
+    "options": { "A": "Dronningen", "B": "Statsministeren" },
     "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad er et vigtigt formål med foreningslivet i Danmark?",
+    "options": {
+      "A": "Kun at tjene penge",
+      "B": "At skabe sociale fællesskaber på tværs af baggrund",
+      "C": "Kun politiske aktiviteter"
+    },
+    "correct": "B"
   },
   {
     "exam": "real",
     "question": "Hvornår er der tradition for, at børn slår katten af tønden?",
-    "options": {
-      "A": "Halloween",
-      "B": "Pinse",
-      "C": "Fastelavn"
-    },
+    "options": { "A": "Halloween", "B": "Pinse", "C": "Fastelavn" },
     "correct": "C"
   },
   {
-    "exam": "real",
-    "question": "Hvornår levede forfatteren H.C. Andersen?",
-    "options": {
-      "A": "I 1700-tallet",
-      "B": "I 1800-tallet",
-      "C": "I 1900-tallet"
-    },
-    "correct": "B"
+    "exam": "AI",
+    "question": "Hvem er en af de mest kendte danske arkitekter?",
+    "options": { "A": "Arne Jacobsen", "B": "Olafur Eliasson", "C": "Thomas Vinterberg" },
+    "correct": "A"
   },
   {
     "exam": "real",
     "question": "Hvad var Søren Kierkegaard (1813-1855) særligt kendt for?",
-    "options": {
-      "A": "Han var kunstmaler",
-      "B": "Han var politiker",
-      "C": "Han var filosof"
-    },
+    "options": { "A": "Han var kunstmaler", "B": "Han var politiker", "C": "Han var filosof" },
     "correct": "C"
   },
   {
-    "exam": "real",
-    "question": "Hvem fik især betydning for højskolerne i 1800-tallet?",
-    "options": {
-      "A": "Ludvig Holberg",
-      "B": "Søren Kierkegaard",
-      "C": "N.F.S. Grundtvig"
-    },
-    "correct": "C"
+    "exam": "AI",
+    "question": "Ifølge grundloven er hvilken kirke den danske folkekirke?",
+    "options": { "A": "Den romersk-katolske kirke", "B": "Den evangelisk-lutherske kirke", "C": "Den ortodokse kirke" },
+    "correct": "B"
   },
   {
     "exam": "real",
     "question": "Hvad er P.S. Krøyer særlig kendt for?",
-    "options": {
-      "A": "Han var kunstmaler",
-      "B": "Han var politiker",
-      "C": "Han var videnskabsmand"
-    },
+    "options": { "A": "Han var kunstmaler", "B": "Han var politiker", "C": "Han var videnskabsmand" },
     "correct": "A"
   },
   {
-    "exam": "real",
-    "question": "Hvad er Karen Blixen især kendt for?",
-    "options": {
-      "A": "Hun lavede film",
-      "B": "Hun skrev bøger",
-      "C": "Hun spillede teater"
-    },
-    "correct": "B"
+    "exam": "AI",
+    "question": "Er det gratis at låne bøger på folkebibliotekerne?",
+    "options": { "A": "Ja", "B": "Nej" },
+    "correct": "A"
   },
   {
     "exam": "real",
     "question": "Hvilken popgruppe udgav nummeret 'Barbie Girl' i 1990'erne?",
-    "options": {
-      "A": "Gasolin",
-      "B": "Aqua",
-      "C": "Nik & Jay"
-    },
+    "options": { "A": "Gasolin", "B": "Aqua", "C": "Nik & Jay" },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad er 'Ægget'?",
+    "options": { "A": "En lænestol designet af Arne Jacobsen", "B": "Et eventyr af H.C. Andersen", "C": "En symfoni af Carl Nielsen" },
+    "correct": "A"
   },
   {
     "exam": "real",
     "question": "Hvad var Yahya Hassan særligt kendt for?",
-    "options": {
-      "A": "Han var skuespiller",
-      "B": "Han var fodboldspiller",
-      "C": "Han var digter"
-    },
+    "options": { "A": "Han var skuespiller", "B": "Han var fodboldspiller", "C": "Han var digter" },
     "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem kan vælge en tillidsrepræsentant i en idrætsforening?",
+    "options": { "A": "Kun forældre", "B": "Medlemmerne af foreningen", "C": "Kommunen" },
+    "correct": "B"
   },
   {
     "exam": "real",
     "question": "For hvilken film vandt Thomas Vinterberg en Oscar i 2021?",
-    "options": {
-      "A": "Druk",
-      "B": "Hævnen",
-      "C": "Nattevagten"
-    },
+    "options": { "A": "Druk", "B": "Hævnen", "C": "Nattevagten" },
     "correct": "A"
   },
   {
-    "exam": "real",
-    "question": "Hvad er Susanne Bier og Thomas Vinterberg særlig kendte for?",
-    "options": {
-      "A": "De er filminstruktører",
-      "B": "De er kunstmalere",
-      "C": "De er forfattere"
-    },
+    "exam": "AI",
+    "question": "Hvad sker der den 5. maj?",
+    "options": { "A": "Man fejrer befrielsen efter 2. Verdenskrig", "B": "Man holder grundlovsdag", "C": "Man fejrer fastelavn" },
     "correct": "A"
-  },
-  {
-    "exam": "real",
-    "question": "Hvem har skrevet fortællingen Den Grimme Ælling?",
-    "options": {
-      "A": "H.C. Andersen",
-      "B": "Karen Blixen",
-      "C": "Ludvig Holberg"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad er Søren Kierkegaard (1813-55) særligt kendt for?",
-    "options": {
-      "A": "Han var kunstmaler",
-      "B": "Han var filosof",
-      "C": "Han var fysiker"
-    },
-    "correct": "B"
   },
   {
     "exam": "real",
     "question": "I hvilken måned fejres sankthans?",
-    "options": {
-      "A": "I maj",
-      "B": "I juni",
-      "C": "I juli"
-    },
+    "options": { "A": "I maj", "B": "I juni", "C": "I juli" },
     "correct": "B"
   },
   {
-    "exam": "real",
-    "question": "Hvilken popgruppe udgav nummeret Barbie Girl i 1990’erne?",
-    "options": {
-      "A": "Gasolin",
-      "B": "Me & My",
-      "C": "Aqua"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad var Yahya Hassan (1995-2020) særligt kendt for?",
-    "options": {
-      "A": "Han var musiker",
-      "B": "Han var digter",
-      "C": "Han var fodboldspiller"
-    },
+    "exam": "AI",
+    "question": "Hvem er gudernes konge i asatroen?",
+    "options": { "A": "Thor", "B": "Odin", "C": "Freja" },
     "correct": "B"
   },
   {
     "exam": "real",
     "question": "Hvad hedder Danmarks kronprins?",
-    "options": {
-      "A": "Christian",
-      "B": "Nikolaj",
-      "C": "Frederik"
-    },
+    "options": { "A": "Christian", "B": "Nikolaj", "C": "Frederik" },
     "correct": "A"
   },
   {
-    "exam": "real",
-    "question": "Hvornår er der tradition for at samles om aftenen og tænde bål?",
-    "options": {
-      "A": "Til grundlovsdag",
-      "B": "Til fastelavn",
-      "C": "Til sankthans"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvilken forfatter har skrevet eventyret Den Grimme Ælling?",
-    "options": {
-      "A": "Karen Blixen",
-      "B": "H.C. Andersen",
-      "C": "Benny Andersen"
-    },
+    "exam": "AI",
+    "question": "Hvilken type undervisning finder sted på aftenskoler?",
+    "options": { "A": "Kun eksamensforberedelse", "B": "Almen og faglig indsigt uden eksamen", "C": "Kun sprogundervisning" },
     "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad er Karen Blixen især kendt for?",
-    "options": {
-      "A": "Hun skrev bøger",
-      "B": "Hun lavede billedkunst",
-      "C": "Hun spillede teater"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad er P.S. Krøyer særlig kendt for?",
-    "options": {
-      "A": "Han var videnskabsmand",
-      "B": "Han var politiker",
-      "C": "Han var kunstmaler"
-    },
-    "correct": "C"
   },
   {
     "exam": "real",
     "question": "I forbindelse med hvilken mærkedag klæder børn sig ud og slår katten af tønden?",
-    "options": {
-      "A": "Sankthans",
-      "B": "Fastelavn",
-      "C": "Pinse"
-    },
+    "options": { "A": "Sankthans", "B": "Fastelavn", "C": "Pinse" },
     "correct": "B"
   },
   {
-    "exam": "real",
-    "question": "Hvad var Yahya Hassan særligt kendt for?",
-    "options": {
-      "A": "Han var digter",
-      "B": "Han var fodboldspiller",
-      "C": "Han var skuespiller"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
-    "question": "I hvilken måned fejres sankthans?",
-    "options": {
-      "A": "I april",
-      "B": "I maj",
-      "C": "I juni"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad er Ludvig Holberg særlig kendt for?",
-    "options": {
-      "A": "Han var forfatter",
-      "B": "Han var komponist",
-      "C": "Han var kunstmaler"
-    },
+    "exam": "AI",
+    "question": "Hvad er et typisk eksempel på frivilligt socialt arbejde?",
+    "options": { "A": "Lektiecaféer", "B": "Betalt arbejde på sygehuse", "C": "Politisk arbejde i Folketinget" },
     "correct": "A"
   },
   {
     "exam": "real",
     "question": "Hvad er en straffeattest?",
-    "options": {
-      "A": "Et dokument, man skal vise til politiet, hvis man bliver anholdt",
-      "B": "Et dokument, der viser, om man har været straffet"
-    },
+    "options": { "A": "Et dokument, man skal vise til politiet, hvis man bliver anholdt", "B": "Et dokument, der viser, om man har været straffet" },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Kan man blive medlem af folkekirken uden at være døbt?",
+    "options": { "A": "Ja, man kan altid melde sig ind", "B": "Nej, man kan kun blive medlem ved dåb" },
     "correct": "B"
   },
   {
     "exam": "real",
-    "question": "Hvornår er der tradition for, at børn klæder sig ud og slår katten af tønden?",
-    "options": {
-      "A": "Til sankthans",
-      "B": "Til fastelavn",
-      "C": "Til pinse"
-    },
+    "question": "Hvilken kristen højtid fejres 7 uger efter påsken?",
+    "options": { "A": "St. Bededag", "B": "Pinse", "C": "Sankt Hans" },
+    "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken dag er det normalt tradition at danse om juletræet?",
+    "options": { "A": "Juleaften den 24. december", "B": "Nytårsaften", "C": "Sankthansaften" },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er Carl Nielsen særlig kendt for?",
+    "options": { "A": "Han komponerede musik", "B": "Han lavede billedkunst", "C": "Han skrev eventyr" },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem har skrevet fortællingen Den Grimme Ælling?",
+    "options": { "A": "H.C. Andersen", "B": "Karen Blixen", "C": "Ludvig Holberg" },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår levede forfatteren H.C. Andersen?",
+    "options": { "A": "I 1700-tallet", "B": "I 1800-tallet", "C": "I 1900-tallet" },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er Karen Blixen især kendt for?",
+    "options": { "A": "Hun skrev bøger", "B": "Hun lavede film", "C": "Hun spillede teater" },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "I hvilken måned fejres sankthans?",
+    "options": { "A": "I april", "B": "I maj", "C": "I juni" },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er Ludvig Holberg særlig kendt for?",
+    "options": { "A": "Han var forfatter", "B": "Han var komponist", "C": "Han var kunstmaler" },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er Susanne Bier og Thomas Vinterberg særlig kendte for?",
+    "options": { "A": "De er filminstruktører", "B": "De er kunstmalere", "C": "De er forfattere" },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvem fik især betydning for højskolerne i 1800-tallet?",
+    "options": { "A": "Ludvig Holberg", "B": "Søren Kierkegaard", "C": "N.F.S. Grundtvig" },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "I forbindelse med hvilken mærkedag er der tradition for at klæde sig ud?",
+    "options": { "A": "Sankt Hans", "B": "Påskedag", "C": "Fastelavn" },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er P.S. Krøyer særlig kendt for?",
+    "options": { "A": "Han var videnskabsmand", "B": "Han var politiker", "C": "Han var kunstmaler" },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad var Yahya Hassan (1995-2020) særligt kendt for?",
+    "options": { "A": "Han var musiker", "B": "Han var digter", "C": "Han var fodboldspiller" },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken forfatter har skrevet eventyret Den Grimme Ælling?",
+    "options": { "A": "Karen Blixen", "B": "H.C. Andersen", "C": "Benny Andersen" },
     "correct": "B"
   },
   {
     "exam": "real",
     "question": "Hvad er Ludvig Holberg kendt for?",
-    "options": {
-      "A": "Han var maler",
-      "B": "Han var forfatter",
-      "C": "Han var komponist"
-    },
+    "options": { "A": "Han var maler", "B": "Han var forfatter", "C": "Han var komponist" },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
+    "question": "Hvad er Søren Kierkegaard (1813-55) særligt kendt for?",
+    "options": { "A": "Han var kunstmaler", "B": "Han var filosof", "C": "Han var fysiker" },
     "correct": "B"
   },
   {
     "exam": "real",
     "question": "Hvornår levede forfatteren H.C. Andersen?",
-    "options": {
-      "A": "1805-1875",
-      "B": "1855-1925",
-      "C": "1905-1975"
-    },
+    "options": { "A": "1805-1875", "B": "1855-1925", "C": "1905-1975" },
     "correct": "A"
   },
   {
     "exam": "real",
-    "question": "Hvilken kristen højtid fejres 7 uger efter påsken?",
-    "options": {
-      "A": "St. Bededag",
-      "B": "Pinse",
-      "C": "Sankt Hans"
-    },
-    "correct": "B"
+    "question": "Hvilken popgruppe udgav nummeret Barbie Girl i 1990’erne?",
+    "options": { "A": "Gasolin", "B": "Me & My", "C": "Aqua" },
+    "correct": "C"
+  },
+  {
+    "exam": "real",
+    "question": "Hvornår er der tradition for at samles om aftenen og tænde bål?",
+    "options": { "A": "Til grundlovsdag", "B": "Til fastelavn", "C": "Til sankthans" },
+    "correct": "C"
   },
   {
     "exam": "real",
     "question": "Hvad er P.S. Krøyer særlig kendt for?",
-    "options": {
-      "A": "Han var forfatter",
-      "B": "Han var komponist",
-      "C": "Han var kunstmaler"
-    },
+    "options": { "A": "Han var forfatter", "B": "Han var komponist", "C": "Han var kunstmaler" },
     "correct": "C"
   },
   {
     "exam": "real",
-    "question": "Hvilken forfatter har skrevet eventyret ’Den Grimme Ælling’?",
-    "options": {
-      "A": "Karen Blixen",
-      "B": "H.C. Andersen",
-      "C": "Benny Andersen"
-    },
+    "question": "Hvornår er der tradition for, at børn klæder sig ud og slår katten af tønden?",
+    "options": { "A": "Til sankthans", "B": "Til fastelavn", "C": "Til pinse" },
     "correct": "B"
   },
   {
     "exam": "real",
-    "question": "Hvad er Carl Nielsen særlig kendt for?",
-    "options": {
-      "A": "Han komponerede musik",
-      "B": "Han lavede billedkunst",
-      "C": "Han skrev eventyr"
-    },
+    "question": "Hvad er Karen Blixen især kendt for?",
+    "options": { "A": "Hun skrev bøger", "B": "Hun lavede billedkunst", "C": "Hun spillede teater" },
     "correct": "A"
   },
   {
     "exam": "real",
-    "question": "I forbindelse med hvilken mærkedag er der tradition for at klæde sig ud?",
-    "options": {
-      "A": "Sankt Hans",
-      "B": "Påskedag",
-      "C": "Fastelavn"
-    },
-    "correct": "C"
+    "question": "Hvad var Yahya Hassan særligt kendt for?",
+    "options": { "A": "Han var digter", "B": "Han var fodboldspiller", "C": "Han var skuespiller" },
+    "correct": "A"
+  },
+  {
+    "exam": "real",
+    "question": "Hvilken forfatter har skrevet eventyret ’Den Grimme Ælling’?",
+    "options": { "A": "Karen Blixen", "B": "H.C. Andersen", "C": "Benny Andersen" },
+    "correct": "B"
   }
 ]

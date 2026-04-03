@@ -1,12 +1,34 @@
 [
   {
     "exam": "real",
+    "question": "Hvem fik især betydning for højskolerne i 1800-tallet?",
+    "options": {
+      "A": "N.F.S. Grundtvig",
+      "B": "Søren Kierkegaard",
+      "C": "P.S. Krøyer"
+    },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvor mange folkeafstemninger har der været siden 1953?",
+    "options": { "A": "9", "B": "16", "C": "25" },
+    "correct": "B"
+  },
+  {
+    "exam": "real",
     "question": "Hvilken rettighed fik kvinder i forbindelse med grundlovsændringen i 1915?",
     "options": {
       "A": "Retten til at stemme til den lovgivende forsamling",
       "B": "Retten til at få en abort til og med 12. graviditetsuge",
       "C": "Retten til at blive skilt fra en voldelig ægtemand"
     },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem var Margrete 1.?",
+    "options": { "A": "Hun havde magten i Kalmarunionen frem til 1412", "B": "Hun indførte enevælden", "C": "Hun var den første kvindelige statsminister" },
     "correct": "A"
   },
   {
@@ -19,6 +41,12 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvad skete i middelalderen omkring 1350?",
+    "options": { "A": "Pesten ramte Danmark og slog ca. en tredjedel ihjel", "B": "Reformationen startede", "C": "Grundloven blev indført" },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvornår trådte Danmarks Riges Grundlov i kraft?",
     "options": {
@@ -26,6 +54,12 @@
       "B": "1923",
       "C": "1958"
     },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad var årsagen til, at Danmark deltog i krigen i Afghanistan fra 2002?",
+    "options": { "A": "At bekæmpe terrorisme efter 11. september 2001", "B": "At hjælpe med fredsbevarende missioner", "C": "At støtte Irakkrigen" },
     "correct": "A"
   },
   {
@@ -39,6 +73,12 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvem samlede Danmark til ét rige ifølge Jellingestenen?",
+    "options": { "A": "Kong Gorm den Gamle", "B": "Kong Harald Blåtand", "C": "Kong Knud den Store" },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvornår blev de første jernbaner i Danmark bygget?",
     "options": {
@@ -47,6 +87,12 @@
       "C": "I 1900-tallet"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilken periode kaldes vikingetiden?",
+    "options": { "A": "Ca. 750 – 1050", "B": "Ca. 1050 – 1500", "C": "Ca. 1536 – 1660" },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -59,6 +105,12 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvad skete efter 1870 i Danmark?",
+    "options": { "A": "Industrialiseringen gik hurtigere, og arbejderklassen opstod", "B": "Danmark mistede Slesvig", "C": "Reformationen startede" },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Fik kvinder stemmeret til Folketinget med grundloven fra 1849?",
     "options": {
@@ -66,6 +118,12 @@
       "B": "Nej"
     },
     "correct": "B"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem var konge i næsten 60 år og byggede bl.a. Børsen og Rosenborg?",
+    "options": { "A": "Christian 4.", "B": "Frederik 7.", "C": "Margrete 1." },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -78,6 +136,12 @@
     "correct": "A"
   },
   {
+    "exam": "AI",
+    "question": "Hvad skete i 1397?",
+    "options": { "A": "Reformationen", "B": "Kalmarunionen blev dannet", "C": "Enevælden blev indført" },
+    "correct": "B"
+  },
+  {
     "exam": "real",
     "question": "Hvilket af følgende områder mistede Danmark i 1864?",
     "options": {
@@ -86,6 +150,12 @@
       "C": "Slesvig"
     },
     "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvornår blev enevælden indført i Danmark?",
+    "options": { "A": "1660-61", "B": "1849", "C": "1915" },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -98,6 +168,12 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvad skete omkring 12.500 f.Kr. i det område, der nu er Danmark?",
+    "options": { "A": "De første mennesker kom og levede af jagt og fiskeri", "B": "Danmark blev kristent", "C": "Vikingerne sejlede til England" },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvem var Danmarks første kvindelige statsminister?",
     "options": {
@@ -106,6 +182,12 @@
       "C": "Helle Thorning-Schmidt"
     },
     "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvad betød landboreformerne i slutningen af 1700-tallet?",
+    "options": { "A": "Stavnsbåndet blev afskaffet, og bønderne fik frihed til at eje jord", "B": "Kirken fik mere magt", "C": "Danmark mistede Slesvig og Holsten" },
+    "correct": "A"
   },
   {
     "exam": "real",
@@ -118,6 +200,12 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvornår blev Stavnsbåndet afskaffet?",
+    "options": { "A": "1788", "B": "1849", "C": "1660" },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvilket parti sad i regering flest år mellem 1929 og 1982?",
     "options": {
@@ -128,14 +216,10 @@
     "correct": "A"
   },
   {
-    "exam": "real",
-    "question": "Hvem fik især betydning for højskolerne i 1800-tallet?",
-    "options": {
-      "A": "N.F.S. Grundtvig",
-      "B": "Søren Kierkegaard",
-      "C": "P.S. Krøyer"
-    },
-    "correct": "A"
+    "exam": "AI",
+    "question": "Hvornår var Danmark neutralt under en verdenskrig?",
+    "options": { "A": "Under 2. Verdenskrig", "B": "Under 1. Verdenskrig", "C": "Under ingen af dem" },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -148,6 +232,12 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvornår blev Det Radikale Venstre dannet?",
+    "options": { "A": "1905", "B": "1870", "C": "1915" },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvornår blev Reformationen og dermed den protestantiske kristendom indført i Danmark?",
     "options": {
@@ -156,6 +246,12 @@
       "C": "1500-tallet"
     },
     "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvornår blev Danmark officielt befriet?",
+    "options": { "A": "9. april 1940", "B": "5. maj 1945", "C": "August 1943" },
+    "correct": "B"
   },
   {
     "exam": "real",
@@ -168,6 +264,12 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvad førte til enevælden i 1660-61?",
+    "options": { "A": "Tabet af Skåne, Halland og Blekinge", "B": "Landboreformerne", "C": "Reformationen" },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvornår blev Danmark medlem af NATO?",
     "options": {
@@ -175,6 +277,12 @@
       "B": "1969",
       "C": "1989"
     },
+    "correct": "A"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvem regerede England i ca. 30 år i begyndelsen af 1000-tallet?",
+    "options": { "A": "Danske konger som Knud den Store", "B": "Svenske konger", "C": "Norske konger" },
     "correct": "A"
   },
   {
@@ -188,6 +296,12 @@
     "correct": "B"
   },
   {
+    "exam": "AI",
+    "question": "Hvornår brød samarbejdet med den tyske besættelsesmagt sammen?",
+    "options": { "A": "August 1943", "B": "9. april 1940", "C": "5. maj 1945" },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvilket land blev Danmark besat af den 9. april 1940?",
     "options": {
@@ -198,6 +312,12 @@
     "correct": "C"
   },
   {
+    "exam": "AI",
+    "question": "Hvad skete i 1658 under Christian 4.s tid?",
+    "options": { "A": "Danmark tabte Skåne, Halland og Blekinge til Sverige", "B": "Reformationen blev gennemført", "C": "Landboreformerne startede" },
+    "correct": "A"
+  },
+  {
     "exam": "real",
     "question": "Hvornår blev protestantismen indført i Danmark?",
     "options": {
@@ -206,6 +326,12 @@
       "C": "I 1500-tallet"
     },
     "correct": "C"
+  },
+  {
+    "exam": "AI",
+    "question": "Hvilket år blev Danmark medlem af EU (dengang EF)?",
+    "options": { "A": "1963", "B": "1973", "C": "1985" },
+    "correct": "B"
   },
   {
     "exam": "real",

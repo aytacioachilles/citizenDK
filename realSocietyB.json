@@ -220,7 +220,7 @@
     "options": {
       "A": "Cirka seks millioner",
       "B": "Cirka otte millioner",
-      "C": "Cirka ti millioner"
+      "C": "Cirka ten millioner"
     },
     "correct": "A"
   },
@@ -310,7 +310,7 @@
   },
   {
     "exam": "real",
-    "question": "Hvad hedder Danmarks tredjestørste by?",
+    "question": "Hvad hed hedder Danmarks tredjestørste by?",
     "options": {
       "A": "Esbjerg",
       "B": "Aalborg",
@@ -438,16 +438,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvor gammel skal man mindst være for at købe cigaretter i Danmark?",
-    "options": {
-      "A": "16 år",
-      "B": "18 år",
-      "C": "20 år"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
     "question": "Hvilket område samarbejdes der primært om i NATO?",
     "options": {
       "A": "Handelspolitik",
@@ -517,16 +507,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvad er den mest almindelige arbejdstid, hvis man er ansat på fuld tid?",
-    "options": {
-      "A": "32 timer om ugen",
-      "B": "37 timer om ugen",
-      "C": "43 timer om ugen"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
     "question": "Hvem vælger en tillidsrepræsentant på en arbejdsplads?",
     "options": {
       "A": "Medarbejderne og arbejdsgiveren i fællesskab",
@@ -566,16 +546,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvor mange medlemmer af Folketinget er valgt på Færøerne?",
-    "options": {
-      "A": "To",
-      "B": "Fem",
-      "C": "Otte"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
     "question": "Er et flertal af Danmarks befolkning medlem af Folkekirken?",
     "options": {
       "A": "Ja",
@@ -604,7 +574,7 @@
   },
   {
     "exam": "real",
-    "question": "Hvem laver lovene i Danmark?",
+    "question": "Hvem lave lovene i Danmark?",
     "options": {
       "A": "Folketinget og domstolene",
       "B": "Regeringen og Folketinget"
@@ -750,16 +720,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvilken af følgende byer har flest indbyggere?",
-    "options": {
-      "A": "Esbjerg",
-      "B": "Randers",
-      "C": "Aalborg"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
     "question": "Er Det Konservative Folkeparti med i den nuværende regering?",
     "options": {
       "A": "Ja",
@@ -897,16 +857,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvor stor en andel af Folketingets medlemmer er kvinder?",
-    "options": {
-      "A": "Ca. 20 %",
-      "B": "Ca. 40 %",
-      "C": "Ca. 60 %"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
     "question": "Hvem står for driften af folkeskolerne?",
     "options": {
       "A": "Staten",
@@ -921,15 +871,6 @@
       "A": "Mindst hvert 2. år",
       "B": "Mindst hvert 4. år",
       "C": "Mindst hvert 6. år"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvem vælger en tillidsrepræsentant på en arbejdsplads?",
-    "options": {
-      "A": "Arbejdsgiveren",
-      "B": "Medarbejderne"
     },
     "correct": "B"
   },
@@ -992,15 +933,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvad er en straffeattest?",
-    "options": {
-      "A": "Et dokument, man skal vise til politiet, hvis man bliver anholdt",
-      "B": "Et dokument, der viser, om man har været straffet for visse forbrydelser"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
     "question": "Hvornår levede forfatteren H.C. Andersen?",
     "options": {
       "A": "1805-1875",
@@ -1049,7 +981,7 @@
   },
   {
     "exam": "real",
-    "question": "Hvor gamle er børn normalt, når de begynder i 0. klasse i skolen?",
+    "question": "Hvor gamle er børn normalt, når they begynder i 0. klasse i skolen?",
     "options": {
       "A": "3-4 år",
       "B": "5-6 år",
@@ -1072,16 +1004,6 @@
     "options": {
       "A": "Ja",
       "B": "Nej"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvor mange kommuner er der i Danmark?",
-    "options": {
-      "A": "68",
-      "B": "98",
-      "C": "128"
     },
     "correct": "B"
   },
@@ -1153,16 +1075,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvor ofte er der valg til kommunalbestyrelser og regionsråd?",
-    "options": {
-      "A": "Hvert 3. år",
-      "B": "Hvert 4. år",
-      "C": "Hvert 5. år"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
     "question": "Ved hvilken by i Jylland ligger Danmarks nordligste punkt Grenen?",
     "options": {
       "A": "Skagen",
@@ -1202,15 +1114,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvortil kan man anke en afgørelse fra byretten?",
-    "options": {
-      "A": "Landsretten",
-      "B": "Højesteret"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
     "question": "Hvor var danske soldater blandt andet udsendt til i 1990’erne som en del af FN’s styrker?",
     "options": {
       "A": "Afghanistan",
@@ -1218,16 +1121,6 @@
       "C": "Libyen"
     },
     "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvordan bliver det afgjort, hvem der skal være konge eller dronning i Danmark?",
-    "options": {
-      "A": "Den nye konge eller dronning arver tronen",
-      "B": "Den nye konge eller dronning vælges af Folketinget",
-      "C": "Den nye konge eller dronning udpeges af regeringen"
-    },
-    "correct": "A"
   },
   {
     "exam": "real",
@@ -1288,16 +1181,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvad er værnepligt?",
-    "options": {
-      "A": "Pligten til at betale skat til staten",
-      "B": "Pligten til at forsvare Danmark",
-      "C": "Pligten til at passe på sin familie"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
     "question": "Har man ifølge Grundloven ret til at danne foreninger i Danmark?",
     "options": {
       "A": "Ja",
@@ -1337,16 +1220,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvordan bliver det afgjort, hvem der skal være konge eller dronning i Danmark?",
-    "options": {
-      "A": "Folketinget vælger den bedst kvalificerede",
-      "B": "Det bliver afgjort gennem en folkeafstemning",
-      "C": "Den kommende konge eller dronning arver tronen"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
     "question": "Hvornår er Danmarks Riges Grundlov fra?",
     "options": {
       "A": "1649",
@@ -1354,16 +1227,6 @@
       "C": "1849"
     },
     "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad hedder farvandet mellem Fyn og Sjælland?",
-    "options": {
-      "A": "Storebælt",
-      "B": "Kattegat",
-      "C": "Øresund"
-    },
-    "correct": "A"
   },
   {
     "exam": "real",
@@ -1393,26 +1256,6 @@
       "C": "Pinse"
     },
     "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvornår er det påske?",
-    "options": {
-      "A": "Om foråret",
-      "B": "Om sommeren",
-      "C": "Om efteråret"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
-    "question": "Hvor gammel skal man normalt være for at blive gift i Danmark?",
-    "options": {
-      "A": "15 år",
-      "B": "18 år",
-      "C": "21 år"
-    },
-    "correct": "B"
   },
   {
     "exam": "real",
@@ -1466,16 +1309,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvilken organisation blev Danmark medlem af i 1945?",
-    "options": {
-      "A": "Forenede Nationer (FN)",
-      "B": "Det Europæiske Fællesskab (EF)",
-      "C": "Nordisk Ministerråd"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
     "question": "Af hvem bliver tillidsrepræsentanten på en arbejdsplads valgt?",
     "options": {
       "A": "Medarbejderne og arbejdsgiveren i fællesskab",
@@ -1502,16 +1335,6 @@
       "B": "Nej"
     },
     "correct": "A"
-  },
-  {
-    "exam": "real",
-    "question": "Hvem har den dømmende magt?",
-    "options": {
-      "A": "Regeringen",
-      "B": "Folketinget",
-      "C": "Domstolene"
-    },
-    "correct": "C"
   },
   {
     "exam": "real",
@@ -1605,16 +1428,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvor mange regioner er der i Danmark?",
-    "options": {
-      "A": "3",
-      "B": "5",
-      "C": "7"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
     "question": "Hvad fejres hvert år den 5. juni?",
     "options": {
       "A": "Grundlovsdag",
@@ -1625,28 +1438,10 @@
   },
   {
     "exam": "real",
-    "question": "Er vaccinationer mod børnesygdommene mæslinger, fåresyge og røde hunde, MFR-vaccinen, gratis?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
     "question": "Hvad er et samarbejdsudvalg på en arbejdsplads?",
     "options": {
       "A": "Et samarbejde mellem medlemmer af forskellige fagforeninger",
       "B": "Et samarbejde mellem ledelsen og de ansatte"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Må en arbejdsgiver fyre en kvinde, fordi hun er gravid?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
     },
     "correct": "B"
   },
@@ -1701,15 +1496,6 @@
   },
   {
     "exam": "real",
-    "question": "Betyder en betinget fængselsstraf, at man kan undgå at komme i fængsel?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
     "question": "Hvilken rettighed er sikret i den danske grundlov?",
     "options": {
       "A": "Retten til at bære våben",
@@ -1717,15 +1503,6 @@
       "C": "Retten til at forsamles"
     },
     "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Skal forældrene normalt betale noget for, at deres børn går i en friskole eller privatskole?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "correct": "B"
   },
   {
     "exam": "real",
@@ -1746,25 +1523,6 @@
       "C": "Arbejdsgiveren"
     },
     "correct": "A"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad hedder farvandet mellem Jylland og Fyn?",
-    "options": {
-      "A": "Øresund",
-      "B": "Storebælt",
-      "C": "Lillebælt"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Er det gratis at være medlem af en fagforening?",
-    "options": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "correct": "B"
   },
   {
     "exam": "real",
@@ -1807,36 +1565,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvordan er stemmeprocenten normalt i Danmark ved valg til Europa-Parlamentet?",
-    "options": {
-      "A": "På samme niveau som ved folketingsvalg",
-      "B": "Højere end ved folketingsvalg",
-      "C": "Lavere end ved folketingsvalg"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad er en straffeattest?",
-    "options": {
-      "A": "Et dokument, man skal vise til politiet, hvis man bliver anholdt",
-      "B": "Et dokument, man skal udfylde, hvis man ønsker at blive dansk statsborger",
-      "C": "Et dokument, der viser, om man har været straffet"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad er den højeste karakter på 7-trins-skalaen?",
-    "options": {
-      "A": "7",
-      "B": "10",
-      "C": "12"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
     "question": "Mange retssager afgøres i Byretten. Hvor kan man anke en afgørelse herfra, som man er uenig i?",
     "options": {
       "A": "Landsretten",
@@ -1853,16 +1581,6 @@
       "C": "På Fyn"
     },
     "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvor mange regioner er Danmark opdelt i?",
-    "options": {
-      "A": "5",
-      "B": "7",
-      "C": "9"
-    },
-    "correct": "A"
   },
   {
     "exam": "real",
@@ -1892,26 +1610,6 @@
       "C": "Befrielsen af Danmark efter Anden Verdenskrig"
     },
     "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvor mange års undervisningspligt er der i Danmark?",
-    "options": {
-      "A": "7 år",
-      "B": "10 år",
-      "C": "12 år"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvornår kan man tidligst få SU (Statens Uddannelsesstøtte)?",
-    "options": {
-      "A": "Når man fylder 15 år",
-      "B": "Når man fylder 18 år",
-      "C": "Når man fylder 21 år"
-    },
-    "correct": "B"
   },
   {
     "exam": "real",
@@ -2011,16 +1709,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvad er normalt ikke gratis for voksne i Danmark?",
-    "options": {
-      "A": "At gå til læge",
-      "B": "At komme på hospitalet",
-      "C": "At gå til tandlæge"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
     "question": "Hvor højt er Danmarks højeste geografiske punkt?",
     "options": {
       "A": "Ca. 590 meter",
@@ -2031,15 +1719,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvilke lande er der i det danske rigsfællesskab?",
-    "options": {
-      "A": "Danmark, Grønland og Færøerne",
-      "B": "Danmark, Island og Norge"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
     "question": "Hvad hedder den karakterskala, der anvendes i det danske uddannelsessystem?",
     "options": {
       "A": "13-trinsskalaen",
@@ -2047,15 +1726,6 @@
       "C": "7-trinsskalaen"
     },
     "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvem har den lovgivende magt?",
-    "options": {
-      "A": "Regeringen og Folketinget",
-      "B": "Folketinget og domstolen"
-    },
-    "correct": "A"
   },
   {
     "exam": "real",
@@ -2099,16 +1769,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvor mange medlemmer har Folketinget?",
-    "options": {
-      "A": "59",
-      "B": "119",
-      "C": "179"
-    },
-    "correct": "C"
-  },
-  {
-    "exam": "real",
     "question": "Hvad fremstiller den danske virksomhed LEGO?",
     "options": {
       "A": "Insulin",
@@ -2116,15 +1776,6 @@
       "C": "Byggeklodser"
     },
     "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Kan man få dagpenge ved arbejdsløshed uden at være medlem af en arbejdsløshedskasse?",
-    "options": {
-      "A": "Nej",
-      "B": "Ja"
-    },
-    "correct": "A"
   },
   {
     "exam": "real",
@@ -2138,26 +1789,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvem er den øverste politiske leder af en kommune?",
-    "options": {
-      "A": "En major",
-      "B": "En borgmester",
-      "C": "En kommunaldirektør"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvor tit er der valg til kommunalbestyrelser og regionsråd?",
-    "options": {
-      "A": "Hvert tredje år",
-      "B": "Hvert fjerde år",
-      "C": "Hvert femte år"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
     "question": "Hvor kan man få en uddannelse til elektriker?",
     "options": {
       "A": "På et gymnasium",
@@ -2165,25 +1796,6 @@
       "C": "På en erhvervsskole"
     },
     "correct": "C"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad hedder farvandet mellem Sjælland og Sverige?",
-    "options": {
-      "A": "Øresund",
-      "B": "Kattegat",
-      "C": "Lillebælt"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
-    "question": "Hvad er værnepligt?",
-    "options": {
-      "A": "Pligten til at være soldat",
-      "B": "Pligten til at forsørge sin familie"
-    },
-    "correct": "A"
   },
   {
     "exam": "real",
@@ -2211,7 +1823,7 @@
     "options": {
       "A": "Ingen",
       "B": "En",
-      "C": "To"
+      "C": "Two"
     },
     "correct": "A"
   },
@@ -2276,16 +1888,6 @@
   },
   {
     "exam": "real",
-    "question": "Hvad hedder Danmarks forfatning?",
-    "options": {
-      "A": "Grundloven",
-      "B": "Danske Lov",
-      "C": "Kongeloven"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
     "question": "Hvilken rolle har dronningen blandt andet?",
     "options": {
       "A": "Hun repræsenterer den danske regering i EU",
@@ -2296,70 +1898,10 @@
   },
   {
     "exam": "real",
-    "question": "Hvilken af følgende virksomheder producerer medicin?",
-    "options": {
-      "A": "Novo Nordisk",
-      "B": "Mærsk",
-      "C": "Vestas"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
-    "question": "Hvor mange af medlemmerne af Folketinget er kvinder?",
-    "options": {
-      "A": "Ca. 20 %",
-      "B": "Ca. 40 %",
-      "C": "Ca. 60 %"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvem har ansvaret for de offentlige sygehuse?",
-    "options": {
-      "A": "Kommunerne",
-      "B": "Regionerne",
-      "C": "Staten"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvor mange års undervisningspligt har danske børn?",
-    "options": {
-      "A": "10",
-      "B": "12",
-      "C": "13"
-    },
-    "correct": "A"
-  },
-  {
-    "exam": "real",
-    "question": "Hvor længe kan politiet tilbageholde en borger, der er anholdt, før borgeren skal stilles for en dommer?",
-    "options": {
-      "A": "24 timer",
-      "B": "48 timer",
-      "C": "72 timer"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
     "question": "Kan arbejdsgiveren forlange, at medarbejderne skal gå på deltid?",
     "options": {
       "A": "Ja",
       "B": "Nej"
-    },
-    "correct": "B"
-  },
-  {
-    "exam": "real",
-    "question": "Hvor mange procent af lønmodtagerne i Danmark er medlem af en a-kasse?",
-    "options": {
-      "A": "Ca. 30 %",
-      "B": "Ca. 50 %",
-      "C": "Ca. 70 %"
     },
     "correct": "B"
   },
